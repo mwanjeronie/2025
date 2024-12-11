@@ -20,7 +20,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UPCOMING - https://www.openhackathons.org/s/upcoming-events
 - [ ] UPCOMING - https://mlh.io/seasons/2025/events
 - [ ] Climate Fellowship - https://tinyurl.com/yzwx54vc JAN 15
+- [ ] Steward Leadership https://tinyurl.com/2zevua35 JAN 31
 
+## Scholarships
+- [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
+- [ ] 
 ## Reads
 - [ ] https://www.free-ebooks.net/poetry/The-Woman
 - [ ] https://www.free-ebooks.net/excerpt/Becoming-Your-Best-Self
