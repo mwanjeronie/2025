@@ -29,6 +29,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Future Diplomats Forum https://tinyurl.com/2p8br8bw JAN 3
 
+
 ## Scholarships
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
 - [ ] 
