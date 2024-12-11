@@ -21,6 +21,13 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UPCOMING - https://mlh.io/seasons/2025/events
 - [ ] Climate Fellowship - https://tinyurl.com/yzwx54vc JAN 15
 - [ ] Steward Leadership https://tinyurl.com/2zevua35 JAN 31
+- [ ] VBC Summer School https://tinyurl.com/46kwn8n7 JAN 1
+- [ ] IARC Summer School https://opportunitiescorners.com/iarc-summer-school/ JAN 1
+- [ ] Canada Cultural Exchange - https://tinyurl.com/yc6s93b3 JAN 31
+- [ ] 13th IAS Conference https://tinyurl.com/2sb7ptmx JAN 5
+- [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
+- [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
+- [ ] Future Diplomats Forum https://tinyurl.com/2p8br8bw JAN 3
 
 ## Scholarships
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
