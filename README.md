@@ -30,6 +30,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Future Diplomats Forum https://tinyurl.com/2p8br8bw JAN 3
 - [ ] Docusign Hackathon - https://unlocked.devpost.com/ JAN 1
 - [ ] One Young World Summit - https://tinyurl.com/t4wedpad APR 20
+- [ ] 2025 PRME Global Forum  - https://tinyurl.com/278yw4xe  JAN 8
+- [ ] Train the Trainer https://ttt-kenya.paperform.co/ JAN 26
 - [ ] 
 
 
