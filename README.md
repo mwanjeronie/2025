@@ -25,6 +25,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IARC Summer School https://opportunitiescorners.com/iarc-summer-school/ JAN 1
 - [ ] Canada Cultural Exchange - https://tinyurl.com/yc6s93b3 JAN 31
 - [ ] 13th IAS Conference https://tinyurl.com/2sb7ptmx JAN 5
+- [ ] OHCHR-EAA Youth Rights Academy https://tinyurl.com/35cn74bb JAN 1
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Future Diplomats Forum https://tinyurl.com/2p8br8bw JAN 3
