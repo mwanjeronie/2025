@@ -34,6 +34,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] One Young World Summit - https://tinyurl.com/t4wedpad APR 20
 - [ ] 2025 PRME Global Forum  - https://tinyurl.com/278yw4xe  JAN 8
 - [ ] Train the Trainer https://ttt-kenya.paperform.co/ JAN 26
+- [ ] beVisioneers - https://tinyurl.com/4es6dsfk JAN 4
+- [ ] Africa Youth Tourism Challenge - https://tinyurl.com/f5t4ua4x JAN 31
 - [ ] 
 
 
