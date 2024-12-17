@@ -36,12 +36,20 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Train the Trainer https://ttt-kenya.paperform.co/ JAN 26
 - [ ] beVisioneers - https://tinyurl.com/4es6dsfk JAN 4
 - [ ] Africa Youth Tourism Challenge - https://tinyurl.com/f5t4ua4x JAN 31
-- [ ] 
+- [ ] Millennium Oceans Prize - https://www.millenniumoceans.org/ JAN 1
+- [ ] Trinity Society of Fellows - https://tinyurl.com/2yr7kzwa JAN 11
+- [ ] The Dutch MFA 1 Young World - https://tinyurl.com/3ep96jys FEB 1
+- [ ] The Ford Philanthropy Mobility Fellowship - https://tinyurl.com/yrxpukbt JAN 3
+- [ ] Digital Rights and Inclusion Forum - https://tinyurl.com/4cp9vxxf JAN 20
+- [ ] AFRIPAL https://afripal.org/ FEB 18
+
+JOBS
+- [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
 
 
 ## Scholarships
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
-- [ ] 
+- [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
 ## Reads
 - [ ] https://www.free-ebooks.net/poetry/The-Woman
 - [ ] https://www.free-ebooks.net/excerpt/Becoming-Your-Best-Self
