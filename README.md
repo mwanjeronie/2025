@@ -43,6 +43,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Digital Rights and Inclusion Forum - https://tinyurl.com/4cp9vxxf JAN 20
 - [ ] AFRIPAL https://afripal.org/ FEB 18
 
+
 JOBS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
 
