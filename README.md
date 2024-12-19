@@ -85,5 +85,6 @@ JOBS & INTERNSHIPS
 - [ ] GPT 40 Business Ideas - https://tinyurl.com/pra5236w
 - [ ] ASHU - https://ashujha.xyz/
 - [ ] TADHack 2025 - https://tinyurl.com/ycxwk747 SEPT 11
+- [ ] NCL Faces up - https://tinyurl.com/377d6kv7 JAN 6
 
 
