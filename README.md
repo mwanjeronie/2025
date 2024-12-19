@@ -34,18 +34,22 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] One Young World Summit - https://tinyurl.com/t4wedpad APR 20
 - [ ] 2025 PRME Global Forum  - https://tinyurl.com/278yw4xe  JAN 8
 - [ ] Train the Trainer https://ttt-kenya.paperform.co/ JAN 26
+- [ ] Aspire Leaders Program https://tinyurl.com/bdewa974 FEB 3
 - [ ] beVisioneers - https://tinyurl.com/4es6dsfk JAN 4
 - [ ] Africa Youth Tourism Challenge - https://tinyurl.com/f5t4ua4x JAN 31
 - [ ] Millennium Oceans Prize - https://www.millenniumoceans.org/ JAN 1
 - [ ] Trinity Society of Fellows - https://tinyurl.com/2yr7kzwa JAN 11
+- [ ] Summer Research Fellowship  - https://tinyurl.com/29tr2k9j JAN 1
 - [ ] The Dutch MFA 1 Young World - https://tinyurl.com/3ep96jys FEB 1
 - [ ] The Ford Philanthropy Mobility Fellowship - https://tinyurl.com/yrxpukbt JAN 3
 - [ ] Digital Rights and Inclusion Forum - https://tinyurl.com/4cp9vxxf JAN 20
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] Wilkes-climate Prize https://tinyurl.com/4seth2tu FEB 3 
 
 
-JOBS
+JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
+- [ ] Max Planck Institute - https://www.cis.mpg.de/internships/ FEB 10
 
 
 ## Scholarships
