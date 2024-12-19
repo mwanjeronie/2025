@@ -44,22 +44,31 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] The Ford Philanthropy Mobility Fellowship - https://tinyurl.com/yrxpukbt JAN 3
 - [ ] Digital Rights and Inclusion Forum - https://tinyurl.com/4cp9vxxf JAN 20
 - [ ] AFRIPAL https://afripal.org/ FEB 18
-- [ ] Wilkes-climate Prize https://tinyurl.com/4seth2tu FEB 3 
+- [ ] Wilkes-climate Prize https://tinyurl.com/4seth2tu FEB 3
+- [ ] GRIST Journalism Fellowship -  https://tinyurl.com/yzpaz9jr JAN 5
+- [ ] Google for Startups Accelerator - https://tinyurl.com/3fy669xu JAN 25
+- [ ] YID Fellowship - https://impacttoolbox.org/yid/ JAN 20
+- [ ] Smartphone Photography Competition https://site.picter.com/spc-2024 JAN 15
 
-
+ 
 JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
 - [ ] Max Planck Institute - https://www.cis.mpg.de/internships/ FEB 10
+- [ ] Student Energy Interns - https://studentenergy.tfaforms.net/175 FEB 1
 
 
 ## Scholarships
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
 - [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
+- [ ] E-JUST - https://www.ejust.edu.eg/int-scholarships JAN 20
+- [ ] The Queen Elizabeth Commonwealth Scholarship https://tinyurl.com/yc6rynaf JAN 30
+
 ## Reads
 - [ ] https://www.free-ebooks.net/poetry/The-Woman
 - [ ] https://www.free-ebooks.net/excerpt/Becoming-Your-Best-Self
 - [ ] https://www.free-ebooks.net/psychology/Failed-Intellect-Successful-Criminality-Doomed-Humanity
 - [ ] BTC IS HERE TO STAY https://hackernoon.com/bitcoin-is-not-a-threat-it-is-a-boon-d2218a823db7
+- [ ] The Bitcoin Development Fund https://tinyurl.com/2s4fefz3
 
 
 ## Ambassadorships
