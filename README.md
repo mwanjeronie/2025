@@ -72,7 +72,7 @@ JOBS & INTERNSHIPS
 
 
 ## Ambassadorships
-- [ ] State of Mobile 2025 report - https://shorturl.at/JS239
+- [ ] 
 
 ## Reading
 - [ ] State of Mobile 2025 report - https://shorturl.at/JS239
