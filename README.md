@@ -55,6 +55,7 @@ JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
 - [ ] Max Planck Institute - https://www.cis.mpg.de/internships/ FEB 10
 - [ ] Student Energy Interns - https://studentenergy.tfaforms.net/175 FEB 1
+- [ ] UNICEF Internships - https://www.unicef.org/careers/internships OPEN
 
 
 ## Scholarships
