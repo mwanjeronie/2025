@@ -39,14 +39,17 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Millennium Oceans Prize - https://www.millenniumoceans.org/ JAN 1
 - [ ] Trinity Society of Fellows - https://tinyurl.com/2yr7kzwa JAN 11
 - [ ] Summer Research Fellowship  - https://tinyurl.com/29tr2k9j JAN 1
-- [ ] 
 - [ ] The Ford Philanthropy Mobility Fellowship - https://tinyurl.com/yrxpukbt JAN 3
 - [ ] Digital Rights and Inclusion Forum - https://tinyurl.com/4cp9vxxf JAN 20
 - [ ] GRIST Journalism Fellowship -  https://tinyurl.com/yzpaz9jr JAN 5
 - [ ] Google for Startups Accelerator - https://tinyurl.com/3fy669xu JAN 25
 - [ ] YID Fellowship - https://impacttoolbox.org/yid/ JAN 20
 - [ ] Smartphone Photography Competition https://site.picter.com/spc-2024 JAN 15
-- [ ] 
+- [ ] Yenching Global Symposium https://tinyurl.com/mszjderv JAN 1
+- [ ] World Bank Group Youth Summit https://tinyurl.com/3dkwakv3 JAN 15
+- [ ] Jacobs Foundation Research Fellowship https://tinyurl.com/yaeawft7 JAN 20
+- [ ] RAG 'n' ROLL Amp https://tinyurl.com/4dabz67j JAN 5
+- [ ] Zest for Africa Challenge https://tinyurl.com/3uexfhux JAN 5
 
 ## FEB
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
@@ -75,17 +78,20 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## JUL
 - [ ] 
 
-JOBS & INTERNSHIPS
+## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
 - [ ] Max Planck Institute - https://www.cis.mpg.de/internships/ FEB 10
 - [ ] Student Energy Interns - https://studentenergy.tfaforms.net/175 FEB 1
 - [ ] UNICEF Internships - https://www.unicef.org/careers/internships OPEN
+- [ ] Programme Development Manager https://tinyurl.com/4xsyhpny  JAN 5
+- [ ] WAFF's Three Dot Dash - 2025 Global Teen Leader https://tinyurl.com/55zhjj8d JAN 20
 
 ## Scholarships
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
 - [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
 - [ ] E-JUST - https://www.ejust.edu.eg/int-scholarships JAN 20
 - [ ] The Queen Elizabeth Commonwealth Scholarship https://tinyurl.com/yc6rynaf JAN 30
+- [ ] Graduate Study Programme https://tinyurl.com/47wm7xeb 
 
 ## Reads
 - [ ] https://www.free-ebooks.net/poetry/The-Woman
