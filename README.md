@@ -18,7 +18,7 @@ If you find this tracker helpful, please consider giving it a star 🌟! Feel fr
 ## 📌 Follow Me
 Stay connected and follow me on GitHub for more updates and resources.
 
-## Hackathons, Competitions + Fellowships
+## Hackathons, Competitions + Fellowships + MORE....
 - [ ] UPCOMING - https://www.openhackathons.org/s/upcoming-events
 - [ ] UPCOMING - https://mlh.io/seasons/2025/events
 - [ ] Climate Fellowship - https://tinyurl.com/yzwx54vc JAN 15
