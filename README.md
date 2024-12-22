@@ -49,7 +49,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Bank Group Youth Summit https://tinyurl.com/3dkwakv3 JAN 15
 - [ ] Jacobs Foundation Research Fellowship https://tinyurl.com/yaeawft7 JAN 20
 - [ ] RAG 'n' ROLL Amp https://tinyurl.com/4dabz67j JAN 5
-- [ ] Zest for Africa Challenge https://tinyurl.com/3uexfhux JAN 5
+- [ ] Zest for Africa Challenge https://tinyurl.com/3uexfhux JAN 4
 
 ## FEB
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
