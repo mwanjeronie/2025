@@ -58,6 +58,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Wilkes-climate Prize https://tinyurl.com/4seth2tu FEB 3
 - [ ] The Dutch MFA 1 Young World - https://tinyurl.com/3ep96jys FEB 1
 - [ ] Aspire Leaders Program https://tinyurl.com/bdewa974 FEB 3
+- [ ] Black Hat Student Scholarship https://tinyurl.com/mr3957su FEB 10
 
 ## MAR
 - [ ] 
