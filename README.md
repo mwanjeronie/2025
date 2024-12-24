@@ -85,6 +85,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Student Energy Interns - https://studentenergy.tfaforms.net/175 FEB 1
 - [ ] UNICEF Internships - https://www.unicef.org/careers/internships OPEN
 - [ ] Programme Development Manager https://tinyurl.com/4xsyhpny  JAN 5
+- [ ] UNFPA Remote Internship https://lnkd.in/dnrgVWHq JAN 1
 - [ ] WAFF's Three Dot Dash - 2025 Global Teen Leader https://tinyurl.com/55zhjj8d JAN 20
 
 ## Scholarships
