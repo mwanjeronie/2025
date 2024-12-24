@@ -53,6 +53,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] OHCHR-EAA Youth Rights Academy https://tinyurl.com/4xj3zdy5 JAN 5
 - [ ] InsurAI Accelerator https://tinyurl.com/2hdajtvw JAN 2
 - [ ] EnergyTech University Prize - https://www.herox.com/EnergyTechUP JAN 25
+- [ ] Watson bmo-fellowship https://tinyurl.com/mrxt9j72 JAN 11
+- [ ] Commonwealth Startup Fellowship https://tinyurl.com/bdkv44j6 JAN 5
+- [ ] Trinity Leadership Fellows https://tinyurl.com/5n74jd3c JAN 22
+- [ ] Migration and Technology Fellowship https://tinyurl.com/4fny27xc DEC 28 2024
+- [ ] Accelerate Africa Program - https://www.acceler8.africa/ JAN 4
 - [ ] 
  
 ## FEB
@@ -64,6 +69,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Aspire Leaders Program https://tinyurl.com/bdewa974 FEB 3
 - [ ] Black Hat Student Scholarship https://tinyurl.com/mr3957su FEB 10
 - [ ] Eco Skills Challenge https://tinyurl.com/37hw6y9x FEB 1
+- [ ] Earth Journalism Network  https://tinyurl.com/2wukn4yz FEB 10
+- [ ] Massachusetts Climatetech Studio Program - https://tinyurl.com/3z2ddycw FEB 15
+- [ ] 
 
 ## MAR
 - [ ] 
@@ -99,7 +107,12 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] E-JUST - https://www.ejust.edu.eg/int-scholarships JAN 20
 - [ ] The Queen Elizabeth Commonwealth Scholarship https://tinyurl.com/yc6rynaf JAN 30
 - [ ] Graduate Study Programme https://tinyurl.com/47wm7xeb
-- [ ] 
+- [ ] Africa Scholarship Programme https://tinyurl.com/3hs3ht49 JAN 20
+- [ ] Nankai University Undergraduate https://tinyurl.com/56vhunm2 MAY 1
+- [ ] Digital Governance Scholarship https://tinyurl.com/4d9zrp7p JAN 5
+- [ ] Erasmus Mundus MAPP https://tinyurl.com/yxzn7cdy JAN 15
+- [ ] Earth University’s MasterCard https://tinyurl.com/4xscv5x4 JAN 15
+- [ ] University of Oxford https://tinyurl.com/bdz2ej4w OPEN
 
 ## Ambassadorships
 - [ ] DLI nvidia - https://tinyurl.com/4bhhcwhk OPEN
@@ -120,3 +133,4 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] ASHU - https://ashujha.xyz/
 - [ ] TADHack 2025 - https://tinyurl.com/ycxwk747 SEPT 11
 - [ ] NCL Faces up - https://tinyurl.com/377d6kv7 JAN 6
+- [ ] Community Solutions 2026 -- WATCH OUT
