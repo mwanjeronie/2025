@@ -50,7 +50,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Jacobs Foundation Research Fellowship https://tinyurl.com/yaeawft7 JAN 20
 - [ ] RAG 'n' ROLL Amp https://tinyurl.com/4dabz67j JAN 5
 - [ ] Zest for Africa Challenge https://tinyurl.com/3uexfhux JAN 4
-
+- [ ] OHCHR-EAA Youth Rights Academy https://tinyurl.com/4xj3zdy5 JAN 5
+- [ ] InsurAI Accelerator https://tinyurl.com/2hdajtvw JAN 2
+- [ ] EnergyTech University Prize - https://www.herox.com/EnergyTechUP JAN 25
+- [ ] 
+ 
 ## FEB
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
@@ -59,6 +63,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] The Dutch MFA 1 Young World - https://tinyurl.com/3ep96jys FEB 1
 - [ ] Aspire Leaders Program https://tinyurl.com/bdewa974 FEB 3
 - [ ] Black Hat Student Scholarship https://tinyurl.com/mr3957su FEB 10
+- [ ] Eco Skills Challenge https://tinyurl.com/37hw6y9x FEB 1
 
 ## MAR
 - [ ] 
@@ -93,7 +98,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
 - [ ] E-JUST - https://www.ejust.edu.eg/int-scholarships JAN 20
 - [ ] The Queen Elizabeth Commonwealth Scholarship https://tinyurl.com/yc6rynaf JAN 30
-- [ ] Graduate Study Programme https://tinyurl.com/47wm7xeb 
+- [ ] Graduate Study Programme https://tinyurl.com/47wm7xeb
+- [ ] 
+
+## Ambassadorships
+- [ ] DLI nvidia - https://tinyurl.com/4bhhcwhk OPEN
 
 ## Reads
 - [ ] https://www.free-ebooks.net/poetry/The-Woman
