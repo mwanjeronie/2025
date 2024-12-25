@@ -60,6 +60,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Accelerate Africa Program - https://www.acceler8.africa/ JAN 4
 - [ ] Local Pathways Fellow https://tinyurl.com/4xbuxvyc JAN 13
 - [ ] Global Essay Competition  - https://tinyurl.com/43hpa5yx JAN 20
+- [ ] Data Enrichment Work - https://tinyurl.com/5d9rht3p JAN 20
  
 ## FEB
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
