@@ -54,11 +54,12 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] InsurAI Accelerator https://tinyurl.com/2hdajtvw JAN 2
 - [ ] EnergyTech University Prize - https://www.herox.com/EnergyTechUP JAN 25
 - [ ] Watson bmo-fellowship https://tinyurl.com/mrxt9j72 JAN 11
-- [ ] Commonwealth Startup Fellowship https://tinyurl.com/bdkv44j6 JAN 5
+- [ ] Commonwealth Startup Fellowship https://tinyurl.com/bdkv44j6 JAN 8
 - [ ] Trinity Leadership Fellows https://tinyurl.com/5n74jd3c JAN 22
 - [ ] Migration and Technology Fellowship https://tinyurl.com/4fny27xc DEC 28 2024
 - [ ] Accelerate Africa Program - https://www.acceler8.africa/ JAN 4
-- [ ] 
+- [ ] Local Pathways Fellow https://tinyurl.com/4xbuxvyc JAN 13
+- [ ] Global Essay Competition  - https://tinyurl.com/43hpa5yx JAN 20
  
 ## FEB
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
