@@ -64,6 +64,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Local Pathways Fellow https://tinyurl.com/4xbuxvyc JAN 13
 - [ ] Global Essay Competition  - https://tinyurl.com/43hpa5yx JAN 20
 - [ ] Data Enrichment Work - https://tinyurl.com/5d9rht3p JAN 20
+- [ ] GELA PGMP - https://shorturl.at/fFIgk JAN 18
+- [ ] 
  
 ## FEB
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
@@ -105,6 +107,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Programme Development Manager https://tinyurl.com/4xsyhpny  JAN 5
 - [ ] UNFPA Remote Internship https://lnkd.in/dnrgVWHq JAN 1
 - [ ] ACU Cordinator - https://shorturl.at/qKXGM JAN 13
+- [ ] Summer 2025 ML Researcher Internship - https://tinyurl.com/5n77v58r JAN 5
 - [ ] WAFF's Three Dot Dash - 2025 Global Teen Leader https://tinyurl.com/55zhjj8d JAN 20
 
 ## Scholarships
@@ -116,6 +119,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Africa Scholarship Programme https://tinyurl.com/3hs3ht49 JAN 20
 - [ ] Nankai University Undergraduate https://tinyurl.com/56vhunm2 MAY 1
 - [ ] Digital Governance Scholarship https://tinyurl.com/4d9zrp7p JAN 5
+- [ ] Vienna Biocenter Summer School https://shorturl.at/IK564 JAN 5
 - [ ] Government of Brunei Darussalam Scholarship - https://shorturl.at/3NEOp JAN 20
 - [ ] Erasmus Mundus MAPP https://tinyurl.com/yxzn7cdy JAN 15
 - [ ] Earth University’s MasterCard https://tinyurl.com/4xscv5x4 JAN 15
