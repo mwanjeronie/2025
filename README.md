@@ -35,6 +35,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 2025 PRME Global Forum  - https://tinyurl.com/278yw4xe  JAN 8
 - [ ] Train the Trainer https://ttt-kenya.paperform.co/ JAN 26
 - [ ] beVisioneers - https://tinyurl.com/4es6dsfk JAN 4
+- [ ] YALI DTA-Digital Transformation  - 
 - [ ] Africa Youth Tourism Challenge - https://tinyurl.com/f5t4ua4x JAN 31
 - [ ] Millennium Oceans Prize - https://www.millenniumoceans.org/ JAN 1
 - [ ] Trinity Society of Fellows - https://tinyurl.com/2yr7kzwa JAN 11
@@ -49,6 +50,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Bank Group Youth Summit https://tinyurl.com/3dkwakv3 JAN 15
 - [ ] Jacobs Foundation Research Fellowship https://tinyurl.com/yaeawft7 JAN 20
 - [ ] RAG 'n' ROLL Amp https://tinyurl.com/4dabz67j JAN 5
+- [ ] Localization Development Accelerator https://shorturl.at/DNMcK JAN 10
 - [ ] Zest for Africa Challenge https://tinyurl.com/3uexfhux JAN 4
 - [ ] Apart AI Hackathon - https://www.apartresearch.com/sprints JAN 15
 - [ ] OHCHR-EAA Youth Rights Academy https://tinyurl.com/4xj3zdy5 JAN 5
@@ -74,7 +76,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Eco Skills Challenge https://tinyurl.com/37hw6y9x FEB 1
 - [ ] Earth Journalism Network  https://tinyurl.com/2wukn4yz FEB 10
 - [ ] Massachusetts Climatetech Studio Program - https://tinyurl.com/3z2ddycw FEB 15
-- [ ] 
+- [ ] Nnaabagereka Mental Health Essay Competition https://shorturl.at/ymk4W FEB 13
 
 ## MAR
 - [ ] 
@@ -102,6 +104,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UNICEF Internships - https://www.unicef.org/careers/internships OPEN
 - [ ] Programme Development Manager https://tinyurl.com/4xsyhpny  JAN 5
 - [ ] UNFPA Remote Internship https://lnkd.in/dnrgVWHq JAN 1
+- [ ] ACU Cordinator - https://shorturl.at/qKXGM JAN 13
 - [ ] WAFF's Three Dot Dash - 2025 Global Teen Leader https://tinyurl.com/55zhjj8d JAN 20
 
 ## Scholarships
@@ -113,6 +116,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Africa Scholarship Programme https://tinyurl.com/3hs3ht49 JAN 20
 - [ ] Nankai University Undergraduate https://tinyurl.com/56vhunm2 MAY 1
 - [ ] Digital Governance Scholarship https://tinyurl.com/4d9zrp7p JAN 5
+- [ ] Government of Brunei Darussalam Scholarship - https://shorturl.at/3NEOp JAN 20
 - [ ] Erasmus Mundus MAPP https://tinyurl.com/yxzn7cdy JAN 15
 - [ ] Earth University’s MasterCard https://tinyurl.com/4xscv5x4 JAN 15
 - [ ] University of Oxford https://tinyurl.com/bdz2ej4w OPEN
