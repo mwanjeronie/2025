@@ -71,6 +71,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] ARSO Continental Essay Competition - https://tinyurl.com/3a9sp4fk FEB 20
 - [ ] Wilkes-climate Prize https://tinyurl.com/4seth2tu FEB 3
 - [ ] The Dutch MFA 1 Young World - https://tinyurl.com/3ep96jys FEB 1
 - [ ] Aspire Leaders Program https://tinyurl.com/bdewa974 FEB 3
