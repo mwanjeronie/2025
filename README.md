@@ -50,6 +50,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Jacobs Foundation Research Fellowship https://tinyurl.com/yaeawft7 JAN 20
 - [ ] RAG 'n' ROLL Amp https://tinyurl.com/4dabz67j JAN 5
 - [ ] Zest for Africa Challenge https://tinyurl.com/3uexfhux JAN 4
+- [ ] Apart AI Hackathon - https://www.apartresearch.com/sprints JAN 15
 - [ ] OHCHR-EAA Youth Rights Academy https://tinyurl.com/4xj3zdy5 JAN 5
 - [ ] InsurAI Accelerator https://tinyurl.com/2hdajtvw JAN 2
 - [ ] EnergyTech University Prize - https://www.herox.com/EnergyTechUP JAN 25
