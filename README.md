@@ -115,6 +115,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Erasmus Mundus MAPP https://tinyurl.com/yxzn7cdy JAN 15
 - [ ] Earth University’s MasterCard https://tinyurl.com/4xscv5x4 JAN 15
 - [ ] University of Oxford https://tinyurl.com/bdz2ej4w OPEN
+- [ ] OIST Japan Internship https://tinyurl.com/57ub74cn MAR 10
+- [ ] NIG Research Internship https://tinyurl.com/yzph26h5 JAN 1
 
 ## Ambassadorships
 - [ ] DLI nvidia - https://tinyurl.com/4bhhcwhk OPEN
