@@ -31,6 +31,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 13th IAS Conference https://tinyurl.com/2sb7ptmx JAN 5
 - [ ] OHCHR-EAA Youth Rights Academy https://tinyurl.com/35cn74bb JAN 1
 - [ ] Future Diplomats Forum https://tinyurl.com/2p8br8bw JAN 3
+- [ ] GeneralCall for Papers: NCHE 6th - https://tinyurl.com/5m88arw9 JAN 3
 - [ ] Docusign Hackathon - https://unlocked.devpost.com/ JAN 1
 - [ ] 2025 PRME Global Forum  - https://tinyurl.com/278yw4xe  JAN 8
 - [ ] Train the Trainer https://ttt-kenya.paperform.co/ JAN 26
