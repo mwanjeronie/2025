@@ -66,6 +66,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Essay Competition  - https://tinyurl.com/43hpa5yx JAN 20
 - [ ] Data Enrichment Work - https://tinyurl.com/5d9rht3p JAN 20
 - [ ] GELA PGMP - https://shorturl.at/fFIgk JAN 18
+- [ ] Eur Asian Border Lab Summer School https://tinyurl.com/yc4stw6t JAN 3
 - [ ] 
  
 ## FEB
