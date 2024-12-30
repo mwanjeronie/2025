@@ -66,7 +66,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Migration and Technology Fellowship https://tinyurl.com/4fny27xc DEC 28 2024
 - [ ] Accelerate Africa Program - https://www.acceler8.africa/ JAN 4
 - [ ] Local Pathways Fellow https://tinyurl.com/4xbuxvyc JAN 13
-- [ ] Global Essay Competition  - https://tinyurl.com/43hpa5yx JAN 20
+- [ ] Global Essay Competition  - https://tinyurl.com/43hpa5yx JAN 20 
 - [ ] Data Enrichment Work - https://tinyurl.com/5d9rht3p JAN 20
 - [ ] GELA PGMP - https://shorturl.at/fFIgk JAN 18
 - [ ] Eur Asian Border Lab Summer School https://tinyurl.com/yc4stw6t JAN 3
