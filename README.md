@@ -41,6 +41,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Millennium Oceans Prize - https://www.millenniumoceans.org/ JAN 1
 - [ ] Trinity Society of Fellows - https://tinyurl.com/2yr7kzwa JAN 11
 - [ ] Summer Research Fellowship  - https://tinyurl.com/29tr2k9j JAN 1
+- [ ] AI Startup Challenge https://zaka.ai/launchpad JAN 2
 - [ ] The Ford Philanthropy Mobility Fellowship - https://tinyurl.com/yrxpukbt JAN 3
 - [ ] Digital Rights and Inclusion Forum - https://tinyurl.com/4cp9vxxf JAN 20
 - [ ] GRIST Journalism Fellowship -  https://tinyurl.com/yzpaz9jr JAN 5
