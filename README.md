@@ -30,13 +30,15 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Canada Cultural Exchange - https://tinyurl.com/yc6s93b3 JAN 31
 - [ ] 13th IAS Conference https://tinyurl.com/2sb7ptmx JAN 5
 - [ ] OHCHR-EAA Youth Rights Academy https://tinyurl.com/35cn74bb JAN 1
-- [ ] Future Diplomats Forum https://tinyurl.com/2p8br8bw JAN 3
+- [ ] Future Diplomats Forum https://tinyurl.com/2p8br8bw JAN 16
+- [ ] Resilient Agriculture Innovation - https://tinyurl.com/4au7swpa JAN 23 
 - [ ] GeneralCall for Papers: NCHE 6th - https://tinyurl.com/5m88arw9 JAN 3
 - [ ] Docusign Hackathon - https://unlocked.devpost.com/ JAN 1
 - [ ] 2025 PRME Global Forum  - https://tinyurl.com/278yw4xe  JAN 8
 - [ ] Train the Trainer https://ttt-kenya.paperform.co/ JAN 26
 - [ ] beVisioneers - https://tinyurl.com/4es6dsfk JAN 4
-- [ ] YALI DTA-Digital Transformation  - 
+- [ ] African Wildlife Foundation https://tinyurl.com/2h4v2bxh JAN 11
+- [ ] YALI DTA-Digital Transformation  - coming soon JAN 10
 - [ ] Africa Youth Tourism Challenge - https://tinyurl.com/f5t4ua4x JAN 31
 - [ ] Millennium Oceans Prize - https://www.millenniumoceans.org/ JAN 1
 - [ ] Trinity Society of Fellows - https://tinyurl.com/2yr7kzwa JAN 11
@@ -110,6 +112,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UNICEF Internships - https://www.unicef.org/careers/internships OPEN
 - [ ] Programme Development Manager https://tinyurl.com/4xsyhpny  JAN 5
 - [ ] UNFPA Remote Internship https://lnkd.in/dnrgVWHq JAN 1
+- [ ] UN-Habitat Urban dESIGN INTERNS - https://tinyurl.com/zh7ycm53 DEC 1 2025
 - [ ] ACU Cordinator - https://shorturl.at/qKXGM JAN 13
 - [ ] Summer 2025 ML Researcher Internship - https://tinyurl.com/5n77v58r JAN 5
 - [ ] WAFF's Three Dot Dash - 2025 Global Teen Leader https://tinyurl.com/55zhjj8d JAN 20
@@ -143,6 +146,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## Reading
 - [ ] State of Mobile 2025 report - https://shorturl.at/JS239
+- [ ] What Google’s quantum computing breakthrough Willow means for the future of bitcoin and other cryptos https://tinyurl.com/rt94dehh
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
