@@ -42,8 +42,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Africa Youth Tourism Challenge - https://tinyurl.com/f5t4ua4x JAN 31
 - [ ] Millennium Oceans Prize - https://www.millenniumoceans.org/ JAN 1
 - [ ] Trinity Society of Fellows - https://tinyurl.com/2yr7kzwa JAN 11
+- [ ] AGNES Climate Governance  https://agnesafrica.org/training-portal/ JAN 3
 - [ ] Summer Research Fellowship  - https://tinyurl.com/29tr2k9j JAN 1
+- [ ] UNDP and Samsung Fellow - https://tinyurl.com/mrtt7t53 JAN 5
 - [ ] AI Startup Challenge https://zaka.ai/launchpad JAN 2
+- [ ] SDGs Campus Ambassador - https://bit.ly/sdgscapc3 JAN 25
 - [ ] The Ford Philanthropy Mobility Fellowship - https://tinyurl.com/yrxpukbt JAN 3
 - [ ] Digital Rights and Inclusion Forum - https://tinyurl.com/4cp9vxxf JAN 20
 - [ ] GRIST Journalism Fellowship -  https://tinyurl.com/yzpaz9jr JAN 5
@@ -70,7 +73,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Data Enrichment Work - https://tinyurl.com/5d9rht3p JAN 20
 - [ ] GELA PGMP - https://shorturl.at/fFIgk JAN 18
 - [ ] Eur Asian Border Lab Summer School https://tinyurl.com/yc4stw6t JAN 3
-- [ ] 
+- [ ] ISINEG - https://isineg.org/ JAN 7 
  
 ## FEB
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
@@ -89,7 +92,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## MAR
 - [ ] 
 - [ ] IDRIS Open Hackathon - https://tinyurl.com/4tc28nbk MAR 26
-- [ ] 
+- [ ] VISA Accelerator https://tinyurl.com/y4kx5eat MAR 1
 
 ## APR
 - [ ] 
@@ -119,8 +122,12 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## Scholarships
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
+- [ ] SCHOLARSHIPS - https://tinyurl.com/4vwa37s7 VARIOUS DEADLINES
 - [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
 - [ ] E-JUST - https://www.ejust.edu.eg/int-scholarships JAN 20
+- [ ] Geneva University - https://tinyurl.com/bddffauw FEB 1
+- [ ] Bristol University - https://tinyurl.com/yck9897b APR 2
+- [ ] Joint Japan WB - https://tinyurl.com/5cxznr23 APR 20
 - [ ] The Queen Elizabeth Commonwealth Scholarship https://tinyurl.com/yc6rynaf JAN 30
 - [ ] Graduate Study Programme https://tinyurl.com/47wm7xeb
 - [ ] Africa Scholarship Programme https://tinyurl.com/3hs3ht49 JAN 20
