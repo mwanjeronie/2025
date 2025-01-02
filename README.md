@@ -31,14 +31,18 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 13th IAS Conference https://tinyurl.com/2sb7ptmx JAN 5
 - [ ] OHCHR-EAA Youth Rights Academy https://tinyurl.com/35cn74bb JAN 1
 - [ ] Future Diplomats Forum https://tinyurl.com/2p8br8bw JAN 16
+- [ ] THRIVE Academy (Agri-Food) - https://tinyurl.com/bdhp7sse JAN 7
 - [ ] Resilient Agriculture Innovation - https://tinyurl.com/4au7swpa JAN 23 
 - [ ] GeneralCall for Papers: NCHE 6th - https://tinyurl.com/5m88arw9 JAN 3
+- [ ] AI for connectivity hackathon - https://tinyurl.com/5n88h5f7 JAN 10
+- [ ] iF Design - https://tinyurl.com/mr38nbrs JAN 25
 - [ ] Docusign Hackathon - https://unlocked.devpost.com/ JAN 1
 - [ ] 2025 PRME Global Forum  - https://tinyurl.com/278yw4xe  JAN 8
 - [ ] Train the Trainer https://ttt-kenya.paperform.co/ JAN 26
 - [ ] beVisioneers - https://tinyurl.com/4es6dsfk JAN 11
 - [ ] African Wildlife Foundation https://tinyurl.com/2h4v2bxh JAN 11
 - [ ] YALI DTA-Digital Transformation  - coming soon JAN 10
+- [ ] Innovations Against Poverty - https://tinyurl.com/227j6n4t JAN 10
 - [ ] Africa Youth Tourism Challenge - https://tinyurl.com/f5t4ua4x JAN 31
 - [ ] Millennium Oceans Prize - https://www.millenniumoceans.org/ JAN 1
 - [ ] Trinity Society of Fellows - https://tinyurl.com/2yr7kzwa JAN 11
@@ -73,12 +77,15 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Data Enrichment Work - https://tinyurl.com/5d9rht3p JAN 20
 - [ ] GELA PGMP - https://shorturl.at/fFIgk JAN 18
 - [ ] Eur Asian Border Lab Summer School https://tinyurl.com/yc4stw6t JAN 3
-- [ ] ISINEG - https://isineg.org/ JAN 7 
+- [ ] ISINEG - https://isineg.org/ JAN 7
+- [ ] Letten Prize https://tinyurl.com/4s57h8zz JAN 28
+- [ ] AFRICA SDG MENTORSHIP - https://tinyurl.com/2d8pm64v JAN 25
  
 ## FEB
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] World Press Institute Fellowship - https://tinyurl.com/2weyrmuf FEB 5
 - [ ] ARSO Continental Essay Competition - https://tinyurl.com/3a9sp4fk FEB 20
 - [ ] Wilkes-climate Prize https://tinyurl.com/4seth2tu FEB 3
 - [ ] The Dutch MFA 1 Young World - https://tinyurl.com/3ep96jys FEB 1
@@ -88,6 +95,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Earth Journalism Network  https://tinyurl.com/2wukn4yz FEB 10
 - [ ] Massachusetts Climatetech Studio Program - https://tinyurl.com/3z2ddycw FEB 15
 - [ ] Nnaabagereka Mental Health Essay Competition https://shorturl.at/ymk4W FEB 13
+- [ ] Future Health Leaders - https://tinyurl.com/yrjd2tpr FEB 25
 
 ## MAR
 - [ ] 
@@ -115,18 +123,33 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UNICEF Internships - https://www.unicef.org/careers/internships OPEN
 - [ ] Programme Development Manager https://tinyurl.com/4xsyhpny  JAN 5
 - [ ] UNFPA Remote Internship https://lnkd.in/dnrgVWHq JAN 1
+- [ ] IMF Fund Internship https://tinyurl.com/55nbsaz4 JAN 6
+- [ ] Google Interns - https://tinyurl.com/y5zx8hku 
+- [ ] Computer Vision Internship - https://tinyurl.com/yb68h5cb JAN 15
+- [ ] World Trade Organization InternshipS - https://www.wto.org/english/thewto_e/vacan_e/iypp_e.htm
 - [ ] UN-Habitat Urban dESIGN INTERNS - https://tinyurl.com/zh7ycm53 DEC 1 2025
 - [ ] ACU Cordinator - https://shorturl.at/qKXGM JAN 13
 - [ ] Summer 2025 ML Researcher Internship - https://tinyurl.com/5n77v58r JAN 5
 - [ ] WAFF's Three Dot Dash - 2025 Global Teen Leader https://tinyurl.com/55zhjj8d JAN 20
+- [ ] 25 sites that offer remote jobS - https://tinyurl.com/bfdu3nxv
 
 ## Scholarships
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
 - [ ] SCHOLARSHIPS - https://tinyurl.com/4vwa37s7 VARIOUS DEADLINES
 - [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
+- [ ] ASP WUR - https://tinyurl.com/2f4a3yhj JAN 20
 - [ ] E-JUST - https://www.ejust.edu.eg/int-scholarships JAN 20
+- [ ] QES - https://tinyurl.com/e4ccj6bx JAN 10
+- [ ] QEC - https://tinyurl.com/yc6rynaf JAN 8
+- [ ] MEXT Scholarship https://tinyurl.com/2km6b2ev JAN 5
+- [ ] VARIOUS SCHOLARSHIPS - https://tinyurl.com/5n8dw2bz JAN 15
+- [ ] Yale Young African Scholars Program - https://tinyurl.com/32j966ph JAN 10
+- [ ] African Graduate Fellowships - https://tinyurl.com/44jv7ubt MAR 31
 - [ ] Geneva University - https://tinyurl.com/bddffauw FEB 1
 - [ ] Bristol University - https://tinyurl.com/yck9897b APR 2
+- [ ] Erasmus Trustfond - https://tinyurl.com/8haxh2z8 JAN 20
+- [ ] BI Presidential Scholarship  - https://tinyurl.com/2p85f2ns FEB 15
+- [ ] David Sainsbury Scholarship - https://tinyurl.com/mshcepm8 MAY 20
 - [ ] Joint Japan WB - https://tinyurl.com/5cxznr23 APR 20
 - [ ] The Queen Elizabeth Commonwealth Scholarship https://tinyurl.com/yc6rynaf JAN 30
 - [ ] Graduate Study Programme https://tinyurl.com/47wm7xeb
@@ -155,6 +178,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## Reading
 - [ ] State of Mobile 2025 report - https://shorturl.at/JS239
 - [ ] What Google’s quantum computing breakthrough Willow means for the future of bitcoin and other cryptos https://tinyurl.com/rt94dehh
+- [ ] HP Free Online Courses 2025 https://careeroppotunities.com/hp-free-online-courses-2025/
+- [ ] LLM Evaluation with Opik https://tinyurl.com/2xy893ta 
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
