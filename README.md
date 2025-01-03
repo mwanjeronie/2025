@@ -80,6 +80,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] ISINEG - https://isineg.org/ JAN 7
 - [ ] Letten Prize https://tinyurl.com/4s57h8zz JAN 28
 - [ ] AFRICA SDG MENTORSHIP - https://tinyurl.com/2d8pm64v JAN 25
+- [ ] Youth Co-Creation - https://tinyurl.com/ye285x56 JAN 9
+- [ ] SG Global Pitch Battle - https://tinyurl.com/5yn733e5 JAN 8
+- [ ] OSV Fellowships & Grants - https://forms.osv.llc/fellowships2025 JAN 6
  
 ## FEB
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
@@ -97,6 +100,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Massachusetts Climatetech Studio Program - https://tinyurl.com/3z2ddycw FEB 15
 - [ ] Nnaabagereka Mental Health Essay Competition https://shorturl.at/ymk4W FEB 13
 - [ ] Future Health Leaders - https://tinyurl.com/yrjd2tpr FEB 25
+- [ ] Africa Youth in Tourism - https://tinyurl.com/5ehfmcux FEB 10
+- [ ] Dutch One Young World Summit - https://tinyurl.com/3ep96jys FEB 15
+- [ ] 
 
 ## MAR
 - [ ] 
@@ -145,6 +151,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] ASP WUR - https://tinyurl.com/2f4a3yhj JAN 20
 - [ ] E-JUST - https://www.ejust.edu.eg/int-scholarships JAN 20
 - [ ] QES - https://tinyurl.com/e4ccj6bx JAN 10
+- [ ] Erasmus Mundus CODAS - https://tinyurl.com/2txsme9b JAN 8
 - [ ] QEC - https://tinyurl.com/yc6rynaf JAN 8
 - [ ] MEXT Scholarship https://tinyurl.com/2km6b2ev JAN 5
 - [ ] VARIOUS SCHOLARSHIPS - https://tinyurl.com/5n8dw2bz JAN 15
@@ -171,6 +178,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## Ambassadorships
 - [ ] DLI nvidia - https://tinyurl.com/4bhhcwhk OPEN
+- [ ] 
+
+## Offers
+- [ ] Notion for Startups - https://www.notion.com/startups?
+- [ ] Builder ai - https://www.builder.ai/events/dreambuilder25?
 
 ## Reads
 - [ ] https://www.free-ebooks.net/poetry/The-Woman
