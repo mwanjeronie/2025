@@ -85,6 +85,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] Tony Elumelu Foundation https://www.tefconnect.com/ FEB 15
 - [ ] World Press Institute Fellowship - https://tinyurl.com/2weyrmuf FEB 5
 - [ ] ARSO Continental Essay Competition - https://tinyurl.com/3a9sp4fk FEB 20
 - [ ] Wilkes-climate Prize https://tinyurl.com/4seth2tu FEB 3
@@ -122,6 +123,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Student Energy Interns - https://studentenergy.tfaforms.net/175 FEB 1
 - [ ] UNICEF Internships - https://www.unicef.org/careers/internships OPEN
 - [ ] Programme Development Manager https://tinyurl.com/4xsyhpny  JAN 5
+- [ ] UTRIP Summer Internship 2024 https://tinyurl.com/4v4thcsb JAN 6
+- [ ] Communications Officer - https://tinyurl.com/y4aa8aju JAN 9
+- [ ] Tsinghua University Amgen Scholars Program https://tinyurl.com/3pwnh2uu JAN 20
+- [ ] SDSN Youth - https://sdsn-youth.breezy.hr/p/335057f5ba15 Regional Focal Point JAN 6
 - [ ] UNFPA Remote Internship https://lnkd.in/dnrgVWHq JAN 1
 - [ ] IMF Fund Internship https://tinyurl.com/55nbsaz4 JAN 6
 - [ ] Google Interns - https://tinyurl.com/y5zx8hku 
