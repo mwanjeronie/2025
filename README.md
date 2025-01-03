@@ -84,11 +84,19 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Youth Co-Creation - https://tinyurl.com/ye285x56 JAN 9
 - [ ] SG Global Pitch Battle - https://tinyurl.com/5yn733e5 JAN 8
 - [ ] OSV Fellowships & Grants - https://forms.osv.llc/fellowships2025 JAN 6
+- [ ] Learning Festival https://tinyurl.com/mujf4255 JAN 10
+- [ ] Charles R. Wall Young African Policy Fellows  - https://tinyurl.com/yp8ukkws JAN 11
+- [ ] Centre for Green Growth's Training https://tinyurl.com/m2dfua58 JAN 20
+- [ ] SustainE Journal CFP - https://tinyurl.com/4tvvw8dz JAN 12
+- [ ] Designing Futures 2050 - https://tinyurl.com/ycxbpsrm JAN 20
+
  
 ## FEB
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] WALD Innovation - https://tinyurl.com/yeyysykk FEB 3
+- [ ] The RestorLife Awards - https://tinyurl.com/bdfv6249 FEB 15
 - [ ] Tony Elumelu Foundation https://www.tefconnect.com/ FEB 15
 - [ ] World Press Institute Fellowship - https://tinyurl.com/2weyrmuf FEB 5
 - [ ] ARSO Continental Essay Competition - https://tinyurl.com/3a9sp4fk FEB 20
