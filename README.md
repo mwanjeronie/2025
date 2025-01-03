@@ -88,7 +88,12 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Charles R. Wall Young African Policy Fellows  - https://tinyurl.com/yp8ukkws JAN 11
 - [ ] Centre for Green Growth's Training https://tinyurl.com/m2dfua58 JAN 20
 - [ ] SustainE Journal CFP - https://tinyurl.com/4tvvw8dz JAN 12
+- [ ] Hansen Leadership Institute - https://tinyurl.com/4rr3frxu JAN 9
+- [ ] Woods Hole Summer Student Fellowship - https://tinyurl.com/2fe4cp4j JAN 20
+- [ ] LawAI Summer Fellowship - https://tinyurl.com/3kc4tkf9 JAN 9
+- [ ] Stanford Fisher Family - https://tinyurl.com/yar5wr29 JAN 9
 - [ ] Designing Futures 2050 - https://tinyurl.com/ycxbpsrm JAN 20
+- [ ] 
 
  
 ## FEB
@@ -117,6 +122,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 
 - [ ] IDRIS Open Hackathon - https://tinyurl.com/4tc28nbk MAR 26
 - [ ] VISA Accelerator https://tinyurl.com/y4kx5eat MAR 1
+- [ ] AYFN JAPAN Summer Culture Camp - https://tinyurl.com/5n94jjtd MAR 20
 
 ## APR
 - [ ] 
@@ -134,6 +140,18 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
+- [ ] List of Fully Funded Summer Programs - https://tinyurl.com/3s5jay38
+- [ ] IST Summer Internship - https://tinyurl.com/yv5pespk JAN 20
+- [ ] University of Hong Kong Summer Program - https://tinyurl.com/3ay89a7d JAN 23
+- [ ] EPFL Life Sciences Summer Research - https://tinyurl.com/4zyx4b3z JAN 15
+- [ ] Merck Innovation Cup - https://tinyurl.com/yycate7u JAN 22
+- [ ] DESY Summer Student Program - https://tinyurl.com/3vyats7w JAN 23
+- [ ] HZDR Summer Student Program - https://tinyurl.com/4snstje5 FEB 9
+- [ ] EUI Leaders Fellowship - https://tinyurl.com/5yhu3xjw JAN 12
+- [ ] GovAI Summer Fellowship - https://tinyurl.com/mr8pn737 JAN 4
+- [ ] UTokyo Amgen Scholars - https://tinyurl.com/5w97pv9s JAN 20
+- [ ] RIPS Summer Internship - https://tinyurl.com/6ydesjhy JAN 18
+- [ ] Purdue University Summer  - https://tinyurl.com/mr8pn737 JAN 10
 - [ ] Max Planck Institute - https://www.cis.mpg.de/internships/ FEB 10
 - [ ] Student Energy Interns - https://studentenergy.tfaforms.net/175 FEB 1
 - [ ] UNICEF Internships - https://www.unicef.org/careers/internships OPEN
@@ -144,7 +162,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] SDSN Youth - https://sdsn-youth.breezy.hr/p/335057f5ba15 Regional Focal Point JAN 6
 - [ ] UNFPA Remote Internship https://lnkd.in/dnrgVWHq JAN 1
 - [ ] IMF Fund Internship https://tinyurl.com/55nbsaz4 JAN 6
-- [ ] Google Interns - https://tinyurl.com/y5zx8hku 
+- [ ] Google Interns - https://tinyurl.com/y5zx8hku
+- [ ] KAIST-X Summer Internship - https://tinyurl.com/4p3n7wsz JAN 22
+- [ ] 
 - [ ] Computer Vision Internship - https://tinyurl.com/yb68h5cb JAN 15
 - [ ] World Trade Organization InternshipS - https://www.wto.org/english/thewto_e/vacan_e/iypp_e.htm
 - [ ] UN-Habitat Urban dESIGN INTERNS - https://tinyurl.com/zh7ycm53 DEC 1 2025
@@ -160,6 +180,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] ASP WUR - https://tinyurl.com/2f4a3yhj JAN 20
 - [ ] E-JUST - https://www.ejust.edu.eg/int-scholarships JAN 20
 - [ ] QES - https://tinyurl.com/e4ccj6bx JAN 10
+- [ ] Erasmus Mundus CYBERUS Scholarship - https://tinyurl.com/ym6r99nf JAN 20
 - [ ] Erasmus Mundus CODAS - https://tinyurl.com/2txsme9b JAN 8
 - [ ] QEC - https://tinyurl.com/yc6rynaf JAN 8
 - [ ] MEXT Scholarship https://tinyurl.com/2km6b2ev JAN 5
