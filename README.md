@@ -105,6 +105,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Tony Elumelu Foundation https://www.tefconnect.com/ FEB 15
 - [ ] World Press Institute Fellowship - https://tinyurl.com/2weyrmuf FEB 5
 - [ ] ARSO Continental Essay Competition - https://tinyurl.com/3a9sp4fk FEB 20
+- [ ] UCC Proposal - https://tinyurl.com/km66fmk4 FEB 10
 - [ ] Wilkes-climate Prize https://tinyurl.com/4seth2tu FEB 3
 - [ ] The Dutch MFA 1 Young World - https://tinyurl.com/3ep96jys FEB 1
 - [ ] Aspire Leaders Program https://tinyurl.com/bdewa974 FEB 3
