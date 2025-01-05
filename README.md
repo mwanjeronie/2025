@@ -149,6 +149,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] DESY Summer Student Program - https://tinyurl.com/3vyats7w JAN 23
 - [ ] HZDR Summer Student Program - https://tinyurl.com/4snstje5 FEB 9
 - [ ] EUI Leaders Fellowship - https://tinyurl.com/5yhu3xjw JAN 12
+- [ ] 2026 Summer Analyst Program - https://tinyurl.com/y32w4mhn JAN 25
 - [ ] GovAI Summer Fellowship - https://tinyurl.com/mr8pn737 JAN 4
 - [ ] UTokyo Amgen Scholars - https://tinyurl.com/5w97pv9s JAN 20
 - [ ] RIPS Summer Internship - https://tinyurl.com/6ydesjhy JAN 18
