@@ -42,7 +42,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Train the Trainer https://ttt-kenya.paperform.co/ JAN 26
 - [ ] beVisioneers - https://tinyurl.com/4es6dsfk JAN 11
 - [ ] African Wildlife Foundation https://tinyurl.com/2h4v2bxh JAN 11
-- [ ] YALI DTA-Digital Transformation  - coming soon JAN 10
+- [ ] YALI DTA-Digital Transformation  - https://sis.yalieastafrica.org/mis/Login/ JAN 13
 - [ ] Innovations Against Poverty - https://tinyurl.com/227j6n4t JAN 10
 - [ ] Africa Youth Tourism Challenge - https://tinyurl.com/f5t4ua4x JAN 31
 - [ ] Millennium Oceans Prize - https://www.millenniumoceans.org/ JAN 1
