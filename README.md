@@ -39,6 +39,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] iF Design - https://tinyurl.com/mr38nbrs JAN 25
 - [ ] Binance Crypto School - https://tinyurl.com/muuk79c7 JAN 15
 - [ ] Docusign Hackathon - https://unlocked.devpost.com/ JAN 1
+- [ ] SPC Founder Fellowship - https://tinyurl.com/3a88z642 JAN 27
 - [ ] 2025 PRME Global Forum  - https://tinyurl.com/278yw4xe  JAN 8
 - [ ] Train the Trainer https://ttt-kenya.paperform.co/ JAN 26
 - [ ] beVisioneers - https://tinyurl.com/4es6dsfk JAN 11
