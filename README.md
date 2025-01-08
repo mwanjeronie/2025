@@ -51,6 +51,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AGNES Climate Governance  https://agnesafrica.org/training-portal/ JAN 3
 - [ ] Summer Research Fellowship  - https://tinyurl.com/29tr2k9j JAN 1
 - [ ] UNDP and Samsung Fellow - https://tinyurl.com/mrtt7t53 JAN 5
+- [ ] UYLS 2025 Maldives https://tinyurl.com/4f296vke JAN 20
 - [ ] AI Startup Challenge https://zaka.ai/launchpad JAN 2
 - [ ] SDGs Campus Ambassador - https://bit.ly/sdgscapc3 JAN 25
 - [ ] The Ford Philanthropy Mobility Fellowship - https://tinyurl.com/yrxpukbt JAN 3
@@ -101,6 +102,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] Global Peace Forum - https://tinyurl.com/3kh2uees FEB 20
 - [ ] WALD Innovation - https://tinyurl.com/yeyysykk FEB 3
 - [ ] The RestorLife Awards - https://tinyurl.com/bdfv6249 FEB 15
 - [ ] Tony Elumelu Foundation https://www.tefconnect.com/ FEB 15
@@ -125,6 +127,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IDRIS Open Hackathon - https://tinyurl.com/4tc28nbk MAR 26
 - [ ] VISA Accelerator https://tinyurl.com/y4kx5eat MAR 1
 - [ ] AYFN JAPAN Summer Culture Camp - https://tinyurl.com/5n94jjtd MAR 20
+- [ ] AYFN Summer Korean Culture Camp https://tinyurl.com/audd3drk MAR 20
 
 ## APR
 - [ ] 
@@ -165,9 +168,13 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] SDSN Youth - https://sdsn-youth.breezy.hr/p/335057f5ba15 Regional Focal Point JAN 6
 - [ ] UNFPA Remote Internship https://lnkd.in/dnrgVWHq JAN 1
 - [ ] IMF Fund Internship https://tinyurl.com/55nbsaz4 JAN 6
+- [ ] Hong Kong Summer Program - https://tinyurl.com/3ay89a7d JAN 25
+- [ ] Jumeirah Group Corporate IT Internship - https://tinyurl.com/bp7zk7ca JAN 19
 - [ ] Google Interns - https://tinyurl.com/y5zx8hku
 - [ ] KAIST-X Summer Internship - https://tinyurl.com/4p3n7wsz JAN 22
-- [ ] 
+- [ ] MBZUAI Research Internship https://tinyurl.com/mvxruuf5 MAR 10
+- [ ] Aalto University International Summer Program - https://tinyurl.com/69u4u595 JAN 20
+- [ ] USTC Research Internship https://tinyurl.com/4w4eyhdz FEB 
 - [ ] Computer Vision Internship - https://tinyurl.com/yb68h5cb JAN 15
 - [ ] World Trade Organization InternshipS - https://www.wto.org/english/thewto_e/vacan_e/iypp_e.htm
 - [ ] UN-Habitat Urban dESIGN INTERNS - https://tinyurl.com/zh7ycm53 DEC 1 2025
