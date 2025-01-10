@@ -108,6 +108,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] AU-EU Youth Action Lab https://aueuyouth.com/youth-action-lab/ FEB 3
 - [ ] Global Peace Forum - https://tinyurl.com/3kh2uees FEB 20
 - [ ] WALD Innovation - https://tinyurl.com/yeyysykk FEB 3
 - [ ] The RestorLife Awards - https://tinyurl.com/bdfv6249 FEB 15
