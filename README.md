@@ -51,6 +51,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Africa Youth Tourism Challenge - https://tinyurl.com/f5t4ua4x JAN 31
 - [ ] Millennium Oceans Prize - https://www.millenniumoceans.org/ JAN 1
 - [ ] Trinity Society of Fellows - https://tinyurl.com/2yr7kzwa JAN 11
+- [ ] TechForward Policy Fellowship - https://tinyurl.com/bdjrpbsj , https://tinyurl.com/bdjrpbsj JAN 20
 - [ ] AGNES Climate Governance  https://agnesafrica.org/training-portal/ JAN 3
 - [ ] Summer Research Fellowship  - https://tinyurl.com/29tr2k9j JAN 1
 - [ ] UNDP and Samsung Fellow - https://tinyurl.com/mrtt7t53 JAN 5
@@ -58,8 +59,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AI Startup Challenge https://zaka.ai/launchpad JAN 2
 - [ ] SDGs Campus Ambassador - https://bit.ly/sdgscapc3 JAN 25
 - [ ] Grace Berlin https://tinyurl.com/y6pzfe33 JAN 14
-- [ ] Women Techsters https://tinyurl.com/3adab7ns JAN 23
+- [ ] AI Masterclass Registration form - https://tinyurl.com/yuw6zh67 JAN 12
 - [ ] 
+- [ ] Women Techsters https://tinyurl.com/3adab7ns JAN 23
+- [ ] Google - Unlock Global Communication with Gemma - https://tinyurl.com/54dmmfnk JAN 12
 - [ ] The Ford Philanthropy Mobility Fellowship - https://tinyurl.com/yrxpukbt JAN 3
 - [ ] Digital Rights and Inclusion Forum - https://tinyurl.com/4cp9vxxf JAN 20
 - [ ] GRIST Journalism Fellowship -  https://tinyurl.com/yzpaz9jr JAN 5
@@ -99,6 +102,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Hansen Leadership Institute - https://tinyurl.com/4rr3frxu JAN 9
 - [ ] Woods Hole Summer Student Fellowship - https://tinyurl.com/2fe4cp4j JAN 20
 - [ ] LawAI Summer Fellowship - https://tinyurl.com/3kc4tkf9 JAN 9
+- [ ] Grants - https://tinyurl.com/2ks7mkek JAN 11
 - [ ] Stanford Fisher Family - https://tinyurl.com/yar5wr29 JAN 9
 - [ ] Designing Futures 2050 - https://tinyurl.com/ycxbpsrm JAN 20
 - [ ] Kingdom Business Entrepreneur  https://tinyurl.com/mvep7f62 Community JAN 31
@@ -108,6 +112,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] (WFF) Young Scientists Group - https://tinyurl.com/4d9adm28 FEB 10
 - [ ] AU-EU Youth Action Lab https://aueuyouth.com/youth-action-lab/ FEB 3
 - [ ] Global Peace Forum - https://tinyurl.com/3kh2uees FEB 20
 - [ ] WALD Innovation - https://tinyurl.com/yeyysykk FEB 3
@@ -138,6 +143,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AYFN JAPAN Summer Culture Camp - https://tinyurl.com/5n94jjtd MAR 20
 - [ ] AYFN Summer Korean Culture Camp https://tinyurl.com/audd3drk MAR 20
 - [ ] PDMA Annual Conference - https://tinyurl.com/ymw828fb MAR 10
+- [ ] 
 
 ## APR
 - [ ] 
@@ -158,6 +164,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IFAD Interns - https://tinyurl.com/2h4p6akn OPEN
 - [ ] List of Fully Funded Summer Programs - https://tinyurl.com/3s5jay38
 - [ ] IST Summer Internship - https://tinyurl.com/yv5pespk JAN 20
+- [ ] IREX Intern - https://tinyurl.com/3jnw8cdk JAN 31
 - [ ] University of Hong Kong Summer Program - https://tinyurl.com/3ay89a7d JAN 23
 - [ ] EPFL Life Sciences Summer Research - https://tinyurl.com/4zyx4b3z JAN 15
 - [ ] Merck Innovation Cup - https://tinyurl.com/yycate7u JAN 22
@@ -198,6 +205,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
 - [ ] SCHOLARSHIPS - https://tinyurl.com/4vwa37s7 VARIOUS DEADLINES
 - [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
+- [ ] MINDS Scholarships - https://minds-africa.org/ FEB 3
+- [ ] Government of Brunei Darussalam Scholarship - https://tinyurl.com/3j8v6k9u FEB 2
+- [ ] 20 BURSARIES POST - https://tinyurl.com/2prpffdb JAN 11
 - [ ] ASP WUR - https://tinyurl.com/2f4a3yhj JAN 20
 - [ ] E-JUST - https://www.ejust.edu.eg/int-scholarships JAN 20
 - [ ] QES - https://tinyurl.com/e4ccj6bx JAN 10
@@ -229,6 +239,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## EVENTS
 - [ ] Africa Media Festival https://barazamedialab.zohobackstage.com/AMF2025 FEB 10
+- [ ] AFS Youth Assembly Grants - JAN 15
 
 ## Ambassadorships
 - [ ] DLI nvidia - https://tinyurl.com/4bhhcwhk OPEN
