@@ -29,6 +29,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IARC Summer School https://opportunitiescorners.com/iarc-summer-school/ JAN 1
 - [ ] Canada Cultural Exchange - https://tinyurl.com/yc6s93b3 JAN 31
 - [ ] 13th IAS Conference https://tinyurl.com/2sb7ptmx JAN 5
+- [ ] Yale Young African Scholars https://africanscholars.yale.edu/ JAN 15
 - [ ] ETHiopia: Builder Residency - https://eth-iopia.xyz/blogs JAN 5
 - [ ] OHCHR-EAA Youth Rights Academy https://tinyurl.com/35cn74bb JAN 1
 - [ ] Future Diplomats Forum https://tinyurl.com/2p8br8bw JAN 16
@@ -111,6 +112,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Press Institute Fellowship - https://tinyurl.com/2weyrmuf FEB 5
 - [ ] ARSO Continental Essay Competition - https://tinyurl.com/3a9sp4fk FEB 20
 - [ ] UCC Proposal - https://tinyurl.com/km66fmk4 FEB 10
+- [ ] Ashoka power of Local challenge https://tinyurl.com/2ftepb2m FEB 10
 - [ ] Wilkes-climate Prize https://tinyurl.com/4seth2tu FEB 3
 - [ ] The Dutch MFA 1 Young World - https://tinyurl.com/3ep96jys FEB 1
 - [ ] Aspire Leaders Program https://tinyurl.com/bdewa974 FEB 3
@@ -140,7 +142,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 
 
 ## JUN
-- [ ] 
+- [ ] IndabaDL https://deeplearningindaba.com/2025/ JUN 20
 - [ ] 
 
 ## JUL
