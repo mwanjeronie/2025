@@ -57,6 +57,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UYLS 2025 Maldives https://tinyurl.com/4f296vke JAN 20
 - [ ] AI Startup Challenge https://zaka.ai/launchpad JAN 2
 - [ ] SDGs Campus Ambassador - https://bit.ly/sdgscapc3 JAN 25
+- [ ] Grace Berlin https://tinyurl.com/y6pzfe33 JAN 14
+- [ ] Women Techsters https://tinyurl.com/3adab7ns JAN 23
+- [ ] 
 - [ ] The Ford Philanthropy Mobility Fellowship - https://tinyurl.com/yrxpukbt JAN 3
 - [ ] Digital Rights and Inclusion Forum - https://tinyurl.com/4cp9vxxf JAN 20
 - [ ] GRIST Journalism Fellowship -  https://tinyurl.com/yzpaz9jr JAN 5
@@ -98,7 +101,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] LawAI Summer Fellowship - https://tinyurl.com/3kc4tkf9 JAN 9
 - [ ] Stanford Fisher Family - https://tinyurl.com/yar5wr29 JAN 9
 - [ ] Designing Futures 2050 - https://tinyurl.com/ycxbpsrm JAN 20
-- [ ] 
+- [ ] Kingdom Business Entrepreneur  https://tinyurl.com/mvep7f62 Community JAN 31
 
  
 ## FEB
@@ -112,6 +115,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Press Institute Fellowship - https://tinyurl.com/2weyrmuf FEB 5
 - [ ] ARSO Continental Essay Competition - https://tinyurl.com/3a9sp4fk FEB 20
 - [ ] UCC Proposal - https://tinyurl.com/km66fmk4 FEB 10
+- [ ] UNDP Timbuktoo Mminetech https://tinyurl.com/yjjc6h4e FEB 1
 - [ ] Ashoka power of Local challenge https://tinyurl.com/2ftepb2m FEB 10
 - [ ] Wilkes-climate Prize https://tinyurl.com/4seth2tu FEB 3
 - [ ] The Dutch MFA 1 Young World - https://tinyurl.com/3ep96jys FEB 1
@@ -150,6 +154,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
+- [ ] IFAD Interns - https://tinyurl.com/2h4p6akn OPEN
 - [ ] List of Fully Funded Summer Programs - https://tinyurl.com/3s5jay38
 - [ ] IST Summer Internship - https://tinyurl.com/yv5pespk JAN 20
 - [ ] University of Hong Kong Summer Program - https://tinyurl.com/3ay89a7d JAN 23
@@ -220,6 +225,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] University of Oxford https://tinyurl.com/bdz2ej4w OPEN
 - [ ] OIST Japan Internship https://tinyurl.com/57ub74cn MAR 10
 - [ ] NIG Research Internship https://tinyurl.com/yzph26h5 JAN 1
+
+## EVENTS
+- [ ] Africa Media Festival https://barazamedialab.zohobackstage.com/AMF2025 FEB 10
 
 ## Ambassadorships
 - [ ] DLI nvidia - https://tinyurl.com/4bhhcwhk OPEN
