@@ -129,6 +129,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] VISA Accelerator https://tinyurl.com/y4kx5eat MAR 1
 - [ ] AYFN JAPAN Summer Culture Camp - https://tinyurl.com/5n94jjtd MAR 20
 - [ ] AYFN Summer Korean Culture Camp https://tinyurl.com/audd3drk MAR 20
+- [ ] PDMA Annual Conference - https://tinyurl.com/ymw828fb MAR 10
 
 ## APR
 - [ ] 
