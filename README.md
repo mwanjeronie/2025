@@ -37,6 +37,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GeneralCall for Papers: NCHE 6th - https://tinyurl.com/5m88arw9 JAN 3
 - [ ] AI for connectivity hackathon - https://tinyurl.com/5n88h5f7 JAN 10
 - [ ] iF Design - https://tinyurl.com/mr38nbrs JAN 25
+- [ ] Edinburgh Visiting Fellowship - https://tinyurl.com/45hevvha JAN 18
 - [ ] Binance Crypto School - https://tinyurl.com/muuk79c7 JAN 15
 - [ ] Docusign Hackathon - https://unlocked.devpost.com/ JAN 1
 - [ ] SPC Founder Fellowship - https://tinyurl.com/3a88z642 JAN 27
