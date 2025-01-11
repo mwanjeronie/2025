@@ -61,7 +61,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] SDGs Campus Ambassador - https://bit.ly/sdgscapc3 JAN 25
 - [ ] Grace Berlin https://tinyurl.com/y6pzfe33 JAN 14
 - [ ] AI Masterclass Registration form - https://tinyurl.com/yuw6zh67 JAN 12
-- [ ] 
+- [ ] Climate Transformation Fund - https://lnkd.in/dmWYCbZb JAN 16
 - [ ] Women Techsters https://tinyurl.com/3adab7ns JAN 23
 - [ ] Google - Unlock Global Communication with Gemma - https://tinyurl.com/54dmmfnk JAN 12
 - [ ] The Ford Philanthropy Mobility Fellowship - https://tinyurl.com/yrxpukbt JAN 3
@@ -97,6 +97,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] SG Global Pitch Battle - https://tinyurl.com/5yn733e5 JAN 8
 - [ ] OSV Fellowships & Grants - https://forms.osv.llc/fellowships2025 JAN 6
 - [ ] Learning Festival https://tinyurl.com/mujf4255 JAN 10
+- [ ] Prince Claus Fund Seed Award https://lnkd.in/dYpmfxJG JAN 18
 - [ ] Charles R. Wall Young African Policy Fellows  - https://tinyurl.com/yp8ukkws JAN 11
 - [ ] Centre for Green Growth's Training https://tinyurl.com/m2dfua58 JAN 20
 - [ ] Hansen Leadership Institute - https://tinyurl.com/4rr3frxu JAN 9
@@ -115,12 +116,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] (WFF) Young Scientists Group - https://tinyurl.com/4d9adm28 FEB 10
 - [ ] AU-EU Youth Action Lab https://aueuyouth.com/youth-action-lab/ FEB 3
 - [ ] Global Peace Forum - https://tinyurl.com/3kh2uees FEB 20
+- [ ] Power of Local Challenge - https://shorturl.at/eahJj FEB 12
 - [ ] WALD Innovation - https://tinyurl.com/yeyysykk FEB 3
 - [ ] The RestorLife Awards - https://tinyurl.com/bdfv6249 FEB 15
 - [ ] Tony Elumelu Foundation https://www.tefconnect.com/ FEB 15
 - [ ] World Press Institute Fellowship - https://tinyurl.com/2weyrmuf FEB 5
 - [ ] ARSO Continental Essay Competition - https://tinyurl.com/3a9sp4fk FEB 20
 - [ ] UCC Proposal - https://tinyurl.com/km66fmk4 FEB 10
+- [ ] McCain Global Leaders Program - https://tinyurl.com/4r4tc4b8 FEB 10
 - [ ] UNDP Timbuktoo Mminetech https://tinyurl.com/yjjc6h4e FEB 1
 - [ ] Ashoka power of Local challenge https://tinyurl.com/2ftepb2m FEB 10
 - [ ] Wilkes-climate Prize https://tinyurl.com/4seth2tu FEB 3
@@ -134,15 +137,19 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Future Health Leaders - https://tinyurl.com/yrjd2tpr FEB 25
 - [ ] Africa Youth in Tourism - https://tinyurl.com/5ehfmcux FEB 10
 - [ ] Dutch One Young World Summit - https://tinyurl.com/3ep96jys FEB 15
+- [ ] Moving Minds Fellowship - https://tinyurl.com/3jvafskv FEB 4
+- [ ] STARTS Prize Africa 2025 - https://lnkd.in/dfQqeXiE FEB 28
+- [ ] Climate Action Window 2025 - https://lnkd.in/dHky-kEZ FEB 1
 - [ ] 
 
 ## MAR
-- [ ] 
+- [ ] World IP Day Youth Video Competition MAR 4
 - [ ] IDRIS Open Hackathon - https://tinyurl.com/4tc28nbk MAR 26
 - [ ] VISA Accelerator https://tinyurl.com/y4kx5eat MAR 1
 - [ ] AYFN JAPAN Summer Culture Camp - https://tinyurl.com/5n94jjtd MAR 20
 - [ ] AYFN Summer Korean Culture Camp https://tinyurl.com/audd3drk MAR 20
 - [ ] PDMA Annual Conference - https://tinyurl.com/ymw828fb MAR 10
+- [ ] Summer School on Digital and Green Transitions https://tinyurl.com/3esmxpev MAR 3
 - [ ] 
 
 ## APR
