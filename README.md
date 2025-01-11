@@ -48,6 +48,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] African Wildlife Foundation https://tinyurl.com/2h4v2bxh JAN 11
 - [ ] YALI DTA-Digital Transformation  - https://sis.yalieastafrica.org/mis/Login/ JAN 13
 - [ ] Innovations Against Poverty - https://tinyurl.com/227j6n4t JAN 10
+- [ ] Fiction Writers Program 2025 - https://tinyurl.com/3cdynf3a JAN 17
 - [ ] Africa Youth Tourism Challenge - https://tinyurl.com/f5t4ua4x JAN 31
 - [ ] Millennium Oceans Prize - https://www.millenniumoceans.org/ JAN 1
 - [ ] Trinity Society of Fellows - https://tinyurl.com/2yr7kzwa JAN 11
