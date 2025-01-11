@@ -98,7 +98,6 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Learning Festival https://tinyurl.com/mujf4255 JAN 10
 - [ ] Charles R. Wall Young African Policy Fellows  - https://tinyurl.com/yp8ukkws JAN 11
 - [ ] Centre for Green Growth's Training https://tinyurl.com/m2dfua58 JAN 20
-- [ ] SustainE Journal CFP - https://tinyurl.com/4tvvw8dz JAN 12
 - [ ] Hansen Leadership Institute - https://tinyurl.com/4rr3frxu JAN 9
 - [ ] Woods Hole Summer Student Fellowship - https://tinyurl.com/2fe4cp4j JAN 20
 - [ ] LawAI Summer Fellowship - https://tinyurl.com/3kc4tkf9 JAN 9
