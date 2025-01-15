@@ -34,6 +34,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] OHCHR-EAA Youth Rights Academy https://tinyurl.com/35cn74bb JAN 1
 - [ ] Future Diplomats Forum https://tinyurl.com/2p8br8bw JAN 16
 - [ ] THRIVE Academy (Agri-Food) - https://tinyurl.com/bdhp7sse JAN 7
+- [ ] HEY Campaigners - https://tinyurl.com/2uyt37p5 JAN 22
 - [ ] Resilient Agriculture Innovation - https://tinyurl.com/4au7swpa JAN 23 
 - [ ] GeneralCall for Papers: NCHE 6th - https://tinyurl.com/5m88arw9 JAN 3
 - [ ] AI for connectivity hackathon - https://tinyurl.com/5n88h5f7 JAN 10
