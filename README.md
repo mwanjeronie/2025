@@ -64,6 +64,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AI Masterclass Registration form - https://tinyurl.com/yuw6zh67 JAN 12
 - [ ] Climate Transformation Fund - https://lnkd.in/dmWYCbZb JAN 16
 - [ ] Women Techsters https://tinyurl.com/3adab7ns JAN 23
+- [ ] Climate Transformation Fund - https://tinyurl.com/y7ewbyb5 JAN 16
 - [ ] Google - Unlock Global Communication with Gemma - https://tinyurl.com/54dmmfnk JAN 12
 - [ ] The Ford Philanthropy Mobility Fellowship - https://tinyurl.com/yrxpukbt JAN 3
 - [ ] Digital Rights and Inclusion Forum - https://tinyurl.com/4cp9vxxf JAN 20
@@ -114,6 +115,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] Global Protection  - https://tinyurl.com/yjknrz6a FEB 15
 - [ ] (WFF) Young Scientists Group - https://tinyurl.com/4d9adm28 FEB 10
 - [ ] AU-EU Youth Action Lab https://aueuyouth.com/youth-action-lab/ FEB 3
 - [ ] Global Peace Forum - https://tinyurl.com/3kh2uees FEB 20
@@ -151,10 +153,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AYFN Summer Korean Culture Camp https://tinyurl.com/audd3drk MAR 20
 - [ ] PDMA Annual Conference - https://tinyurl.com/ymw828fb MAR 10
 - [ ] Summer School on Digital and Green Transitions https://tinyurl.com/3esmxpev MAR 3
-- [ ] 
+- [ ] Global Innovation Fund - https://www.globalinnovation.fund/apply-for-funding MAR 10
 
 ## APR
-- [ ] 
+- [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez
 - [ ] One Young World Summit - https://tinyurl.com/t4wedpad APR 20
 
 ## MAY
@@ -162,7 +164,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## JUN
 - [ ] IndabaDL https://deeplearningindaba.com/2025/ JUN 20
-- [ ] 
+- [ ] Rapid Response Fund - https://tinyurl.com/47652h35 OPEN
 
 ## JUL
 - [ ] 
