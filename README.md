@@ -43,7 +43,6 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Edinburgh Visiting Fellowship - https://tinyurl.com/45hevvha JAN 18
 - [ ] Binance Crypto School - https://tinyurl.com/muuk79c7 JAN 15
 - [ ] Docusign Hackathon - https://unlocked.devpost.com/ JAN 1
-- [ ] Youth Academic Forum - https://tinyurl.com/4tp897vn JAN 26
 - [ ] SPC Founder Fellowship - https://tinyurl.com/3a88z642 JAN 27
 - [ ] 2025 PRME Global Forum  - https://tinyurl.com/278yw4xe  JAN 8
 - [ ] Train the Trainer https://ttt-kenya.paperform.co/ JAN 26
@@ -110,7 +109,6 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Grants - https://tinyurl.com/2ks7mkek JAN 11
 - [ ] Stanford Fisher Family - https://tinyurl.com/yar5wr29 JAN 9
 - [ ] Designing Futures 2050 - https://tinyurl.com/ycxbpsrm JAN 20
-- [ ] Kellogg-Morgan Stanle - https://www.sustainableinvestingchallenge.org/ JAN 20
 - [ ] Kingdom Business Entrepreneur  https://tinyurl.com/mvep7f62 Community JAN 31
 
  
@@ -118,8 +116,6 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] AFRIPAL https://afripal.org/ FEB 18
-- [ ] Youth Action Summit https://tinyurl.com/2s38nwpr FEB 12
-- [ ] Future Leaders Assembly - https://tinyurl.com/mrayndrk FEB 14
 - [ ] Global Protection  - https://tinyurl.com/yjknrz6a FEB 15
 - [ ] Enterprising Futures Scholarship - https://tinyurl.com/yeynctkx FEB 16
 - [ ] (WFF) Young Scientists Group - https://tinyurl.com/4d9adm28 FEB 10
@@ -145,12 +141,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Nnaabagereka Mental Health Essay Competition https://shorturl.at/ymk4W FEB 13
 - [ ] Future Health Leaders - https://tinyurl.com/yrjd2tpr FEB 25
 - [ ] Africa Youth in Tourism - https://tinyurl.com/5ehfmcux FEB 10
-- [ ] Global Peace Summit - https://tinyurl.com/y4mfu4n5 FEB 19
 - [ ] Dutch One Young World Summit - https://tinyurl.com/3ep96jys FEB 15
 - [ ] Moving Minds Fellowship - https://tinyurl.com/3jvafskv FEB 4
 - [ ] STARTS Prize Africa 2025 - https://lnkd.in/dfQqeXiE FEB 28
 - [ ] Climate Action Window 2025 - https://lnkd.in/dHky-kEZ FEB 1
-- [ ] The pollination project - https://tinyurl.com/mr2498xz - OPEN * FEB 28
+- [ ] 
 
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
@@ -161,8 +156,6 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] PDMA Annual Conference - https://tinyurl.com/ymw828fb MAR 10
 - [ ] Summer School on Digital and Green Transitions https://tinyurl.com/3esmxpev MAR 3
 - [ ] Global Innovation Fund - https://www.globalinnovation.fund/apply-for-funding MAR 10
-- [ ] ITU UNU MERIT Summer School  - https://tinyurl.com/5y6mf5tc MAR 6
-- [ ] Discover Canada Cultural Exchange https://tinyurl.com/4p6kcjm6 MAR 11
 
 ## APR
 - [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez
@@ -225,6 +218,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
 - [ ] SCHOLARSHIPS - https://tinyurl.com/4vwa37s7 VARIOUS DEADLINES
 - [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
+- [ ] Cyber Sec Scholarships list - https://tinyurl.com/2ezbjxcu OPEN
 - [ ] MINDS Scholarships - https://minds-africa.org/ FEB 3
 - [ ] Government of Brunei Darussalam Scholarship - https://tinyurl.com/3j8v6k9u FEB 2
 - [ ] 20 BURSARIES POST - https://tinyurl.com/2prpffdb JAN 11
