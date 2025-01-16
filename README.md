@@ -25,6 +25,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UPCOMING - https://mlh.io/seasons/2025/events
 - [ ] Climate Fellowship - https://tinyurl.com/yzwx54vc JAN 15
 - [ ] Steward Leadership https://tinyurl.com/2zevua35 JAN 31
+- [ ] EU-YOUTH SOUNDING BOARD - https://tinyurl.com/a7nv2777 JAN 18
 - [ ] VBC Summer School https://tinyurl.com/46kwn8n7 JAN 1
 - [ ] GITEX - https://tinyurl.com/5a6s9trr JAN 19
 - [ ] IARC Summer School https://opportunitiescorners.com/iarc-summer-school/ JAN 1
@@ -117,6 +118,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] FORBES AFRICA’s 30 Under 30 - https://tinyurl.com/4urbb42v FEB 11
+- [ ] Moving Minds Research - https://tinyurl.com/ycje2ysx FEB 9
 - [ ] Global Protection  - https://tinyurl.com/yjknrz6a FEB 15
 - [ ] Enterprising Futures Scholarship - https://tinyurl.com/yeynctkx FEB 16
 - [ ] (WFF) Young Scientists Group - https://tinyurl.com/4d9adm28 FEB 10
