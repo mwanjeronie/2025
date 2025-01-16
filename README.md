@@ -52,6 +52,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Innovations Against Poverty - https://tinyurl.com/227j6n4t JAN 10
 - [ ] Fiction Writers Program 2025 - https://tinyurl.com/3cdynf3a JAN 17
 - [ ] Africa Youth Tourism Challenge - https://tinyurl.com/f5t4ua4x JAN 31
+- [ ] Timbuktoo AfriLabs Survey - https://tinyurl.com/w32vzvss JAN 31
 - [ ] Millennium Oceans Prize - https://www.millenniumoceans.org/ JAN 1
 - [ ] Trinity Society of Fellows - https://tinyurl.com/2yr7kzwa JAN 11
 - [ ] TechForward Policy Fellowship - https://tinyurl.com/bdjrpbsj , https://tinyurl.com/bdjrpbsj JAN 20
