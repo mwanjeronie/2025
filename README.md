@@ -117,6 +117,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] AFRIPAL https://afripal.org/ FEB 18
 - [ ] Global Protection  - https://tinyurl.com/yjknrz6a FEB 15
+- [ ] Enterprising Futures Scholarship - https://tinyurl.com/yeynctkx FEB 16
 - [ ] (WFF) Young Scientists Group - https://tinyurl.com/4d9adm28 FEB 10
 - [ ] AU-EU Youth Action Lab https://aueuyouth.com/youth-action-lab/ FEB 3
 - [ ] Global Peace Forum - https://tinyurl.com/3kh2uees FEB 20
@@ -166,6 +167,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## JUN
 - [ ] IndabaDL https://deeplearningindaba.com/2025/ JUN 20
 - [ ] Rapid Response Fund - https://tinyurl.com/47652h35 OPEN
+- [ ] Leading Scholarship https://tinyurl.com/5n8ucuuv JUN 28
 
 ## JUL
 - [ ] 
