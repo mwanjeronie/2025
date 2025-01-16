@@ -116,6 +116,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Designing Futures 2050 - https://tinyurl.com/ycxbpsrm JAN 20
 - [ ] Kingdom Business Entrepreneur  https://tinyurl.com/mvep7f62 Community JAN 31
 - [ ] Uganda-EU Business Insights - https://tinyurl.com/2x6kcwky JAN 22
+- [ ] ACEP 8th Cohort - https://tinyurl.com/mua67b3u JAN 25
 
  
 ## FEB
@@ -158,6 +159,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Deep Learning Indaba https://tinyurl.com/5beva4r4 FEB 15
 - [ ] SHE’s BRIGHT - Supporting Her - https://tinyurl.com/ymj743j3 FEB 14
 - [ ] ESSA Fund - https://essa-africa.org/node/1972 FEB 13
+- [ ] Re-Earth Initiative grants - https://tinyurl.com/yfpv5rkz FEB 2
+- [ ] Fonseca Leadership Program  - https://tinyurl.com/bddcnmx4 FEB 2
 
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
@@ -191,6 +194,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] List of Fully Funded Summer Programs - https://tinyurl.com/3s5jay38
 - [ ] Twilio Interns - https://tinyurl.com/yptshuy9 JAN 31
 - [ ] Lead Researcher - https://tinyurl.com/mtw9s6jh JAN 25
+- [ ] GIZ Interns https://tinyurl.com/5n6pkcce JAN 26
+- [ ] VISA Interns - https://tinyurl.com/28rsecms JAN 31
 - [ ] Technical Curriculum Developer Intern - https://tinyurl.com/4eznwdd8 JAN 17
 - [ ] IST Summer Internship - https://tinyurl.com/yv5pespk JAN 20
 - [ ] IREX Intern - https://tinyurl.com/3jnw8cdk JAN 31
@@ -234,6 +239,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## Scholarships
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
+- [ ] Nesta-ferguson-scholarship https://tinyurl.com/mrnharpn JAN 23
 - [ ] SCHOLARSHIPS - https://tinyurl.com/4vwa37s7 VARIOUS DEADLINES
 - [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
 - [ ] Cyber Sec Scholarships list - https://tinyurl.com/2ezbjxcu OPEN
