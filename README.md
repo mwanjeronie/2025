@@ -25,6 +25,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UPCOMING - https://mlh.io/seasons/2025/events
 - [ ] Climate Fellowship - https://tinyurl.com/yzwx54vc JAN 15
 - [ ] Steward Leadership https://tinyurl.com/2zevua35 JAN 31
+- [ ] University:Future Festival - https://tinyurl.com/5harf47d JAN 17
 - [ ] EU-YOUTH SOUNDING BOARD - https://tinyurl.com/a7nv2777 JAN 18
 - [ ] Datacamp Access - https://tinyurl.com/bddhkd26 JAN 23
 - [ ] Early Career Researchers Fellowship https://tinyurl.com/bdhc4t9s JAN 19
@@ -193,6 +194,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IFAD Interns - https://tinyurl.com/2h4p6akn OPEN
 - [ ] List of Fully Funded Summer Programs - https://tinyurl.com/3s5jay38
 - [ ] Twilio Interns - https://tinyurl.com/yptshuy9 JAN 31
+- [ ] NECLAB Interns - https://neclab.eu/careers/intern-program MAR 5
 - [ ] Lead Researcher - https://tinyurl.com/mtw9s6jh JAN 25
 - [ ] GIZ Interns https://tinyurl.com/5n6pkcce JAN 26
 - [ ] VISA Interns - https://tinyurl.com/28rsecms JAN 31
