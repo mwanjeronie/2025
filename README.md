@@ -264,6 +264,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] BTC IS HERE TO STAY https://hackernoon.com/bitcoin-is-not-a-threat-it-is-a-boon-d2218a823db7
 - [ ] The Bitcoin Development Fund https://tinyurl.com/2s4fefz3
 - [ ] Accelerate AFRICA - JUNE 30
+- [ ] CYBER SEC FORECAST - https://tinyurl.com/bdhfjnb7
 
 ## Reading
 - [ ] State of Mobile 2025 report - https://shorturl.at/JS239
