@@ -26,7 +26,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Climate Fellowship - https://tinyurl.com/yzwx54vc JAN 15
 - [ ] Steward Leadership https://tinyurl.com/2zevua35 JAN 31
 - [ ] EU-YOUTH SOUNDING BOARD - https://tinyurl.com/a7nv2777 JAN 18
+- [ ] Datacamp Access - https://tinyurl.com/bddhkd26 JAN 23
+- [ ] Early Career Researchers Fellowship https://tinyurl.com/bdhc4t9s JAN 19
 - [ ] VBC Summer School https://tinyurl.com/46kwn8n7 JAN 1
+- [ ] Innovate Africa - https://innovateafricafund.com/ JAN 23
 - [ ] GITEX - https://tinyurl.com/5a6s9trr JAN 19
 - [ ] IARC Summer School https://opportunitiescorners.com/iarc-summer-school/ JAN 1
 - [ ] Canada Cultural Exchange - https://tinyurl.com/yc6s93b3 JAN 31
@@ -112,11 +115,13 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Stanford Fisher Family - https://tinyurl.com/yar5wr29 JAN 9
 - [ ] Designing Futures 2050 - https://tinyurl.com/ycxbpsrm JAN 20
 - [ ] Kingdom Business Entrepreneur  https://tinyurl.com/mvep7f62 Community JAN 31
+- [ ] Uganda-EU Business Insights - https://tinyurl.com/2x6kcwky JAN 22
 
  
 ## FEB
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
+- [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
 - [ ] FORBES AFRICA’s 30 Under 30 - https://tinyurl.com/4urbb42v FEB 11
 - [ ] Moving Minds Research - https://tinyurl.com/ycje2ysx FEB 9
@@ -136,6 +141,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UNDP Timbuktoo Mminetech https://tinyurl.com/yjjc6h4e FEB 1
 - [ ] Ashoka power of Local challenge https://tinyurl.com/2ftepb2m FEB 10
 - [ ] Wilkes-climate Prize https://tinyurl.com/4seth2tu FEB 3
+- [ ] Gratitude Fellowship - https://tinyurl.com/mr425z5s FEB 6
 - [ ] The Dutch MFA 1 Young World - https://tinyurl.com/3ep96jys FEB 1
 - [ ] Aspire Leaders Program https://tinyurl.com/bdewa974 FEB 3
 - [ ] Black Hat Student Scholarship https://tinyurl.com/mr3957su FEB 10
@@ -149,10 +155,13 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Moving Minds Fellowship - https://tinyurl.com/3jvafskv FEB 4
 - [ ] STARTS Prize Africa 2025 - https://lnkd.in/dfQqeXiE FEB 28
 - [ ] Climate Action Window 2025 - https://lnkd.in/dHky-kEZ FEB 1
-- [ ] 
+- [ ] Deep Learning Indaba https://tinyurl.com/5beva4r4 FEB 15
+- [ ] SHE’s BRIGHT - Supporting Her - https://tinyurl.com/ymj743j3 FEB 14
+- [ ] ESSA Fund - https://essa-africa.org/node/1972 FEB 13
 
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
+- [ ] Cambridge - Africa Climate Research - https://tinyurl.com/yajtc366 MAR 3
 - [ ] IDRIS Open Hackathon - https://tinyurl.com/4tc28nbk MAR 26
 - [ ] VISA Accelerator https://tinyurl.com/y4kx5eat MAR 1
 - [ ] AYFN JAPAN Summer Culture Camp - https://tinyurl.com/5n94jjtd MAR 20
@@ -180,8 +189,13 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
 - [ ] IFAD Interns - https://tinyurl.com/2h4p6akn OPEN
 - [ ] List of Fully Funded Summer Programs - https://tinyurl.com/3s5jay38
+- [ ] Twilio Interns - https://tinyurl.com/yptshuy9 JAN 31
+- [ ] Lead Researcher - https://tinyurl.com/mtw9s6jh JAN 25
+- [ ] Technical Curriculum Developer Intern - https://tinyurl.com/4eznwdd8 JAN 17
 - [ ] IST Summer Internship - https://tinyurl.com/yv5pespk JAN 20
 - [ ] IREX Intern - https://tinyurl.com/3jnw8cdk JAN 31
+- [ ] IOM Global Internship - https://tinyurl.com/3e2yd8fa JAN 26
+- [ ] OECD Internship - https://tinyurl.com/apnjzhhz JAN 26
 - [ ] University of Hong Kong Summer Program - https://tinyurl.com/3ay89a7d JAN 23
 - [ ] EPFL Life Sciences Summer Research - https://tinyurl.com/4zyx4b3z JAN 15
 - [ ] Merck Innovation Cup - https://tinyurl.com/yycate7u JAN 22
