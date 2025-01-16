@@ -26,6 +26,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Climate Fellowship - https://tinyurl.com/yzwx54vc JAN 15
 - [ ] Steward Leadership https://tinyurl.com/2zevua35 JAN 31
 - [ ] VBC Summer School https://tinyurl.com/46kwn8n7 JAN 1
+- [ ] GITEX - https://tinyurl.com/5a6s9trr JAN 19
 - [ ] IARC Summer School https://opportunitiescorners.com/iarc-summer-school/ JAN 1
 - [ ] Canada Cultural Exchange - https://tinyurl.com/yc6s93b3 JAN 31
 - [ ] 13th IAS Conference https://tinyurl.com/2sb7ptmx JAN 5
