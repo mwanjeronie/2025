@@ -173,6 +173,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] PDMA Annual Conference - https://tinyurl.com/ymw828fb MAR 10
 - [ ] Summer School on Digital and Green Transitions https://tinyurl.com/3esmxpev MAR 3
 - [ ] Global Innovation Fund - https://www.globalinnovation.fund/apply-for-funding MAR 10
+- [ ] PDMA Ignite Innovation Summit - https://tinyurl.com/yeb62php MAR 18
 
 ## APR
 - [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez
