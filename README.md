@@ -129,6 +129,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] The Club of Rome Communications Fellowship - https://tinyurl.com/3urfaywd FEB 25
 - [ ] FORBES AFRICA’s 30 Under 30 - https://tinyurl.com/4urbb42v FEB 11
 - [ ] Moving Minds Research - https://tinyurl.com/ycje2ysx FEB 9
+- [ ] INSAIT Summer Research Fellowship - https://tinyurl.com/w7f52b4t FEB 20
 - [ ] Global Protection  - https://tinyurl.com/yjknrz6a FEB 15
 - [ ] Enterprising Futures Scholarship - https://tinyurl.com/yeynctkx FEB 16
 - [ ] (WFF) Young Scientists Group - https://tinyurl.com/4d9adm28 FEB 10
