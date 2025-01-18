@@ -125,6 +125,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] The Club of Rome Communications Fellowship - https://tinyurl.com/3urfaywd FEB 25
 - [ ] FORBES AFRICA’s 30 Under 30 - https://tinyurl.com/4urbb42v FEB 11
 - [ ] Moving Minds Research - https://tinyurl.com/ycje2ysx FEB 9
 - [ ] Global Protection  - https://tinyurl.com/yjknrz6a FEB 15
