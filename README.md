@@ -120,7 +120,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] ACEP 8th Cohort - https://tinyurl.com/mua67b3u JAN 25
 
  
-## FEB
+## FEB 
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
