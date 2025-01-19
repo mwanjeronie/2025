@@ -125,6 +125,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] Caltech Summer Undergraduate Research - https://tinyurl.com/4jub7k7f FEB 5
 - [ ] Youth Impact Forum https://tinyurl.com/mwpf96ek FEB 20
 - [ ] The Club of Rome Communications Fellowship - https://tinyurl.com/3urfaywd FEB 25
 - [ ] FORBES AFRICA’s 30 Under 30 - https://tinyurl.com/4urbb42v FEB 11
@@ -171,6 +172,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Cambridge - Africa Climate Research - https://tinyurl.com/yajtc366 MAR 3
 - [ ] IDRIS Open Hackathon - https://tinyurl.com/4tc28nbk MAR 26
 - [ ] VISA Accelerator https://tinyurl.com/y4kx5eat MAR 1
+- [ ] 
 - [ ] AYFN JAPAN Summer Culture Camp - https://tinyurl.com/5n94jjtd MAR 20
 - [ ] AYFN Summer Korean Culture Camp https://tinyurl.com/audd3drk MAR 20
 - [ ] PDMA Annual Conference - https://tinyurl.com/ymw828fb MAR 10
@@ -181,6 +183,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## APR
 - [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez
 - [ ] One Young World Summit - https://tinyurl.com/t4wedpad APR 20
+- [ ] JJ/WBGSP - https://tinyurl.com/bdha3nab APR 7
+- [ ] 
 
 ## MAY
 - [ ] 
