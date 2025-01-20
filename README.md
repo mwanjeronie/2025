@@ -118,6 +118,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Kingdom Business Entrepreneur  https://tinyurl.com/mvep7f62 Community JAN 31
 - [ ] Uganda-EU Business Insights - https://tinyurl.com/2x6kcwky JAN 22
 - [ ] ACEP 8th Cohort - https://tinyurl.com/mua67b3u JAN 25
+- [ ] Letten Prize 2025 - https://tinyurl.com/bddfsmhp JAN 31
 
  
 ## FEB 
@@ -188,7 +189,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez
 - [ ] One Young World Summit - https://tinyurl.com/t4wedpad APR 20
 - [ ] JJ/WBGSP - https://tinyurl.com/bdha3nab APR 7
-- [ ] 
+- [ ] world food prize - https://tinyurl.com/nd3bwdhz APR 20
 
 ## MAY
 - [ ] 
@@ -255,8 +256,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## Scholarships
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
 - [ ] Nesta-ferguson-scholarship https://tinyurl.com/mrnharpn JAN 23
+- [ ] University of Geneva Excellence Masters - https://tinyurl.com/rh8d6dtb FEB 9
 - [ ] SCHOLARSHIPS - https://tinyurl.com/4vwa37s7 VARIOUS DEADLINES
 - [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
+- [ ] Paris-Saclay Scholarship - https://tinyurl.com/2sudv4u7 MAY 15
 - [ ] AI Science AIMS - https://tinyurl.com/5brskdah MAR 3
 - [ ] Cyber Sec Scholarships list - https://tinyurl.com/2ezbjxcu OPEN
 - [ ] MINDS Scholarships - https://minds-africa.org/ FEB 3
