@@ -199,6 +199,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
+- [ ] REPO (INTERNSHIPS) - https://github.com/speedyapply/2025-AI-College-Jobs OPEN
 - [ ] IFAD Interns - https://tinyurl.com/2h4p6akn OPEN
 - [ ] List of Fully Funded Summer Programs - https://tinyurl.com/3s5jay38
 - [ ] Twilio Interns - https://tinyurl.com/yptshuy9 JAN 31
@@ -238,7 +239,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] KAIST-X Summer Internship - https://tinyurl.com/4p3n7wsz JAN 22
 - [ ] MBZUAI Research Internship https://tinyurl.com/mvxruuf5 MAR 10
 - [ ] Aalto University International Summer Program - https://tinyurl.com/69u4u595 JAN 20
-- [ ] USTC Research Internship https://tinyurl.com/4w4eyhdz FEB 
+- [ ] USTC Research Internship https://tinyurl.com/4w4eyhdz FEB 20
 - [ ] Computer Vision Internship - https://tinyurl.com/yb68h5cb JAN 15
 - [ ] World Trade Organization InternshipS - https://www.wto.org/english/thewto_e/vacan_e/iypp_e.htm
 - [ ] UN-Habitat Urban dESIGN INTERNS - https://tinyurl.com/zh7ycm53 DEC 1 2025
