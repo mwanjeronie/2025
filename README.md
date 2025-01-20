@@ -125,6 +125,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] Mandela Prize 2025 - https://tinyurl.com/4wdkwm62 FEB 21
+- [ ] Island Novel Prize - https://tinyurl.com/358fs57s FEB 1
+- [ ] climate-investment-challenge https://tinyurl.com/mssmmjwt FEB 16
 - [ ] Caltech Summer Undergraduate Research - https://tinyurl.com/4jub7k7f FEB 5
 - [ ] Youth Impact Forum https://tinyurl.com/mwpf96ek FEB 20
 - [ ] The Club of Rome Communications Fellowship - https://tinyurl.com/3urfaywd FEB 25
@@ -166,6 +169,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] ESSA Fund - https://essa-africa.org/node/1972 FEB 13
 - [ ] Re-Earth Initiative grants - https://tinyurl.com/yfpv5rkz FEB 2
 - [ ] Fonseca Leadership Program  - https://tinyurl.com/bddcnmx4 FEB 2
+- [ ] UN Engine CM - https://tinyurl.com/2z4b3bxt FEB 3
 
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
@@ -253,6 +257,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Nesta-ferguson-scholarship https://tinyurl.com/mrnharpn JAN 23
 - [ ] SCHOLARSHIPS - https://tinyurl.com/4vwa37s7 VARIOUS DEADLINES
 - [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
+- [ ] AI Science AIMS - https://tinyurl.com/5brskdah MAR 3
 - [ ] Cyber Sec Scholarships list - https://tinyurl.com/2ezbjxcu OPEN
 - [ ] MINDS Scholarships - https://minds-africa.org/ FEB 3
 - [ ] Government of Brunei Darussalam Scholarship - https://tinyurl.com/3j8v6k9u FEB 2
