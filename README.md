@@ -32,6 +32,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] VBC Summer School https://tinyurl.com/46kwn8n7 JAN 1
 - [ ] Innovate Africa - https://innovateafricafund.com/ JAN 23
 - [ ] GITEX - https://tinyurl.com/5a6s9trr JAN 19
+- [ ] Milestone Makers - https://tinyurl.com/2znjnyss JAN 23
 - [ ] IARC Summer School https://opportunitiescorners.com/iarc-summer-school/ JAN 1
 - [ ] Canada Cultural Exchange - https://tinyurl.com/yc6s93b3 JAN 31
 - [ ] 13th IAS Conference https://tinyurl.com/2sb7ptmx JAN 5
