@@ -127,6 +127,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] Global Management Program - https://tinyurl.com/3pj2bw8w FEB 8
 - [ ] Young Economic Forum - https://tinyurl.com/yym6237b FEB 10
 - [ ] Mandela Prize 2025 - https://tinyurl.com/4wdkwm62 FEB 21
 - [ ] Island Novel Prize - https://tinyurl.com/358fs57s FEB 1
@@ -251,6 +252,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Trade Organization InternshipS - https://www.wto.org/english/thewto_e/vacan_e/iypp_e.htm
 - [ ] UN-Habitat Urban dESIGN INTERNS - https://tinyurl.com/zh7ycm53 DEC 1 2025
 - [ ] ACU Cordinator - https://shorturl.at/qKXGM JAN 13
+- [ ] EMMBIOME Scholarship - https://tinyurl.com/483us2ce MAR 5
 - [ ] Summer 2025 ML Researcher Internship - https://tinyurl.com/5n77v58r JAN 5
 - [ ] WAFF's Three Dot Dash - 2025 Global Teen Leader https://tinyurl.com/55zhjj8d JAN 20
 - [ ] 25 sites that offer remote jobS - https://tinyurl.com/bfdu3nxv
