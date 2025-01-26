@@ -209,6 +209,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
 - [ ] REPO (INTERNSHIPS) - https://github.com/speedyapply/2025-AI-College-Jobs OPEN
 - [ ] IFAD Interns - https://tinyurl.com/2h4p6akn OPEN
+- [ ] IBM Research - https://tinyurl.com/95srs3np OPEN
 - [ ] List of Fully Funded Summer Programs - https://tinyurl.com/3s5jay38
 - [ ] Twilio Interns - https://tinyurl.com/yptshuy9 JAN 31
 - [ ] NECLAB Interns - https://neclab.eu/careers/intern-program MAR 5
@@ -309,6 +310,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## Offers
 - [ ] Notion for Startups - https://www.notion.com/startups?
 - [ ] Builder ai - https://www.builder.ai/events/dreambuilder25?
+- [ ] Cohere For AI Research Grant Program - https://tinyurl.com/4wfrfjkh OPEN
+- [ ] GAYO Fund - https://www.aycf.org/crfas 
 
 ## Reads
 - [ ] https://www.free-ebooks.net/poetry/The-Woman
