@@ -124,10 +124,15 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] bubble-ambassador-program https://tinyurl.com/yjcj86ac JAN 29
 - [ ] Leading Ladies Pitch - https://tinyurl.com/3zcx69b4 JAN 30
 - [ ] EdTech Fellowship - https://tinyurl.com/nhjvfcs2 JAN 28
+- [ ] RAIN EA - https://tinyurl.com/mu87cx9a JAN 28
+- [ ] Faraja Africa Foundation - https://tinyurl.com/35xh9vfv JAN 29
+- [ ] UN FAO partnership-award https://tinyurl.com/tfbhxh53 JAN 29
+- [ ]
 
  
 ## FEB 
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
+- [ ] SYP Ambassadors https://tinyurl.com/52yn8d79 FEB 2
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
@@ -213,6 +218,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IndabaDL https://deeplearningindaba.com/2025/ JUN 20
 - [ ] Rapid Response Fund - https://tinyurl.com/47652h35 OPEN
 - [ ] Leading Scholarship https://tinyurl.com/5n8ucuuv JUN 28
+- [ ] NORMAN borlaug-award - https://tinyurl.com/2sa4x9nd JUNE 2
 
 ## JUL
 - [ ] 
@@ -277,9 +283,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] University of Geneva Excellence Masters - https://tinyurl.com/rh8d6dtb FEB 9
 - [ ] SCHOLARSHIPS - https://tinyurl.com/4vwa37s7 VARIOUS DEADLINES
 - [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
+- [ ] Allan and Nesta Ferguson - https://tinyurl.com/bdhawpf4 JAN 28
 - [ ] Paris-Saclay Scholarship - https://tinyurl.com/2sudv4u7 MAY 15
 - [ ] AI Science AIMS - https://tinyurl.com/5brskdah MAR 3
 - [ ] Cyber Sec Scholarships list - https://tinyurl.com/2ezbjxcu OPEN
+- [ ] Leeds Scholarship https://tinyurl.com/bdhawpf4 JAN 31
 - [ ] MINDS Scholarships - https://minds-africa.org/ FEB 3
 - [ ] Government of Brunei Darussalam Scholarship - https://tinyurl.com/3j8v6k9u FEB 2
 - [ ] 20 BURSARIES POST - https://tinyurl.com/2prpffdb JAN 11
