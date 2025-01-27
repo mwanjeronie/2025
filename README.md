@@ -96,6 +96,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Migration and Technology Fellowship https://tinyurl.com/4fny27xc DEC 28 2024
 - [ ] Accelerate Africa Program - https://www.acceler8.africa/ JAN 4
 - [ ] Local Pathways Fellow https://tinyurl.com/4xbuxvyc JAN 13
+- [ ]
 - [ ] Global Essay Competition  - https://tinyurl.com/43hpa5yx JAN 20 
 - [ ] Data Enrichment Work - https://tinyurl.com/5d9rht3p JAN 20
 - [ ] GELA PGMP - https://shorturl.at/fFIgk JAN 18
@@ -159,6 +160,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UCC Proposal - https://tinyurl.com/km66fmk4 FEB 10
 - [ ] McCain Global Leaders Program - https://tinyurl.com/4r4tc4b8 FEB 10
 - [ ] UNDP Timbuktoo Mminetech https://tinyurl.com/yjjc6h4e FEB 1
+- [ ] Research grants - https://tinyurl.com/yajtc366 FEB 22
 - [ ] Ashoka power of Local challenge https://tinyurl.com/2ftepb2m FEB 10
 - [ ] Wilkes-climate Prize https://tinyurl.com/4seth2tu FEB 3
 - [ ] Gratitude Fellowship - https://tinyurl.com/mr425z5s FEB 6
@@ -243,6 +245,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] RIPS Summer Internship - https://tinyurl.com/6ydesjhy JAN 18
 - [ ] Purdue University Summer  - https://tinyurl.com/mr8pn737 JAN 10
 - [ ] Max Planck Institute - https://www.cis.mpg.de/internships/ FEB 10
+- [ ] Rockefeller University USA Summer Fellowship - https://tinyurl.com/34zwam8n JAN 28 
 - [ ] Student Energy Interns - https://studentenergy.tfaforms.net/175 FEB 1
 - [ ] UNICEF Internships - https://www.unicef.org/careers/internships OPEN
 - [ ] Programme Development Manager https://tinyurl.com/4xsyhpny  JAN 5
