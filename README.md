@@ -120,6 +120,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Uganda-EU Business Insights - https://tinyurl.com/2x6kcwky JAN 22
 - [ ] ACEP 8th Cohort - https://tinyurl.com/mua67b3u JAN 25
 - [ ] Letten Prize 2025 - https://tinyurl.com/bddfsmhp JAN 31
+- [ ] bubble-ambassador-program https://tinyurl.com/yjcj86ac JAN 29
+- [ ] Leading Ladies Pitch - https://tinyurl.com/3zcx69b4 JAN 30
+- [ ] EdTech Fellowship - https://tinyurl.com/nhjvfcs2 JAN 28
 
  
 ## FEB 
@@ -127,6 +130,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] Miller Centre for Social Innovators - https://tinyurl.com/2tpnbk9j FEB 11
+- [ ] Women Entrepreneurs Award - https://tinyurl.com/377ndm6n FEB 12
 - [ ] (ClimaFii) - https://bfaglobal.com/our-work/climafii-alliance/ FEB 12
 - [ ] Global Management Program - https://tinyurl.com/3pj2bw8w FEB 8
 - [ ] Young Economic Forum - https://tinyurl.com/yym6237b FEB 10
@@ -140,6 +145,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Moving Minds Research - https://tinyurl.com/ycje2ysx FEB 9
 - [ ] INSAIT Summer Research Fellowship - https://tinyurl.com/w7f52b4t FEB 20
 - [ ] Global Protection  - https://tinyurl.com/yjknrz6a FEB 15
+- [ ] AIM RESEARCH https://www.aimresearchprogram.com/ FEB 3
 - [ ] Enterprising Futures Scholarship - https://tinyurl.com/yeynctkx FEB 16
 - [ ] (WFF) Young Scientists Group - https://tinyurl.com/4d9adm28 FEB 10
 - [ ] AU-EU Youth Action Lab https://aueuyouth.com/youth-action-lab/ FEB 3
@@ -165,6 +171,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Nnaabagereka Mental Health Essay Competition https://shorturl.at/ymk4W FEB 13
 - [ ] Future Health Leaders - https://tinyurl.com/yrjd2tpr FEB 25
 - [ ] Africa Youth in Tourism - https://tinyurl.com/5ehfmcux FEB 10
+- [ ] mckinsey young-leaderS https://tinyurl.com/2rhuca9c FEB 11
 - [ ] Dutch One Young World Summit - https://tinyurl.com/3ep96jys FEB 15
 - [ ] Moving Minds Fellowship - https://tinyurl.com/3jvafskv FEB 4
 - [ ] STARTS Prize Africa 2025 - https://lnkd.in/dfQqeXiE FEB 28
@@ -175,13 +182,15 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Re-Earth Initiative grants - https://tinyurl.com/yfpv5rkz FEB 2
 - [ ] Fonseca Leadership Program  - https://tinyurl.com/bddcnmx4 FEB 2
 - [ ] UN Engine CM - https://tinyurl.com/2z4b3bxt FEB 3
+- [ ] Viva technology-africatech-awards https://tinyurl.com/47uh7erj FEB 19
 
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
 - [ ] Cambridge - Africa Climate Research - https://tinyurl.com/yajtc366 MAR 3
 - [ ] IDRIS Open Hackathon - https://tinyurl.com/4tc28nbk MAR 26
 - [ ] VISA Accelerator https://tinyurl.com/y4kx5eat MAR 1
-- [ ] 
+- [ ] NGO Whisperer-global-fellowship https://tinyurl.com/5dyh97uw MAR 11
+- [ ] Foodtech Innovations-awards - https://tinyurl.com/4pbhnw7a MAR 26
 - [ ] AYFN JAPAN Summer Culture Camp - https://tinyurl.com/5n94jjtd MAR 20
 - [ ] AYFN Summer Korean Culture Camp https://tinyurl.com/audd3drk MAR 20
 - [ ] PDMA Annual Conference - https://tinyurl.com/ymw828fb MAR 10
@@ -306,7 +315,15 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## Ambassadorships
 - [ ] DLI nvidia - https://tinyurl.com/4bhhcwhk OPEN
-- [ ] 
+- [ ] Zaka ambassadors - https://zaka.ai/ambassadors/
+- [ ] CAMEL Ambassador - https://www.camel-ai.org/ambassador
+- [ ] AI Campus Ambassador  - https://www.trinka.ai/campus-ambassador
+- [ ] You.com's Ambassador Program https://tinyurl.com/mjuhyp39
+- [ ] AI Ambassador https://www.ai-ecosystem.org/ambassador
+- [ ] Mistral AI Ambassador https://tinyurl.com/bddtkzpk
+- [ ] DeepLearning.AI Event ambassadors https://www.deeplearning.ai/ambassador/
+- [ ] Telemus AI Ambassador https://telemus.ai/ambassador_program.html
+- [ ] Perplexity AI https://www.perplexity.ai/campus-strategists 
 
 ## Offers
 - [ ] Notion for Startups - https://www.notion.com/startups?
