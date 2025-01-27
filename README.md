@@ -127,6 +127,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] (ClimaFii) - https://bfaglobal.com/our-work/climafii-alliance/ FEB 12
 - [ ] Global Management Program - https://tinyurl.com/3pj2bw8w FEB 8
 - [ ] Young Economic Forum - https://tinyurl.com/yym6237b FEB 10
 - [ ] Mandela Prize 2025 - https://tinyurl.com/4wdkwm62 FEB 21
