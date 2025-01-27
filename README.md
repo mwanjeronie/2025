@@ -136,6 +136,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] Next Generation Fellows - https://tinyurl.com/38as2bzn FEB 4
 - [ ] TEDx - https://tedx-apply.ted.com/licenses/new?tags=University FEB 5
 - [ ] Miller Centre for Social Innovators - https://tinyurl.com/2tpnbk9j FEB 11
 - [ ] Women Entrepreneurs Award - https://tinyurl.com/377ndm6n FEB 12
