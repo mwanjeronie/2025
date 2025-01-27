@@ -127,7 +127,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] RAIN EA - https://tinyurl.com/mu87cx9a JAN 28
 - [ ] Faraja Africa Foundation - https://tinyurl.com/35xh9vfv JAN 29
 - [ ] UN FAO partnership-award https://tinyurl.com/tfbhxh53 JAN 29
-- [ ]
+- [ ] OMLA - https://tinyurl.com/hf6b4ynf JAN 29
 
  
 ## FEB 
@@ -136,6 +136,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] TEDx - https://tedx-apply.ted.com/licenses/new?tags=University FEB 5
 - [ ] Miller Centre for Social Innovators - https://tinyurl.com/2tpnbk9j FEB 11
 - [ ] Women Entrepreneurs Award - https://tinyurl.com/377ndm6n FEB 12
 - [ ] (ClimaFii) - https://bfaglobal.com/our-work/climafii-alliance/ FEB 12
@@ -198,6 +199,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] VISA Accelerator https://tinyurl.com/y4kx5eat MAR 1
 - [ ] NGO Whisperer-global-fellowship https://tinyurl.com/5dyh97uw MAR 11
 - [ ] Foodtech Innovations-awards - https://tinyurl.com/4pbhnw7a MAR 26
+- [ ] 
 - [ ] AYFN JAPAN Summer Culture Camp - https://tinyurl.com/5n94jjtd MAR 20
 - [ ] AYFN Summer Korean Culture Camp https://tinyurl.com/audd3drk MAR 20
 - [ ] PDMA Annual Conference - https://tinyurl.com/ymw828fb MAR 10
@@ -234,6 +236,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Lead Researcher - https://tinyurl.com/mtw9s6jh JAN 25
 - [ ] GIZ Interns https://tinyurl.com/5n6pkcce JAN 26
 - [ ] VISA Interns - https://tinyurl.com/28rsecms JAN 31
+- [ ] UCL Gatsby Bridging Summer School - https://tinyurl.com/4f7zp43h FEB 1
 - [ ] Technical Curriculum Developer Intern - https://tinyurl.com/4eznwdd8 JAN 17
 - [ ] IST Summer Internship - https://tinyurl.com/yv5pespk JAN 20
 - [ ] IREX Intern - https://tinyurl.com/3jnw8cdk JAN 31
