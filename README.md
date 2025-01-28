@@ -136,6 +136,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] UN Young Leaders Sustainability Week - https://tinyurl.com/3cm3e6ns FEB 13
 - [ ] Next Generation Fellows - https://tinyurl.com/38as2bzn FEB 4
 - [ ] TEDx - https://tedx-apply.ted.com/licenses/new?tags=University FEB 5
 - [ ] Miller Centre for Social Innovators - https://tinyurl.com/2tpnbk9j FEB 11
@@ -233,6 +234,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IBM Research - https://tinyurl.com/95srs3np OPEN
 - [ ] List of Fully Funded Summer Programs - https://tinyurl.com/3s5jay38
 - [ ] Twilio Interns - https://tinyurl.com/yptshuy9 JAN 31
+- [ ] GRIPS Summer Research - https://tinyurl.com/5arrehfs FEB 24
 - [ ] NECLAB Interns - https://neclab.eu/careers/intern-program MAR 5
 - [ ] Lead Researcher - https://tinyurl.com/mtw9s6jh JAN 25
 - [ ] GIZ Interns https://tinyurl.com/5n6pkcce JAN 26
@@ -259,6 +261,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Student Energy Interns - https://studentenergy.tfaforms.net/175 FEB 1
 - [ ] UNICEF Internships - https://www.unicef.org/careers/internships OPEN
 - [ ] Programme Development Manager https://tinyurl.com/4xsyhpny  JAN 5
+- [ ] Sokendai KEK Summer Student - https://tinyurl.com/2vvhaj4v FEB 26
 - [ ] UTRIP Summer Internship 2024 https://tinyurl.com/4v4thcsb JAN 6
 - [ ] Communications Officer - https://tinyurl.com/y4aa8aju JAN 9
 - [ ] Tsinghua University Amgen Scholars Program https://tinyurl.com/3pwnh2uu JAN 20
