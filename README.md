@@ -64,6 +64,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] TechForward Policy Fellowship - https://tinyurl.com/bdjrpbsj , https://tinyurl.com/bdjrpbsj JAN 20
 - [ ] AGNES Climate Governance  https://agnesafrica.org/training-portal/ JAN 3
 - [ ] Summer Research Fellowship  - https://tinyurl.com/29tr2k9j JAN 1
+- [ ] 
 - [ ] UNDP and Samsung Fellow - https://tinyurl.com/mrtt7t53 JAN 5
 - [ ] UYLS 2025 Maldives https://tinyurl.com/4f296vke JAN 20
 - [ ] AI Startup Challenge https://zaka.ai/launchpad JAN 2
@@ -136,6 +137,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] Sustainable Digital Challenge 2025 - https://tinyurl.com/2ejcxnfk FEB 9
 - [ ] UN Young Leaders Sustainability Week - https://tinyurl.com/3cm3e6ns FEB 13
 - [ ] Next Generation Fellows - https://tinyurl.com/38as2bzn FEB 4
 - [ ] TEDx - https://tedx-apply.ted.com/licenses/new?tags=University FEB 5
