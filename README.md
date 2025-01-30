@@ -34,7 +34,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GITEX - https://tinyurl.com/5a6s9trr JAN 19
 - [ ] Milestone Makers - https://tinyurl.com/2znjnyss JAN 23
 - [ ] IARC Summer School https://opportunitiescorners.com/iarc-summer-school/ JAN 1
-- [ ] Canada Cultural Exchange - https://tinyurl.com/yc6s93b3 JAN 31
+- [ ] 
 - [ ] 13th IAS Conference https://tinyurl.com/2sb7ptmx JAN 5
 - [ ] Yale Young African Scholars https://africanscholars.yale.edu/ JAN 15
 - [ ] ETHiopia: Builder Residency - https://eth-iopia.xyz/blogs JAN 5
@@ -203,7 +203,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] VISA Accelerator https://tinyurl.com/y4kx5eat MAR 1
 - [ ] NGO Whisperer-global-fellowship https://tinyurl.com/5dyh97uw MAR 11
 - [ ] Foodtech Innovations-awards - https://tinyurl.com/4pbhnw7a MAR 26
-- [ ] 
+- [ ] Canada Cultural Exchange - https://tinyurl.com/yc6s93b3 Mar 10
 - [ ] AYFN JAPAN Summer Culture Camp - https://tinyurl.com/5n94jjtd MAR 20
 - [ ] AYFN Summer Korean Culture Camp https://tinyurl.com/audd3drk MAR 20
 - [ ] PDMA Annual Conference - https://tinyurl.com/ymw828fb MAR 10
