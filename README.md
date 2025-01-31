@@ -244,7 +244,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UCL Gatsby Bridging Summer School - https://tinyurl.com/4f7zp43h FEB 1
 - [ ] Technical Curriculum Developer Intern - https://tinyurl.com/4eznwdd8 JAN 17
 - [ ] IST Summer Internship - https://tinyurl.com/yv5pespk JAN 20
-- [ ] IREX Intern - https://tinyurl.com/3jnw8cdk JAN 31
+- [ ] IREX Intern - https://tinyurl.com/3jnw8cdk FEB 11
 - [ ] IOM Global Internship - https://tinyurl.com/3e2yd8fa JAN 26
 - [ ] OECD Internship - https://tinyurl.com/apnjzhhz JAN 26
 - [ ] University of Hong Kong Summer Program - https://tinyurl.com/3ay89a7d JAN 23
