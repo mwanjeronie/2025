@@ -137,6 +137,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] College Guide Africa - https://tinyurl.com/mr492h5x FEB 11
+- [ ] Assistive-Technology-Innovators - https://tinyurl.com/bdzca4cn FEB 8
 - [ ] Sustainable Digital Challenge 2025 - https://tinyurl.com/2ejcxnfk FEB 9
 - [ ] UN Young Leaders Sustainability Week - https://tinyurl.com/3cm3e6ns FEB 13
 - [ ] Next Generation Fellows - https://tinyurl.com/38as2bzn FEB 4
@@ -198,6 +200,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
+- [ ] University College Dublin (UCD) - https://lnkd.in/g4swEmtZ  MAR 6
 - [ ] Cambridge - Africa Climate Research - https://tinyurl.com/yajtc366 MAR 3
 - [ ] IDRIS Open Hackathon - https://tinyurl.com/4tc28nbk MAR 26
 - [ ] VISA Accelerator https://tinyurl.com/y4kx5eat MAR 1
@@ -218,7 +221,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] world food prize - https://tinyurl.com/nd3bwdhz APR 20
 
 ## MAY
-- [ ] 
+- [ ] David Sainsbury Scholarship - https://lnkd.in/gvFzpbsy 
 
 ## JUN
 - [ ] IndabaDL https://deeplearningindaba.com/2025/ JUN 20
@@ -292,6 +295,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] University of Geneva Excellence Masters - https://tinyurl.com/rh8d6dtb FEB 9
 - [ ] SCHOLARSHIPS - https://tinyurl.com/4vwa37s7 VARIOUS DEADLINES
 - [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
+- [ ] Laval 2025 Excellence - https://lnkd.in/gNS9cKgv FEB 20
+- [ ] Mastercard Cambridge University Research - https://lnkd.in/gwE-AhBr MAR 5
+- [ ] Entrance & Excellence Scholarship - https://lnkd.in/gBCKGMQV FEB 15
+- [ ] Aston University Ferguson https://lnkd.in/gFVua2AY  JUNE 2
+- [ ] Universite Paris-Saclay https://lnkd.in/dQuEqNB4 APR 15
+- [ ] Barcelona School of Economics - https://lnkd.in/eUvWBWVC JUNE 15
+- [ ] WMI Scholars Program - https://lnkd.in/g4ES2M4A  FEB 25
+- [ ] British Council Scholarships - https://lnkd.in/dJA72ZvY  AUG 2
 - [ ] Allan and Nesta Ferguson - https://tinyurl.com/bdhawpf4 JAN 28
 - [ ] Paris-Saclay Scholarship - https://tinyurl.com/2sudv4u7 MAY 15
 - [ ] AI Science AIMS - https://tinyurl.com/5brskdah MAR 3
