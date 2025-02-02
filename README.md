@@ -137,6 +137,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] (AIF) Grants - https://tinyurl.com/4acnadh6 FEB 4
 - [ ] College Guide Africa - https://tinyurl.com/mr492h5x FEB 11
 - [ ] Assistive-Technology-Innovators - https://tinyurl.com/bdzca4cn FEB 8
 - [ ] Sustainable Digital Challenge 2025 - https://tinyurl.com/2ejcxnfk FEB 9
@@ -196,10 +197,17 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Re-Earth Initiative grants - https://tinyurl.com/yfpv5rkz FEB 2
 - [ ] Fonseca Leadership Program  - https://tinyurl.com/bddcnmx4 FEB 2
 - [ ] UN Engine CM - https://tinyurl.com/2z4b3bxt FEB 3
+- [ ] AI Policy - https://tinyurl.com/uw9x8enr FEB 4
+- [ ] Deep Learning Indaba  - https://tinyurl.com/2zebuxy9 FEB 17
+- [ ] EESC Ambassador - https://tinyurl.com/yc3uy2zw FEB 4
+- [ ] TECHgrow Program - https://tinyurl.com/mrxxpy8h FEB 9
+- [ ] 
+- [ ] Slingshot Challenge https://tinyurl.com/2p8zv7fr FEB 4
 - [ ] Viva technology-africatech-awards https://tinyurl.com/47uh7erj FEB 19
 
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
+- [ ] Digital and Green Transition - https://tinyurl.com/449p955t MAR 8
 - [ ] University College Dublin (UCD) - https://lnkd.in/g4swEmtZ  MAR 6
 - [ ] Cambridge - Africa Climate Research - https://tinyurl.com/yajtc366 MAR 3
 - [ ] IDRIS Open Hackathon - https://tinyurl.com/4tc28nbk MAR 26
@@ -234,6 +242,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
+- [ ] Marketing and Communications Manager - https://tinyurl.com/3p6m7y7z FEB 3
 - [ ] REPO (INTERNSHIPS) - https://github.com/speedyapply/2025-AI-College-Jobs OPEN
 - [ ] IFAD Interns - https://tinyurl.com/2h4p6akn OPEN
 - [ ] IBM Research - https://tinyurl.com/95srs3np OPEN
