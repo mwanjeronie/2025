@@ -223,6 +223,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World IP Day Youth Video Competition MAR 4
 - [ ] IAISS  2025 https://2025.iaiss.cc/ MAR 14
 - [ ] essai2025  https://essai2025.eu/ MAR 6
+- [ ] MIT Solve 2025 https://tinyurl.com/3zxmj92v MAR 
 - [ ] RAISE AFRICA - https://tinyurl.com/4uw47w3h MAR 6
 - [ ] CloudFest Hackathon https://tinyurl.com/4fmf2nzy MAR 2
 - [ ] Digital and Green Transition - https://tinyurl.com/449p955t MAR 8
