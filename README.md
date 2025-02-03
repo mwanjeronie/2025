@@ -138,6 +138,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] Summer of Bitcoin - https://www.summerofbitcoin.org/ FEB 6
 - [ ] Future Leaders Assembly - https://tinyurl.com/3um8fk6y FEB 18
 - [ ] World Bank Internship - https://tinyurl.com/mr4c2c3w FEB 8
 - [ ] Prince of Songkla University - https://tinyurl.com/2ujhv985 FEB 8
@@ -179,6 +180,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Press Institute Fellowship - https://tinyurl.com/2weyrmuf FEB 5
 - [ ] ARSO Continental Essay Competition - https://tinyurl.com/3a9sp4fk FEB 20
 - [ ] UCC Proposal - https://tinyurl.com/km66fmk4 FEB 10
+- [ ] Cooperative AI Summer School - https://tinyurl.com/532c38j6 FEB 27
+- [ ] 
 - [ ] McCain Global Leaders Program - https://tinyurl.com/4r4tc4b8 FEB 10
 - [ ] UNDP Timbuktoo Mminetech https://tinyurl.com/yjjc6h4e FEB 1
 - [ ] Research grants - https://tinyurl.com/yajtc366 FEB 22
@@ -210,19 +213,23 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Deep Learning Indaba  - https://tinyurl.com/2zebuxy9 FEB 17
 - [ ] EESC Ambassador - https://tinyurl.com/yc3uy2zw FEB 4
 - [ ] TECHgrow Program - https://tinyurl.com/mrxxpy8h FEB 9
-- [ ] CloudFest Hackathon
+- [ ] DeepLearn 2025 https://deeplearn.irdta.eu/2025/ FEB 14
+- [ ] Gatsby Bridging Programme - https://tinyurl.com/2szkjepj FEB 3
 - [ ] Slingshot Challenge https://tinyurl.com/2p8zv7fr FEB 4
 - [ ] Viva technology-africatech-awards https://tinyurl.com/47uh7erj FEB 19
 - [ ] Bulgaria INSAIT - https://tinyurl.com/2whtvxtj FEB 16
 
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
+- [ ] IAISS  2025 https://2025.iaiss.cc/ MAR 14
+- [ ] essai2025  https://essai2025.eu/ MAR 6
 - [ ] RAISE AFRICA - https://tinyurl.com/4uw47w3h MAR 6
 - [ ] CloudFest Hackathon https://tinyurl.com/4fmf2nzy MAR 2
 - [ ] Digital and Green Transition - https://tinyurl.com/449p955t MAR 8
 - [ ] University College Dublin (UCD) - https://lnkd.in/g4swEmtZ  MAR 6
 - [ ] Cambridge - Africa Climate Research - https://tinyurl.com/yajtc366 MAR 3
 - [ ] IDRIS Open Hackathon - https://tinyurl.com/4tc28nbk MAR 26
+- [ ] Eastern European Machine Learning Summer School - https://www.eeml.eu/ MAR 18
 - [ ] VISA Accelerator https://tinyurl.com/y4kx5eat MAR 1
 - [ ] NGO Whisperer-global-fellowship https://tinyurl.com/5dyh97uw MAR 11
 - [ ] Foodtech Innovations-awards - https://tinyurl.com/4pbhnw7a MAR 26
@@ -234,6 +241,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Innovation Fund - https://www.globalinnovation.fund/apply-for-funding MAR 10
 - [ ] PDMA Ignite Innovation Summit - https://tinyurl.com/yeb62php MAR 18
 - [ ] Academia Sinica https://tinyurl.com/3h3s8bf4 MAR 2
+- [ ] The 34th Jyväskylä Summer School - https://tinyurl.com/22j6277a MAR 16
+- [ ] ICVSS 2025 https://iplab.dmi.unict.it/icvss/ MAR 16
 
 ## APR
 - [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez
@@ -241,6 +250,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] JJ/WBGSP - https://tinyurl.com/bdha3nab APR 7
 - [ ] world food prize - https://tinyurl.com/nd3bwdhz APR 20
 - [ ] World Leaders Convention - https://tinyurl.com/4crc7shr APR 3
+- [ ] Rotary Peace Fellowship https://tinyurl.com/mry5fk9c APR 27
 
 ## MAY
 - [ ] David Sainsbury Scholarship - https://lnkd.in/gvFzpbsy 
@@ -389,7 +399,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Notion for Startups - https://www.notion.com/startups?
 - [ ] Builder ai - https://www.builder.ai/events/dreambuilder25?
 - [ ] Cohere For AI Research Grant Program - https://tinyurl.com/4wfrfjkh OPEN
-- [ ] GAYO Fund - https://www.aycf.org/crfas 
+- [ ] GAYO Fund - https://www.aycf.org/crfas
+- [ ] Nordic Probabilistic AI School https://nordic.probabilistic.ai/ MAR 20
+- [ ] Data Science  & AI Lessons - https://tinyurl.com/3s72h4z4
 
 ## Reads
 - [ ] https://www.free-ebooks.net/poetry/The-Woman
