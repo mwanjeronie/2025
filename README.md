@@ -200,7 +200,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Fonseca Leadership Program  - https://tinyurl.com/bddcnmx4 FEB 2
 - [ ] UN Engine CM - https://tinyurl.com/2z4b3bxt FEB 3
 - [ ] AI Policy - https://tinyurl.com/uw9x8enr FEB 4
-- [ ] EA Funds -  FEB 11
+- [ ] EA Funds - https://tinyurl.com/2s4yx4jz FEB 11
 - [ ] Deep Learning Indaba  - https://tinyurl.com/2zebuxy9 FEB 17
 - [ ] EESC Ambassador - https://tinyurl.com/yc3uy2zw FEB 4
 - [ ] TECHgrow Program - https://tinyurl.com/mrxxpy8h FEB 9
@@ -226,6 +226,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Summer School on Digital and Green Transitions https://tinyurl.com/3esmxpev MAR 3
 - [ ] Global Innovation Fund - https://www.globalinnovation.fund/apply-for-funding MAR 10
 - [ ] PDMA Ignite Innovation Summit - https://tinyurl.com/yeb62php MAR 18
+- [ ] Academia Sinica https://tinyurl.com/3h3s8bf4 MAR 2
 
 ## APR
 - [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez
