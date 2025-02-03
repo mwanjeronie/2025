@@ -248,6 +248,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez
 - [ ] One Young World Summit - https://tinyurl.com/t4wedpad APR 20
 - [ ] JJ/WBGSP - https://tinyurl.com/bdha3nab APR 7
+- [ ] Einstein Award in Research - https://tinyurl.com/mtmtd6n8 APR 15
 - [ ] world food prize - https://tinyurl.com/nd3bwdhz APR 20
 - [ ] World Leaders Convention - https://tinyurl.com/4crc7shr APR 3
 - [ ] Rotary Peace Fellowship https://tinyurl.com/mry5fk9c APR 27
