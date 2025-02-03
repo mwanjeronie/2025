@@ -137,6 +137,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] DL Indaba CFP - https://lnkd.in/dW9eF9zj FEB 18
+- [ ] ECOSOC Youth Forum - https://tinyurl.com/y5cwpkkb FEB 8
 - [ ] (AIF) Grants - https://tinyurl.com/4acnadh6 FEB 4
 - [ ] College Guide Africa - https://tinyurl.com/mr492h5x FEB 11
 - [ ] Assistive-Technology-Innovators - https://tinyurl.com/bdzca4cn FEB 8
@@ -198,15 +200,18 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Fonseca Leadership Program  - https://tinyurl.com/bddcnmx4 FEB 2
 - [ ] UN Engine CM - https://tinyurl.com/2z4b3bxt FEB 3
 - [ ] AI Policy - https://tinyurl.com/uw9x8enr FEB 4
+- [ ] EA Funds -  FEB 11
 - [ ] Deep Learning Indaba  - https://tinyurl.com/2zebuxy9 FEB 17
 - [ ] EESC Ambassador - https://tinyurl.com/yc3uy2zw FEB 4
 - [ ] TECHgrow Program - https://tinyurl.com/mrxxpy8h FEB 9
-- [ ] 
+- [ ] CloudFest Hackathon
 - [ ] Slingshot Challenge https://tinyurl.com/2p8zv7fr FEB 4
 - [ ] Viva technology-africatech-awards https://tinyurl.com/47uh7erj FEB 19
 
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
+- [ ] RAISE AFRICA - https://tinyurl.com/4uw47w3h MAR 6
+- [ ] CloudFest Hackathon https://tinyurl.com/4fmf2nzy MAR 2
 - [ ] Digital and Green Transition - https://tinyurl.com/449p955t MAR 8
 - [ ] University College Dublin (UCD) - https://lnkd.in/g4swEmtZ  MAR 6
 - [ ] Cambridge - Africa Climate Research - https://tinyurl.com/yajtc366 MAR 3
@@ -245,6 +250,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Marketing and Communications Manager - https://tinyurl.com/3p6m7y7z FEB 3
 - [ ] REPO (INTERNSHIPS) - https://github.com/speedyapply/2025-AI-College-Jobs OPEN
 - [ ] IFAD Interns - https://tinyurl.com/2h4p6akn OPEN
+- [ ] AI Agent Engineer - https://tinyurl.com/59rznnus FEB 5
+- [ ] AI Agent Internship - https://tinyurl.com/tamv843e FEB 5
 - [ ] IBM Research - https://tinyurl.com/95srs3np OPEN
 - [ ] List of Fully Funded Summer Programs - https://tinyurl.com/3s5jay38
 - [ ] Twilio Interns - https://tinyurl.com/yptshuy9 JAN 31
@@ -304,6 +311,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] University of Geneva Excellence Masters - https://tinyurl.com/rh8d6dtb FEB 9
 - [ ] SCHOLARSHIPS - https://tinyurl.com/4vwa37s7 VARIOUS DEADLINES
 - [ ] BINANCE https://tinyurl.com/56wwtux8 DEC 24
+- [ ] Austria Government Scholarships - https://tinyurl.com/y5cwpkkb FEB 20
 - [ ] Laval 2025 Excellence - https://lnkd.in/gNS9cKgv FEB 20
 - [ ] Mastercard Cambridge University Research - https://lnkd.in/gwE-AhBr MAR 5
 - [ ] Entrance & Excellence Scholarship - https://lnkd.in/gBCKGMQV FEB 15
