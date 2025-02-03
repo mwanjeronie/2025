@@ -134,9 +134,13 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## FEB 
 - [ ] Youth Academic Forum - https://tinyurl.com/3u6n45hn FEB 1
 - [ ] SYP Ambassadors https://tinyurl.com/52yn8d79 FEB 2
+- [ ] 12th Heidelberg Laureate Forum - https://tinyurl.com/5curybj8 FEB 6
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] Future Leaders Assembly - https://tinyurl.com/3um8fk6y FEB 18
+- [ ] World Bank Internship - https://tinyurl.com/mr4c2c3w FEB 8
+- [ ] Prince of Songkla University - https://tinyurl.com/2ujhv985 FEB 8
 - [ ] DL Indaba CFP - https://lnkd.in/dW9eF9zj FEB 18
 - [ ] ECOSOC Youth Forum - https://tinyurl.com/y5cwpkkb FEB 8
 - [ ] (AIF) Grants - https://tinyurl.com/4acnadh6 FEB 4
@@ -162,6 +166,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] INSAIT Summer Research Fellowship - https://tinyurl.com/w7f52b4t FEB 20
 - [ ] Global Protection  - https://tinyurl.com/yjknrz6a FEB 15
 - [ ] AIM RESEARCH https://www.aimresearchprogram.com/ FEB 3
+- [ ] NSTC Taiwan International Internship https://tinyurl.com/yj2ej5as FEB 22
+- [ ] NIMS Internship - https://tinyurl.com/yc6h2uvr FEB 28
 - [ ] Enterprising Futures Scholarship - https://tinyurl.com/yeynctkx FEB 16
 - [ ] (WFF) Young Scientists Group - https://tinyurl.com/4d9adm28 FEB 10
 - [ ] AU-EU Youth Action Lab https://aueuyouth.com/youth-action-lab/ FEB 3
@@ -207,6 +213,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] CloudFest Hackathon
 - [ ] Slingshot Challenge https://tinyurl.com/2p8zv7fr FEB 4
 - [ ] Viva technology-africatech-awards https://tinyurl.com/47uh7erj FEB 19
+- [ ] Bulgaria INSAIT - https://tinyurl.com/2whtvxtj FEB 16
 
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
@@ -233,6 +240,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] One Young World Summit - https://tinyurl.com/t4wedpad APR 20
 - [ ] JJ/WBGSP - https://tinyurl.com/bdha3nab APR 7
 - [ ] world food prize - https://tinyurl.com/nd3bwdhz APR 20
+- [ ] World Leaders Convention - https://tinyurl.com/4crc7shr APR 3
 
 ## MAY
 - [ ] David Sainsbury Scholarship - https://lnkd.in/gvFzpbsy 
@@ -301,10 +309,13 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Trade Organization InternshipS - https://www.wto.org/english/thewto_e/vacan_e/iypp_e.htm
 - [ ] UN-Habitat Urban dESIGN INTERNS - https://tinyurl.com/zh7ycm53 DEC 1 2025
 - [ ] ACU Cordinator - https://shorturl.at/qKXGM JAN 13
+- [ ] NTU Global Connect Fellowship - https://tinyurl.com/b3fdzd45 FEB 13
+- [ ] ETH Robotics Summer Fellowship - https://tinyurl.com/bdzn8aay FEB 10
 - [ ] EMMBIOME Scholarship - https://tinyurl.com/483us2ce MAR 5
 - [ ] Summer 2025 ML Researcher Internship - https://tinyurl.com/5n77v58r JAN 5
 - [ ] WAFF's Three Dot Dash - 2025 Global Teen Leader https://tinyurl.com/55zhjj8d JAN 20
 - [ ] 25 sites that offer remote jobS - https://tinyurl.com/bfdu3nxv
+- [ ] Bulgaria INSAIT - https://tinyurl.com/2whtvxtj OPEN
 
 ## Scholarships
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
