@@ -218,6 +218,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Slingshot Challenge https://tinyurl.com/2p8zv7fr FEB 4
 - [ ] Viva technology-africatech-awards https://tinyurl.com/47uh7erj FEB 19
 - [ ] Bulgaria INSAIT - https://tinyurl.com/2whtvxtj FEB 16
+- [ ] Toyota Boshoku Summer Internship - https://tinyurl.com/4jeaykfw FEB 6
+
 
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
