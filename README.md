@@ -137,7 +137,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 12th Heidelberg Laureate Forum - https://tinyurl.com/5curybj8 FEB 6
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
-- [ ] AFRIPAL https://afripal.org/ FEB 18
+- [ ] AFRIPAL https://afripal.org/ FEB 18 
+- [ ]Youth Voices https://tinyurl.com/4w6keddx FEB 20
+ - [ ]
 - [ ] Summer of Bitcoin - https://www.summerofbitcoin.org/ FEB 6
 - [ ] Future Leaders Assembly - https://tinyurl.com/3um8fk6y FEB 18
 - [ ] World Bank Internship - https://tinyurl.com/mr4c2c3w FEB 8
@@ -181,7 +183,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] ARSO Continental Essay Competition - https://tinyurl.com/3a9sp4fk FEB 20
 - [ ] UCC Proposal - https://tinyurl.com/km66fmk4 FEB 10
 - [ ] Cooperative AI Summer School - https://tinyurl.com/532c38j6 FEB 27
-- [ ] 
+- [ ] The Great Wall Co-Sponsored Fellowship https://tinyurl.com/tytk3t58 FEB 10
 - [ ] McCain Global Leaders Program - https://tinyurl.com/4r4tc4b8 FEB 10
 - [ ] UNDP Timbuktoo Mminetech https://tinyurl.com/yjjc6h4e FEB 1
 - [ ] Research grants - https://tinyurl.com/yajtc366 FEB 22
@@ -200,6 +202,17 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] mckinsey young-leaderS https://tinyurl.com/2rhuca9c FEB 11
 - [ ] Dutch One Young World Summit - https://tinyurl.com/3ep96jys FEB 15
 - [ ] Moving Minds Fellowship - https://tinyurl.com/3jvafskv FEB 4
+- [ ] Google.org Accelerator - https://tinyurl.com/5amkh34d FEB 7
+- [ ] Future of Life Institute - https://tinyurl.com/35wn5ru6 FEB 28
+- [ ] ClearSky Hackathon - https://tinyurl.com/4wnfztrk FEB 28
+- [ ] Community Health Incubator - https://tinyurl.com/597ku6k9 FEB 24
+- [ ] Anticipatory Action Accelerator - https://tinyurl.com/3d4w7u8z FEB 12
+- [ ] Africa Impact Fundraising - https://tinyurl.com/4acnadh6 FEB 6
+- [ ] Equator Prize - https://tinyurl.com/mws4uu74 FEB 16
+- [ ] YouLead Africa - https://tinyurl.com/mustu46m FEB 13
+- [ ] Advancing Adolescent Sexual and Reproductive Health Research - https://tinyurl.com/7za3tpp4 FEB 14
+- [ ] (SURF) 2025 Bulgaria - https://tinyurl.com/547rh27c FEB 24
+- [ ] Baraza’s Data Storytelling Fellowship - https://tinyurl.com/mr5v7yx8 FEB 19
 - [ ] STARTS Prize Africa 2025 - https://lnkd.in/dfQqeXiE FEB 28
 - [ ] Climate Action Window 2025 - https://lnkd.in/dHky-kEZ FEB 1
 - [ ] Deep Learning Indaba https://tinyurl.com/5beva4r4 FEB 15
@@ -219,11 +232,23 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Viva technology-africatech-awards https://tinyurl.com/47uh7erj FEB 19
 - [ ] Bulgaria INSAIT - https://tinyurl.com/2whtvxtj FEB 16
 - [ ] Toyota Boshoku Summer Internship - https://tinyurl.com/4jeaykfw FEB 6
+- [ ] AU-EU Youth Action Lab Grants https://aueuyouth.com/grants/ FEB 24
+- [ ] WILD Fellowship https://tinyurl.com/38t8my5h FEB 11
+- [ ] Changemakers Summit https://tinyurl.com/mvjrfack FEB 16
+- [ ] Young Innovator Awards https://tinyurl.com/59ncxnpp FEB 16
+
+
+
+
+
 
 
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
+- [ ] Summer School on Digital and Green Transitions https://tinyurl.com/449p955t MA3 6
 - [ ] IAISS  2025 https://2025.iaiss.cc/ MAR 14
+- [ ] Africa Oxford Health Innovation https://tinyurl.com/ff42kwbn MAR 7
+- [ ] Headstream Accelerator https://tinyurl.com/yemt57c2 MAR 6
 - [ ] essai2025  https://essai2025.eu/ MAR 6
 - [ ] MIT Solve 2025 https://tinyurl.com/3zxmj92v MAR 
 - [ ] RAISE AFRICA - https://tinyurl.com/4uw47w3h MAR 6
@@ -406,6 +431,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GAYO Fund - https://www.aycf.org/crfas
 - [ ] Nordic Probabilistic AI School https://nordic.probabilistic.ai/ MAR 20
 - [ ] Data Science  & AI Lessons - https://tinyurl.com/3s72h4z4
+- [ ] AU-EU Youth Action Lab Grants https://aueuyouth.com/grants/ 
+- [ ] Live Funding DB - https://www.consideredcapital.io/live-funding-database/
+
+
 
 ## Reads
 - [ ] https://www.free-ebooks.net/poetry/The-Woman
