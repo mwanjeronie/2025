@@ -152,7 +152,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Sustainable Digital Challenge 2025 - https://tinyurl.com/2ejcxnfk FEB 9
 - [ ] UN Young Leaders Sustainability Week - https://tinyurl.com/3cm3e6ns FEB 13
 - [ ] Next Generation Fellows - https://tinyurl.com/38as2bzn FEB 4
-- [ ] TEDx - https://tedx-apply.ted.com/licenses/new?tags=University FEB 5
+- [ ] TEDx - https://tedx-apply.ted.com/licenses/new?tags=University FEB 16
 - [ ] Miller Centre for Social Innovators - https://tinyurl.com/2tpnbk9j FEB 11
 - [ ] Women Entrepreneurs Award - https://tinyurl.com/377ndm6n FEB 12
 - [ ] (ClimaFii) - https://bfaglobal.com/our-work/climafii-alliance/ FEB 12
