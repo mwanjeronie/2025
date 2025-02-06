@@ -138,7 +138,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Peace Forum https://tinyurl.com/4md6dz2r FEB 25
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18 
-- [ ]Youth Voices https://tinyurl.com/4w6keddx FEB 20
+- [ ] Youth Voices https://tinyurl.com/4w6keddx FEB 20
  - [ ]
 - [ ] Summer of Bitcoin - https://www.summerofbitcoin.org/ FEB 6
 - [ ] Future Leaders Assembly - https://tinyurl.com/3um8fk6y FEB 18
@@ -433,6 +433,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Data Science  & AI Lessons - https://tinyurl.com/3s72h4z4
 - [ ] AU-EU Youth Action Lab Grants https://aueuyouth.com/grants/ 
 - [ ] Live Funding DB - https://www.consideredcapital.io/live-funding-database/
+- [ ] https://tinyurl.com/33fme3su
+
 
 
 
@@ -444,6 +446,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] The Bitcoin Development Fund https://tinyurl.com/2s4fefz3
 - [ ] Accelerate AFRICA - JUNE 30
 - [ ] CYBER SEC FORECAST - https://tinyurl.com/bdhfjnb7
+- [ ] Delete All (But Two) Social Media Platforms https://tinyurl.com/33fme3su
+
 
 ## Reading
 - [ ] State of Mobile 2025 report - https://shorturl.at/JS239
