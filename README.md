@@ -139,7 +139,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Google GenAI Accelerator - https://tinyurl.com/r5kd4t78 FEB 5
 - [ ] AFRIPAL https://afripal.org/ FEB 18 
 - [ ] Youth Voices https://tinyurl.com/4w6keddx FEB 20
- - [ ]
+- [ ] The Tarbell Fellowship https://tinyurl.com/4wyxxf2n FEB 20
 - [ ] Summer of Bitcoin - https://www.summerofbitcoin.org/ FEB 6
 - [ ] Future Leaders Assembly - https://tinyurl.com/3um8fk6y FEB 18
 - [ ] World Bank Internship - https://tinyurl.com/mr4c2c3w FEB 8
@@ -163,6 +163,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] climate-investment-challenge https://tinyurl.com/mssmmjwt FEB 16
 - [ ] Caltech Summer Undergraduate Research - https://tinyurl.com/4jub7k7f FEB 5
 - [ ] Youth Impact Forum https://tinyurl.com/mwpf96ek FEB 20
+- [ ] NUS Young Professionals https://tinyurl.com/25eh8abu FEB 20
+- [ ] 
 - [ ] The Club of Rome Communications Fellowship - https://tinyurl.com/3urfaywd FEB 25
 - [ ] FORBES AFRICA’s 30 Under 30 - https://tinyurl.com/4urbb42v FEB 11
 - [ ] Moving Minds Research - https://tinyurl.com/ycje2ysx FEB 9
