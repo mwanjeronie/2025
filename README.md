@@ -303,6 +303,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AI Agent Engineer - https://tinyurl.com/59rznnus FEB 5
 - [ ] AI Agent Internship - https://tinyurl.com/tamv843e FEB 5
 - [ ] IBM Research - https://tinyurl.com/95srs3np OPEN
+- [ ] Spain CNIO Summer Training https://tinyurl.com/2rdvz8ys MAR 10
 - [ ] List of Fully Funded Summer Programs - https://tinyurl.com/3s5jay38
 - [ ] Twilio Interns - https://tinyurl.com/yptshuy9 JAN 31
 - [ ] GRIPS Summer Research - https://tinyurl.com/5arrehfs FEB 24
