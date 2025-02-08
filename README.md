@@ -316,6 +316,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IST Summer Internship - https://tinyurl.com/yv5pespk JAN 20
 - [ ] IREX Intern - https://tinyurl.com/3jnw8cdk FEB 11
 - [ ] IOM Global Internship - https://tinyurl.com/3e2yd8fa JAN 26
+- [ ] IMF Interns https://tinyurl.com/2n32dxvs FEB 28
 - [ ] OECD Internship - https://tinyurl.com/apnjzhhz JAN 26
 - [ ] University of Hong Kong Summer Program - https://tinyurl.com/3ay89a7d JAN 23
 - [ ] EPFL Life Sciences Summer Research - https://tinyurl.com/4zyx4b3z JAN 15
