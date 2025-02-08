@@ -164,7 +164,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Caltech Summer Undergraduate Research - https://tinyurl.com/4jub7k7f FEB 5
 - [ ] Youth Impact Forum https://tinyurl.com/mwpf96ek FEB 20
 - [ ] NUS Young Professionals https://tinyurl.com/25eh8abu FEB 20
-- [ ] 
+- [ ] Germany HZDR https://tinyurl.com/3j2t4jur FEB 16
 - [ ] The Club of Rome Communications Fellowship - https://tinyurl.com/3urfaywd FEB 25
 - [ ] FORBES AFRICA’s 30 Under 30 - https://tinyurl.com/4urbb42v FEB 11
 - [ ] Moving Minds Research - https://tinyurl.com/ycje2ysx FEB 9
@@ -247,6 +247,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
+- [ ] Charity Entrepreneurship Incubation https://tinyurl.com/975ptyy7 MAR 14
 - [ ] Summer School on Digital and Green Transitions https://tinyurl.com/449p955t MA3 6
 - [ ] IAISS  2025 https://2025.iaiss.cc/ MAR 14
 - [ ] Africa Oxford Health Innovation https://tinyurl.com/ff42kwbn MAR 7
