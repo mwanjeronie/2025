@@ -238,6 +238,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WILD Fellowship https://tinyurl.com/38t8my5h FEB 11
 - [ ] Changemakers Summit https://tinyurl.com/mvjrfack FEB 16
 - [ ] Young Innovator Awards https://tinyurl.com/59ncxnpp FEB 16
+- [ ] POSTECH Summer Program https://tinyurl.com/ht8mds3v FEB 22
+
 
 
 
