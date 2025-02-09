@@ -256,7 +256,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Headstream Accelerator https://tinyurl.com/yemt57c2 MAR 6
 - [ ] essai2025  https://essai2025.eu/ MAR 6
 - [ ] Bonn SDG Fellowship https://tinyurl.com/yrdstfcs MAR 14
-- [ ] 
+- [ ] The Black Hat Asia 2025 https://www.blackhat.com/asia-25/scholarships.html MAR 2
 - [ ] MIT Solve 2025 https://tinyurl.com/3zxmj92v MAR 
 - [ ] RAISE AFRICA - https://tinyurl.com/4uw47w3h MAR 6
 - [ ] CloudFest Hackathon https://tinyurl.com/4fmf2nzy MAR 2
