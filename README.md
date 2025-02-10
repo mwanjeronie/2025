@@ -165,6 +165,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Youth Impact Forum https://tinyurl.com/mwpf96ek FEB 20
 - [ ] NUS Young Professionals https://tinyurl.com/25eh8abu FEB 20
 - [ ] Germany HZDR https://tinyurl.com/3j2t4jur FEB 16
+- [ ] Outreachy internship - https://tinyurl.com/ymuuhm8v FEB 12
+- [ ] 
 - [ ] The Club of Rome Communications Fellowship - https://tinyurl.com/3urfaywd FEB 25
 - [ ] FORBES AFRICA’s 30 Under 30 - https://tinyurl.com/4urbb42v FEB 11
 - [ ] Moving Minds Research - https://tinyurl.com/ycje2ysx FEB 9
@@ -239,6 +241,22 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Changemakers Summit https://tinyurl.com/mvjrfack FEB 16
 - [ ] Young Innovator Awards https://tinyurl.com/59ncxnpp FEB 16
 - [ ] POSTECH Summer Program https://tinyurl.com/ht8mds3v FEB 22
+- [ ] Youth Leadership Competition. https://tinyurl.com/59r937mc FEB 13
+- [ ] Outreachy CFP https://tinyurl.com/hbun65x4 FEB 20
+- [ ] Youth Voices Lab https://tinyurl.com/4w6keddx FEB 23 
+- [ ] HENNGE’s Global Internship https://recruit.hennge.com/en/gip/ FEB 16
+- [ ] Ashinaga https://tinyurl.com/hsfp7ea6 FEB 16
+- [ ] IBM H https://tinyurl.com/4uayrnnx -  FEB 19
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 
 
@@ -252,6 +270,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Charity Entrepreneurship Incubation https://tinyurl.com/975ptyy7 MAR 14
 - [ ] Summer School on Digital and Green Transitions https://tinyurl.com/449p955t MA3 6
 - [ ] IAISS  2025 https://2025.iaiss.cc/ MAR 14
+- [ ] Youth Climate Action Fund https://tinyurl.com/2vajfxy8 MAR 8
+- [ ] 
 - [ ] Africa Oxford Health Innovation https://tinyurl.com/ff42kwbn MAR 7
 - [ ] Headstream Accelerator https://tinyurl.com/yemt57c2 MAR 6
 - [ ] essai2025  https://essai2025.eu/ MAR 6
@@ -278,6 +298,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Academia Sinica https://tinyurl.com/3h3s8bf4 MAR 2
 - [ ] The 34th Jyväskylä Summer School - https://tinyurl.com/22j6277a MAR 16
 - [ ] ICVSS 2025 https://iplab.dmi.unict.it/icvss/ MAR 16
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## APR
 - [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez
@@ -287,17 +315,49 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] world food prize - https://tinyurl.com/nd3bwdhz APR 20
 - [ ] World Leaders Convention - https://tinyurl.com/4crc7shr APR 3
 - [ ] Rotary Peace Fellowship https://tinyurl.com/mry5fk9c APR 27
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## MAY
-- [ ] David Sainsbury Scholarship - https://lnkd.in/gvFzpbsy 
+- [ ] David Sainsbury Scholarship - https://lnkd.in/gvFzpbsy MAY 3
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## JUN
 - [ ] IndabaDL https://deeplearningindaba.com/2025/ JUN 20
 - [ ] Rapid Response Fund - https://tinyurl.com/47652h35 OPEN
 - [ ] Leading Scholarship https://tinyurl.com/5n8ucuuv JUN 28
 - [ ] NORMAN borlaug-award - https://tinyurl.com/2sa4x9nd JUNE 2
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## JUL
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] 
 
 ## JOBS & INTERNSHIPS
@@ -364,6 +424,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WAFF's Three Dot Dash - 2025 Global Teen Leader https://tinyurl.com/55zhjj8d JAN 20
 - [ ] 25 sites that offer remote jobS - https://tinyurl.com/bfdu3nxv
 - [ ] Bulgaria INSAIT - https://tinyurl.com/2whtvxtj OPEN
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## Scholarships
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
@@ -416,10 +484,26 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] University of Oxford https://tinyurl.com/bdz2ej4w OPEN
 - [ ] OIST Japan Internship https://tinyurl.com/57ub74cn MAR 10
 - [ ] NIG Research Internship https://tinyurl.com/yzph26h5 JAN 1
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## EVENTS
 - [ ] Africa Media Festival https://barazamedialab.zohobackstage.com/AMF2025 FEB 10
 - [ ] AFS Youth Assembly Grants - JAN 15
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## Ambassadorships
 - [ ] DLI nvidia - https://tinyurl.com/4bhhcwhk OPEN
@@ -432,6 +516,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] DeepLearning.AI Event ambassadors https://www.deeplearning.ai/ambassador/
 - [ ] Telemus AI Ambassador https://telemus.ai/ambassador_program.html
 - [ ] Perplexity AI https://www.perplexity.ai/campus-strategists 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## Offers
 - [ ] Notion for Startups - https://www.notion.com/startups?
@@ -443,6 +535,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AU-EU Youth Action Lab Grants https://aueuyouth.com/grants/ 
 - [ ] Live Funding DB - https://www.consideredcapital.io/live-funding-database/
 - [ ] https://tinyurl.com/33fme3su
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 
 
@@ -456,6 +556,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Accelerate AFRICA - JUNE 30
 - [ ] CYBER SEC FORECAST - https://tinyurl.com/bdhfjnb7
 - [ ] Delete All (But Two) Social Media Platforms https://tinyurl.com/33fme3su
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 
 ## Reading
@@ -463,6 +571,18 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] What Google’s quantum computing breakthrough Willow means for the future of bitcoin and other cryptos https://tinyurl.com/rt94dehh
 - [ ] HP Free Online Courses 2025 https://careeroppotunities.com/hp-free-online-courses-2025/
 - [ ] LLM Evaluation with Opik https://tinyurl.com/2xy893ta 
+- [ ] Building a Universal Assistant to connect with any API - https://tinyurl.com/3emew5k8
+- [ ] What 700 days of failure taught me https://tinyurl.com/2bbr4rt4
+- [ ] DELETE ALL SOCIALS BUT THESE 2
+- [ ] biggest mistake startup leaders make  https://tinyurl.com/4tdjrezt 
+- [ ] DeepSeek Debates https://semianalysis.com/2025/01/31/deepseek-debates/
+- [ ] DeepSeek might not be as disruptive as claimed https://tinyurl.com/2zwcj4hm
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## WEBSITES TO COPY
 - [ ] https://tribevibe.live/campus-ambassador.php
