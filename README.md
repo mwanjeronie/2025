@@ -166,7 +166,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] NUS Young Professionals https://tinyurl.com/25eh8abu FEB 20
 - [ ] Germany HZDR https://tinyurl.com/3j2t4jur FEB 16
 - [ ] Outreachy internship - https://tinyurl.com/ymuuhm8v FEB 12
-- [ ] 
+- [ ] Indaba Practicals Developers 2025 https://lnkd.in/dbqHFNej FEB 28
 - [ ] The Club of Rome Communications Fellowship - https://tinyurl.com/3urfaywd FEB 25
 - [ ] FORBES AFRICA’s 30 Under 30 - https://tinyurl.com/4urbb42v FEB 11
 - [ ] Moving Minds Research - https://tinyurl.com/ycje2ysx FEB 9
