@@ -298,7 +298,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Academia Sinica https://tinyurl.com/3h3s8bf4 MAR 2
 - [ ] The 34th Jyväskylä Summer School - https://tinyurl.com/22j6277a MAR 16
 - [ ] ICVSS 2025 https://iplab.dmi.unict.it/icvss/ MAR 16
-- [ ] 
+- [ ] EEML Summer School https://tinyurl.com/yn6byjha MAR 11
 - [ ] 
 - [ ] 
 - [ ] 
