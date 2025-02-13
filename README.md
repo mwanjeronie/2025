@@ -326,7 +326,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## MAY
 - [ ] David Sainsbury Scholarship - https://lnkd.in/gvFzpbsy MAY 3
-- [ ] 
+- [ ] NASA SPACE LOCAL LEAD - https://tinyurl.com/2m44pb56 MAY 23
 - [ ] 
 - [ ] 
 - [ ] 
