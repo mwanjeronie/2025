@@ -247,8 +247,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] HENNGE’s Global Internship https://recruit.hennge.com/en/gip/ FEB 16
 - [ ] Ashinaga https://tinyurl.com/hsfp7ea6 FEB 16
 - [ ] IBM H https://tinyurl.com/4uayrnnx -  FEB 19
-- [ ] 
-- [ ] 
+- [ ] Citi Foundation Global Innovation https://tinyurl.com/mpcx5cxf FEB 22
+- [ ] Ban Ki-Moon Centre Global https://tinyurl.com/3sa8nja3 FEB 17
 - [ ] 
 - [ ] 
 - [ ] 
@@ -271,7 +271,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Summer School on Digital and Green Transitions https://tinyurl.com/449p955t MA3 6
 - [ ] IAISS  2025 https://2025.iaiss.cc/ MAR 14
 - [ ] Youth Climate Action Fund https://tinyurl.com/2vajfxy8 MAR 8
-- [ ] 
+- [ ]    https://tinyurl.com/yckuhkku 
 - [ ] Africa Oxford Health Innovation https://tinyurl.com/ff42kwbn MAR 7
 - [ ] Headstream Accelerator https://tinyurl.com/yemt57c2 MAR 6
 - [ ] essai2025  https://essai2025.eu/ MAR 6
