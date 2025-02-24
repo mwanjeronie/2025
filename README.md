@@ -299,8 +299,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] The 34th Jyväskylä Summer School - https://tinyurl.com/22j6277a MAR 16
 - [ ] ICVSS 2025 https://iplab.dmi.unict.it/icvss/ MAR 16
 - [ ] EEML Summer School https://tinyurl.com/yn6byjha MAR 11
-- [ ] 
-- [ ] 
+- [ ] NSTC - https://tinyurl.com/yj2ej5as MAR 13
+- [ ] NIMS https://tinyurl.com/yc6h2uvr MAR 8 (REACH TO HOST)
 - [ ] 
 - [ ] 
 - [ ] 
