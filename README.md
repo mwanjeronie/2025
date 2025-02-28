@@ -301,11 +301,33 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] EEML Summer School https://tinyurl.com/yn6byjha MAR 11
 - [ ] NSTC - https://tinyurl.com/yj2ej5as MAR 13
 - [ ] NIMS https://tinyurl.com/yc6h2uvr MAR 8 (REACH TO HOST)
+- [ ] AWS Club Captain - http://s12d.com/students http://s12d.com/students MAR 3
+- [ ] TOEFL Challenge - https://tinyurl.com/u8sch883 MAR 6
+- [ ] Open Ended H - https://tinyurl.com/u8sch883
+- [ ] The KBF Africa Prize https://kbfafrica.org/the-prize/ MAR 1
+- [ ] French-African https://french-african.org/young-leaders/ MAR 16
+- [ ] Nelson Mandela - Graça Machel Innovation Awards https://tinyurl.com/3ny399az MAR 4
+- [ ] YoutHX - https://www.youthxyouth.com/programs/weavership MAR 3
+- [ ] The GBEP Youth Award https://tinyurl.com/yxntc9v4 MAR 30
+- [ ] Live Redisdency https://www.livetheresidency.com/ MAR 9
+- [ ] 2025 Commonwealth Day https://tinyurl.com/3wrc6z73 MAR 1 https://tinyurl.com/ypev8txd
+- [ ] Erasmus SS+ https://tinyurl.com/ypev8txd MAR 3
+- [ ] IEEE Entrepreneurship Summit https://tinyurl.com/bz9yyxbb MAR 3
+- [ ] AfriLabs Nairobi - https://tinyurl.com/2pkfmaeu MAR 9
+- [ ] YIL - https://younginnovationleaders.org/application-portal/ MAR 9
+- [ ] YC Summer Fellows - https://www.ycombinator.com/blog/summer-fellows MAR 17
+- [ ] YC X25 https://www.ycombinator.com/apply MAR 16
+- [ ] Nordic AI - https://nordic.probabilistic.ai/ MAR 6
 - [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
+- [ ] 
+
+
+
+
 
 ## APR
 - [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez
