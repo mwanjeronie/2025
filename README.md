@@ -318,9 +318,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] YC Summer Fellows - https://www.ycombinator.com/blog/summer-fellows MAR 17
 - [ ] YC X25 https://www.ycombinator.com/apply MAR 16
 - [ ] Nordic AI - https://nordic.probabilistic.ai/ MAR 6
-- [ ] SUI - https://tinyurl.com/37mfh9afMAR 14
-- [ ] 
-- [ ] 
+- [ ] SUI - https://tinyurl.com/37mfh9af MAR 14
+- [ ] DevP - https://tinyurl.com/5fvsx7at MAR 10
+- [ ] ISOC Community Fellowship https://tinyurl.com/yyc55yha MAR 9
 - [ ] 
 - [ ] 
 - [ ] 
