@@ -268,10 +268,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## MAR
 - [ ] World IP Day Youth Video Competition MAR 4
 - [ ] Charity Entrepreneurship Incubation https://tinyurl.com/975ptyy7 MAR 14
-- [ ] Summer School on Digital and Green Transitions https://tinyurl.com/449p955t MA3 6
+- [ ] Summer School on Digital and Green Transitions https://tinyurl.com/449p955t MAR 6
 - [ ] IAISS  2025 https://2025.iaiss.cc/ MAR 14
 - [ ] Youth Climate Action Fund https://tinyurl.com/2vajfxy8 MAR 8
-- [ ]    https://tinyurl.com/yckuhkku 
+- [ ] UToronto   https://tinyurl.com/yckuhkku MAR 13
 - [ ] Africa Oxford Health Innovation https://tinyurl.com/ff42kwbn MAR 7
 - [ ] Headstream Accelerator https://tinyurl.com/yemt57c2 MAR 6
 - [ ] essai2025  https://essai2025.eu/ MAR 6
@@ -310,7 +310,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] YoutHX - https://www.youthxyouth.com/programs/weavership MAR 3
 - [ ] The GBEP Youth Award https://tinyurl.com/yxntc9v4 MAR 30
 - [ ] Live Redisdency https://www.livetheresidency.com/ MAR 9
-- [ ] 2025 Commonwealth Day https://tinyurl.com/3wrc6z73 MAR 1 https://tinyurl.com/ypev8txd
+- [ ] 2025 Commonwealth Day https://tinyurl.com/3wrc6z73 MAR 1 
 - [ ] Erasmus SS+ https://tinyurl.com/ypev8txd MAR 3
 - [ ] IEEE Entrepreneurship Summit https://tinyurl.com/bz9yyxbb MAR 3
 - [ ] AfriLabs Nairobi - https://tinyurl.com/2pkfmaeu MAR 9
