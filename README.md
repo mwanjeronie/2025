@@ -321,9 +321,25 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] SUI - https://tinyurl.com/37mfh9af MAR 14
 - [ ] DevP - https://tinyurl.com/5fvsx7at MAR 10
 - [ ] ISOC Community Fellowship https://tinyurl.com/yyc55yha MAR 9
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] GSMA https://tinyurl.com/yc2atxr4 MAR 9
+- [ ] CAPACITY Fellowship https://wp.me/p23f03-dce MAR 14
+- [ ] GLF Landscape Leadership Camp https://wp.me/p23f03-cZ0 MAR 10
+- [ ] KU Leuven Summer School https://wp.me/p23f03-d9k MAR 10
+- [ ] Sustainable Agriculture vISIT - https://wp.me/p23f03-d8d MAR 11
+- [ ] EU4Ocean Summer School https://wp.me/p23f03-d9e MAR 12
+- [ ] NCHR Intensive Course in Human Rights  https://wp.me/p23f03-d9h MAR 20
+- [ ] Armament & Disarmament Summer School http://wp.me/p23f03-dcX MAR 22
+- [ ] Swiss Summer Student https://tinyurl.com/re5juxw2 MAR 9
+- [ ] ASPIRE Summer Student Program https://tinyurl.com/b2xj45sc MAR 6
+- [ ] Alpbach 2025 https://tinyurl.com/4nwws784 MAR 11
+- [ ] ICIQ Spain  https://tinyurl.com/yyranktp MAR 12
+- [ ] M2L Summer School https://tinyurl.com/c3ja8d8n MAR 15
+- [ ] SK Global Scholarship https://tinyurl.com/2jtf4468 MAR 16
+- [ ] GCYLP https://tinyurl.com/yam4pbt4 MAR 21
+
+
+
+
 
 
 
@@ -337,9 +353,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] world food prize - https://tinyurl.com/nd3bwdhz APR 20
 - [ ] World Leaders Convention - https://tinyurl.com/4crc7shr APR 3
 - [ ] Rotary Peace Fellowship https://tinyurl.com/mry5fk9c APR 27
+- [ ] MIT SOLVE https://tinyurl.com/2p9pnuvh APR 1 
 - [ ] 
-- [ ] 
-- [ ] 
+- [ ] DjangoCon US 2025 https://pretalx.com/djangocon-us-2025/cfp APR 10
 - [ ] 
 - [ ] 
 - [ ] 
@@ -547,7 +563,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 
 - [ ] 
 
-## Offers
+## Offers & Grants
 - [ ] Notion for Startups - https://www.notion.com/startups?
 - [ ] Builder ai - https://www.builder.ai/events/dreambuilder25?
 - [ ] Cohere For AI Research Grant Program - https://tinyurl.com/4wfrfjkh OPEN
@@ -557,7 +573,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AU-EU Youth Action Lab Grants https://aueuyouth.com/grants/ 
 - [ ] Live Funding DB - https://www.consideredcapital.io/live-funding-database/
 - [ ] https://tinyurl.com/33fme3su
-- [ ] 
+- [ ] Paperplane https://open-startup.org/Programs/paperplane
 - [ ] 
 - [ ] 
 - [ ] 
