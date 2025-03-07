@@ -337,7 +337,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] SK Global Scholarship https://tinyurl.com/2jtf4468 MAR 16
 - [ ] GCYLP https://tinyurl.com/yam4pbt4 MAR 21
 - [ ] Hayden Academy https://tinyurl.com/mrxr9uz2 MAR 11
-- [ ] 
+- [ ] RIKEN RIH Summer https://tinyurl.com/2zn8fb7h MAR 13
 - [ ] 
 - [ ] 
 - [ ] 
@@ -362,7 +362,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Leaders Convention - https://tinyurl.com/4crc7shr APR 3
 - [ ] Rotary Peace Fellowship https://tinyurl.com/mry5fk9c APR 27
 - [ ] MIT SOLVE https://tinyurl.com/2p9pnuvh APR 1 
-- [ ] 
+- [ ] Deloitte Scholarship https://tinyurl.com/3wdfa9k3 APR 6
 - [ ] DjangoCon US 2025 https://pretalx.com/djangocon-us-2025/cfp APR 10
 - [ ] 
 - [ ] 
@@ -623,7 +623,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] biggest mistake startup leaders make  https://tinyurl.com/4tdjrezt 
 - [ ] DeepSeek Debates https://semianalysis.com/2025/01/31/deepseek-debates/
 - [ ] DeepSeek might not be as disruptive as claimed https://tinyurl.com/2zwcj4hm
-- [ ] 
+- [ ] NETHERMIND PROJECTS - https://tinyurl.com/mv279ffa
 - [ ] 
 - [ ] 
 - [ ] 
