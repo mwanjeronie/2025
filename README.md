@@ -20,6 +20,10 @@ If you find this tracker helpful, please consider giving it a star 🌟! Feel fr
 ## 📌 Follow Me
 Stay connected and follow me on GitHub for more updates and resources.
 
+## ⭐️ Another Great Repo for Students:
+- [x] https://tinyurl.com/4wfed4pv
+
+
 ## JAN
 - [ ] UPCOMING - https://www.openhackathons.org/s/upcoming-events
 - [ ] UPCOMING - https://mlh.io/seasons/2025/events
@@ -338,7 +342,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GCYLP https://tinyurl.com/yam4pbt4 MAR 21
 - [ ] Hayden Academy https://tinyurl.com/mrxr9uz2 MAR 11
 - [ ] RIKEN RIH Summer https://tinyurl.com/2zn8fb7h MAR 13
-- [ ] 
+- [ ] Spacecoin https://tinyurl.com/2msfx7na  MAR 16
 - [ ] 
 - [ ] 
 
@@ -530,7 +534,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] University of Oxford https://tinyurl.com/bdz2ej4w OPEN
 - [ ] OIST Japan Internship https://tinyurl.com/57ub74cn MAR 10
 - [ ] NIG Research Internship https://tinyurl.com/yzph26h5 JAN 1
-- [ ] 
+- [ ]
 - [ ] 
 - [ ] 
 - [ ] 
