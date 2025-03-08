@@ -281,7 +281,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] essai2025  https://essai2025.eu/ MAR 6
 - [ ] Bonn SDG Fellowship https://tinyurl.com/yrdstfcs MAR 14
 - [ ] The Black Hat Asia 2025 https://www.blackhat.com/asia-25/scholarships.html MAR 2
-- [ ] MIT Solve 2025 https://tinyurl.com/3zxmj92v MAR 
+- [ ] 
 - [ ] RAISE AFRICA - https://tinyurl.com/4uw47w3h MAR 6
 - [ ] CloudFest Hackathon https://tinyurl.com/4fmf2nzy MAR 2
 - [ ] Digital and Green Transition - https://tinyurl.com/449p955t MAR 8
@@ -343,7 +343,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Hayden Academy https://tinyurl.com/mrxr9uz2 MAR 11
 - [ ] RIKEN RIH Summer https://tinyurl.com/2zn8fb7h MAR 13
 - [ ] Spacecoin https://tinyurl.com/2msfx7na  MAR 16
-- [ ] 
+- [ ] CIF Call 2025 https://tinyurl.com/4sbzsvys MAR 28
 - [ ] 
 
 
@@ -368,8 +368,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] MIT SOLVE https://tinyurl.com/2p9pnuvh APR 1 
 - [ ] Deloitte Scholarship https://tinyurl.com/3wdfa9k3 APR 6
 - [ ] DjangoCon US 2025 https://pretalx.com/djangocon-us-2025/cfp APR 10
-- [ ] 
-- [ ] 
+- [ ] World Bank Group Youth Summit https://tinyurl.com/3vrp958n APRIL  2
+- [ ] Wellcome Funding Advisory https://tinyurl.com/2zb8utmn APR 3
 - [ ] 
 - [ ] 
 - [ ] 
