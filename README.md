@@ -370,7 +370,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] DjangoCon US 2025 https://pretalx.com/djangocon-us-2025/cfp APR 10
 - [ ] World Bank Group Youth Summit https://tinyurl.com/3vrp958n APRIL  2
 - [ ] Wellcome Funding Advisory https://tinyurl.com/2zb8utmn APR 3
-- [ ] 
+- [ ] UNICEF Equity-Free Funding https://tinyurl.com/ycxkxpx9 APR 20
 - [ ] 
 - [ ] 
 
