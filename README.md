@@ -304,7 +304,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] ICVSS 2025 https://iplab.dmi.unict.it/icvss/ MAR 16
 - [ ] EEML Summer School https://tinyurl.com/yn6byjha MAR 11
 - [ ] NSTC - https://tinyurl.com/yj2ej5as MAR 13
-- [ ] NIMS https://tinyurl.com/yc6h2uvr MAR 8 (REACH TO HOST)
+- [ ] NIMS https://tinyurl.com/yc6h2uvr HOST AGAIN  MAR 18
 - [ ] AWS Club Captain - http://s12d.com/students http://s12d.com/students MAR 3
 - [ ] TOEFL Challenge - https://tinyurl.com/u8sch883 MAR 6
 - [ ] Open Ended H - https://tinyurl.com/u8sch883
@@ -371,7 +371,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Bank Group Youth Summit https://tinyurl.com/3vrp958n APRIL  2
 - [ ] Wellcome Funding Advisory https://tinyurl.com/2zb8utmn APR 3
 - [ ] UNICEF Equity-Free Funding https://tinyurl.com/ycxkxpx9 APR 20
-- [ ] 
+- [ ] OIST program https://tinyurl.com/34cfxzst MAR 30
 - [ ] 
 
 ## MAY
