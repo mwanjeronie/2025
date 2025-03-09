@@ -344,7 +344,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] RIKEN RIH Summer https://tinyurl.com/2zn8fb7h MAR 13
 - [ ] Spacecoin https://tinyurl.com/2msfx7na  MAR 16
 - [ ] CIF Call 2025 https://tinyurl.com/4sbzsvys MAR 28
-- [ ] 
+- [ ] CAD EXCHANGE Canada – Cultural Exchange Program 
 
 
 
