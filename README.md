@@ -345,20 +345,32 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Spacecoin https://tinyurl.com/2msfx7na  MAR 16
 - [ ] CIF Call 2025 https://tinyurl.com/4sbzsvys MAR 28
 - [ ] CAD EXCHANGE Canada – Cultural Exchange Program 
-
-
-
-
-
-
-
-
-
-
+- [ ] WeRise Grant https://tinyurl.com/yc4ak4kf MAR 12
+- [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk MAR 17
+- [ ] Indigenous Peoples Resilience Fund 2025 https://tinyurl.com/24wh52xd MAR 18
+- [ ] Grants for Good https://tinyurl.com/2w7cyza6 MAR 16
+- [ ] GSMA Innovation Fund for Impactful AI https://tinyurl.com/3teymdat MAR 11
+- [ ] Youth Climate Action Fund https://tinyurl.com/2ay2e2ew MAR 11
+- [ ] Danida Fellows Networkers Grant https://tinyurl.com/bddjkkth   MAR 13
+- [ ] Hackathon - IEEE Africa https://tinyurl.com/y5sxts4p (INFO SESSION)  MAR 24 
+- [ ] IEEEXtreme Student Ambassador https://tinyurl.com/43hmve9a MAR 26
+- [ ] YC Fellows https://tinyurl.com/yb9bej3m MAR 21
+- [ ] Young Leaders program https://lnkd.in/dB6rKPmH MAR 21
+- [ ] 
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ] OIST program https://tinyurl.com/34cfxzst MAR 30
+- [ ] Climate Mobility Fellowship (CMF) 2025 https://lnkd.in/dCCTZtkJ MAR 13
 
 
 ## APR
-- [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez
+- [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez APR 10
 - [ ] One Young World Summit - https://tinyurl.com/t4wedpad APR 20
 - [ ] JJ/WBGSP - https://tinyurl.com/bdha3nab APR 7
 - [ ] Einstein Award in Research - https://tinyurl.com/mtmtd6n8 APR 15
@@ -371,14 +383,13 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Bank Group Youth Summit https://tinyurl.com/3vrp958n APRIL  2
 - [ ] Wellcome Funding Advisory https://tinyurl.com/2zb8utmn APR 3
 - [ ] UNICEF Equity-Free Funding https://tinyurl.com/ycxkxpx9 APR 20
-- [ ] OIST program https://tinyurl.com/34cfxzst MAR 30
-- [ ] 
+
 
 ## MAY
 - [ ] David Sainsbury Scholarship - https://lnkd.in/gvFzpbsy MAY 3
 - [ ] NASA SPACE LOCAL LEAD - https://tinyurl.com/2m44pb56 MAY 23
-- [ ] 
-- [ ] 
+- [ ] Youth4Climate https://tinyurl.com/3mchbpsb MAY 1
+- [ ] Youth Leader Fund (YLF)  https://tinyurl.com/2wjn7kxu APR 1
 - [ ] 
 - [ ] 
 - [ ] 
