@@ -383,7 +383,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Bank Group Youth Summit https://tinyurl.com/3vrp958n APRIL  2
 - [ ] Wellcome Funding Advisory https://tinyurl.com/2zb8utmn APR 3
 - [ ] UNICEF Equity-Free Funding https://tinyurl.com/ycxkxpx9 APR 20
-- [ ] 
+- [ ] CHEGG PRIZE https://www.chegg.org/global-student-prize-2024-winner APRIL 10 
 - [ ] Global Leadership & Business Certification https://tinyurl.com/5vuskkj4 APR 10
 - [ ] 
 - [ ] 
