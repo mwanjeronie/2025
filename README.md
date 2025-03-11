@@ -356,10 +356,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IEEEXtreme Student Ambassador https://tinyurl.com/43hmve9a MAR 26
 - [ ] YC Fellows https://tinyurl.com/yb9bej3m MAR 21
 - [ ] Young Leaders program https://lnkd.in/dB6rKPmH MAR 21
+- [ ] Spain CNIO Summer Training https://tinyurl.com/2rdvz8ys MAR 20
+- [ ] EEML Summer School https://tinyurl.com/yn6byjha MAR 23 
+- [ ] Armament and Disarmament Summer School https://tinyurl.com/3zasa8k4 MAR 25
 - [ ] 
-- [ ]
-- [ ]
-- [ ]
 - [ ]
 - [ ]
 - [ ]
@@ -385,7 +385,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UNICEF Equity-Free Funding https://tinyurl.com/ycxkxpx9 APR 20
 - [ ] CHEGG PRIZE https://www.chegg.org/global-student-prize-2024-winner APRIL 10 
 - [ ] Global Leadership & Business Certification https://tinyurl.com/5vuskkj4 APR 10
-- [ ] 
+- [ ]  Youth Leader Fund (YLF)  https://tinyurl.com/2wjn7kxu APR 1
 - [ ] 
 - [ ] 
 - [ ] 
@@ -398,9 +398,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] David Sainsbury Scholarship - https://lnkd.in/gvFzpbsy MAY 3
 - [ ] NASA SPACE LOCAL LEAD - https://tinyurl.com/2m44pb56 MAY 23
 - [ ] Youth4Climate https://tinyurl.com/3mchbpsb MAY 1
-- [ ] Youth Leader Fund (YLF)  https://tinyurl.com/2wjn7kxu APR 1
-- [ ] 
-- [ ] 
+- [ ]
+- [ ] Einstein Fellowship https://tinyurl.com/4hwkc262 MAY 8
+- [ ] HISA Youth Fellowship https://tinyurl.com/2m4zdmju MAY 15
 - [ ] 
 - [ ] 
 - [ ] 
