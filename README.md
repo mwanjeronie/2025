@@ -281,7 +281,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] essai2025  https://essai2025.eu/ MAR 6
 - [ ] Bonn SDG Fellowship https://tinyurl.com/yrdstfcs MAR 14
 - [ ] The Black Hat Asia 2025 https://www.blackhat.com/asia-25/scholarships.html MAR 2
-- [ ] 
+- [ ] GSOC - https://summerofcode.withgoogle.com/ MAR 20
 - [ ] RAISE AFRICA - https://tinyurl.com/4uw47w3h MAR 6
 - [ ] CloudFest Hackathon https://tinyurl.com/4fmf2nzy MAR 2
 - [ ] Digital and Green Transition - https://tinyurl.com/449p955t MAR 8
@@ -359,14 +359,30 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Spain CNIO Summer Training https://tinyurl.com/2rdvz8ys MAR 20
 - [ ] EEML Summer School https://tinyurl.com/yn6byjha MAR 23 
 - [ ] Armament and Disarmament Summer School https://tinyurl.com/3zasa8k4 MAR 25
-- [ ] 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] UIS START-UP REQUEST https://tally.so/r/w5vydQ MAR 26
+- [ ] KendoReact https://tinyurl.com/vd63e9ju MAR 19
+- [ ] UC San Diego International Summer https://tinyurl.com/3mumkr8p MAR 20
+- [ ] Global AI Agents League https://tinyurl.com/5fvsx7at MAR 24
+- [ ] AFRICA STARTUP FORUM 2025 https://tinyurl.com/2eyxf9zf MAR 18
 - [ ] UN Youth Biosecurity Fellowship  https://tinyurl.com/ybuv3e2p MAR 26
 - [ ] OIST program https://tinyurl.com/34cfxzst MAR 30
 - [ ] Climate Mobility Fellowship (CMF) 2025 https://lnkd.in/dCCTZtkJ MAR 13
+- [ ] COP30 BRAZIL FUNDING https://tinyurl.com/5s9np9s2 MAR 21
+- [ ] Buzuzu-Mavi Challenge https://tinyurl.com/awyu55ys MAR 28
+- [ ] ACTION GRANTS https://www.theyouthharbour.org/action-grants/ MAR 26
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 
 ## APR
@@ -385,11 +401,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UNICEF Equity-Free Funding https://tinyurl.com/ycxkxpx9 APR 20
 - [ ] CHEGG PRIZE https://www.chegg.org/global-student-prize-2024-winner APRIL 10 
 - [ ] Global Leadership & Business Certification https://tinyurl.com/5vuskkj4 APR 10
-- [ ]  Youth Leader Fund (YLF)  https://tinyurl.com/2wjn7kxu APR 1
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Youth Leader Fund (YLF)  https://tinyurl.com/2wjn7kxu APR 1
+- [ ] The GSMA Innovation Fund https://tinyurl.com/yc2atxr4 APR 5
+- [ ] UNESCO-Al Fozan International Prize https://tinyurl.com/sjnwv5k9 APR 6
+- [ ] Race Equity Grants https://tinyurl.com/bdcpuvas APR 7
+- [ ] Youth4Climate https://tinyurl.com/55jxkv76 APR 18
 - [ ] 
 
 
@@ -648,7 +664,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] DeepSeek Debates https://semianalysis.com/2025/01/31/deepseek-debates/
 - [ ] DeepSeek might not be as disruptive as claimed https://tinyurl.com/2zwcj4hm
 - [ ] NETHERMIND PROJECTS - https://tinyurl.com/mv279ffa
-- [ ] 
+- [ ] 10 useful GitHub repos https://tinyurl.com/yx5kj4rv
 - [ ] 
 - [ ] 
 - [ ] 
