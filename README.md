@@ -270,119 +270,75 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 
 ## MAR
-- [ ] World IP Day Youth Video Competition MAR 4
-- [ ] Charity Entrepreneurship Incubation https://tinyurl.com/975ptyy7 MAR 14
-- [ ] Summer School on Digital and Green Transitions https://tinyurl.com/449p955t MAR 6
-- [ ] IAISS  2025 https://2025.iaiss.cc/ MAR 14
-- [ ] Youth Climate Action Fund https://tinyurl.com/2vajfxy8 MAR 8
-- [ ] UToronto   https://tinyurl.com/yckuhkku MAR 13
-- [ ] Africa Oxford Health Innovation https://tinyurl.com/ff42kwbn MAR 7
-- [ ] Headstream Accelerator https://tinyurl.com/yemt57c2 MAR 6
-- [ ] essai2025  https://essai2025.eu/ MAR 6
-- [ ] Bonn SDG Fellowship https://tinyurl.com/yrdstfcs MAR 14
-- [ ] The Black Hat Asia 2025 https://www.blackhat.com/asia-25/scholarships.html MAR 2
-- [ ] GSOC - https://summerofcode.withgoogle.com/ MAR 20
-- [ ] RAISE AFRICA - https://tinyurl.com/4uw47w3h MAR 6
-- [ ] CloudFest Hackathon https://tinyurl.com/4fmf2nzy MAR 2
-- [ ] Digital and Green Transition - https://tinyurl.com/449p955t MAR 8
-- [ ] University College Dublin (UCD) - https://lnkd.in/g4swEmtZ  MAR 6
-- [ ] Cambridge - Africa Climate Research - https://tinyurl.com/yajtc366 MAR 3
-- [ ] IDRIS Open Hackathon - https://tinyurl.com/4tc28nbk MAR 26
-- [ ] Eastern European Machine Learning Summer School - https://www.eeml.eu/ MAR 18
 - [ ] VISA Accelerator https://tinyurl.com/y4kx5eat MAR 1
-- [ ] NGO Whisperer-global-fellowship https://tinyurl.com/5dyh97uw MAR 11
-- [ ] Foodtech Innovations-awards - https://tinyurl.com/4pbhnw7a MAR 26
-- [ ] Canada Cultural Exchange - https://tinyurl.com/yc6s93b3 Mar 10
-- [ ] AYFN JAPAN Summer Culture Camp - https://tinyurl.com/5n94jjtd MAR 20
-- [ ] AYFN Summer Korean Culture Camp https://tinyurl.com/audd3drk MAR 20
-- [ ] PDMA Annual Conference - https://tinyurl.com/ymw828fb MAR 10
-- [ ] Summer School on Digital and Green Transitions https://tinyurl.com/3esmxpev MAR 3
-- [ ] Global Innovation Fund - https://www.globalinnovation.fund/apply-for-funding MAR 10
-- [ ] PDMA Ignite Innovation Summit - https://tinyurl.com/yeb62php MAR 18
-- [ ] Academia Sinica https://tinyurl.com/3h3s8bf4 MAR 2
-- [ ] The 34th Jyväskylä Summer School - https://tinyurl.com/22j6277a MAR 16
-- [ ] ICVSS 2025 https://iplab.dmi.unict.it/icvss/ MAR 16
-- [ ] EEML Summer School https://tinyurl.com/yn6byjha MAR 11
-- [ ] NSTC - https://tinyurl.com/yj2ej5as MAR 13
-- [ ] NIMS https://tinyurl.com/yc6h2uvr HOST AGAIN  MAR 18
-- [ ] AWS Club Captain - http://s12d.com/students http://s12d.com/students MAR 3
-- [ ] TOEFL Challenge - https://tinyurl.com/u8sch883 MAR 6
-- [ ] Open Ended H - https://tinyurl.com/u8sch883
 - [ ] The KBF Africa Prize https://kbfafrica.org/the-prize/ MAR 1
-- [ ] French-African https://french-african.org/young-leaders/ MAR 16
-- [ ] Nelson Mandela - Graça Machel Innovation Awards https://tinyurl.com/3ny399az MAR 4
-- [ ] YoutHX - https://www.youthxyouth.com/programs/weavership MAR 3
-- [ ] The GBEP Youth Award https://tinyurl.com/yxntc9v4 MAR 30
-- [ ] Live Redisdency https://www.livetheresidency.com/ MAR 9
 - [ ] 2025 Commonwealth Day https://tinyurl.com/3wrc6z73 MAR 1 
+- [ ] The Black Hat Asia 2025 https://www.blackhat.com/asia-25/scholarships.html MAR 2
+- [ ] CloudFest Hackathon https://tinyurl.com/4fmf2nzy MAR 2
+- [ ] Academia Sinica https://tinyurl.com/3h3s8bf4 MAR 2
+- [ ] Cambridge - Africa Climate Research - https://tinyurl.com/yajtc366 MAR 3
+- [ ] Summer School on Digital and Green Transitions https://tinyurl.com/3esmxpev MAR 3
 - [ ] Erasmus SS+ https://tinyurl.com/ypev8txd MAR 3
 - [ ] IEEE Entrepreneurship Summit https://tinyurl.com/bz9yyxbb MAR 3
-- [ ] AfriLabs Nairobi - https://tinyurl.com/2pkfmaeu MAR 9
+- [ ] YoutHX - https://www.youthxyouth.com/programs/weavership MAR 3
+- [ ] AWS Club Captain - http://s12d.com/students http://s12d.com/students MAR 3
+- [ ] Nelson Mandela - Graça Machel Innovation Awards https://tinyurl.com/3ny399az MAR 4
+- [ ] World IP Day Youth Video Competition MAR 4
+- [ ] GSOC - https://summerofcode.withgoogle.com/ MAR 20
+- [ ] French-African https://french-african.org/young-leaders/ MAR 16
 - [ ] YIL - https://younginnovationleaders.org/application-portal/ MAR 9
-- [ ] YC Summer Fellows - https://www.ycombinator.com/blog/summer-fellows MAR 17
-- [ ] YC X25 https://www.ycombinator.com/apply MAR 16
-- [ ] Nordic AI - https://nordic.probabilistic.ai/ MAR 6
-- [ ] SUI - https://tinyurl.com/37mfh9af MAR 14
-- [ ] DevP - https://tinyurl.com/5fvsx7at MAR 10
+- [ ] AfriLabs Nairobi - https://tinyurl.com/2pkfmaeu MAR 9
 - [ ] ISOC Community Fellowship https://tinyurl.com/yyc55yha MAR 9
 - [ ] GSMA https://tinyurl.com/yc2atxr4 MAR 9
-- [ ] CAPACITY Fellowship https://wp.me/p23f03-dce MAR 14
+- [ ] Swiss Summer Student https://tinyurl.com/re5juxw2 MAR 9
+- [ ] Live Redisdency https://www.livetheresidency.com/ MAR 9
 - [ ] GLF Landscape Leadership Camp https://wp.me/p23f03-cZ0 MAR 10
 - [ ] KU Leuven Summer School https://wp.me/p23f03-d9k MAR 10
 - [ ] Sustainable Agriculture vISIT - https://wp.me/p23f03-d8d MAR 11
-- [ ] EU4Ocean Summer School https://wp.me/p23f03-d9e MAR 12
-- [ ] NCHR Intensive Course in Human Rights  https://wp.me/p23f03-d9h MAR 20
-- [ ] Armament & Disarmament Summer School http://wp.me/p23f03-dcX MAR 22
-- [ ] Swiss Summer Student https://tinyurl.com/re5juxw2 MAR 9
-- [ ] ASPIRE Summer Student Program https://tinyurl.com/b2xj45sc MAR 6
-- [ ] Alpbach 2025 https://tinyurl.com/4nwws784 MAR 11
-- [ ] ICIQ Spain  https://tinyurl.com/yyranktp MAR 12
-- [ ] M2L Summer School https://tinyurl.com/c3ja8d8n MAR 15
-- [ ] SK Global Scholarship https://tinyurl.com/2jtf4468 MAR 16
-- [ ] GCYLP https://tinyurl.com/yam4pbt4 MAR 21
-- [ ] Hayden Academy https://tinyurl.com/mrxr9uz2 MAR 11
-- [ ] RIKEN RIH Summer https://tinyurl.com/2zn8fb7h MAR 13
-- [ ] Spacecoin https://tinyurl.com/2msfx7na  MAR 16
-- [ ] CIF Call 2025 https://tinyurl.com/4sbzsvys MAR 28
-- [ ] CAD EXCHANGE Canada – Cultural Exchange Program 
-- [ ] WeRise Grant https://tinyurl.com/yc4ak4kf MAR 12
-- [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk MAR 17
-- [ ] Indigenous Peoples Resilience Fund 2025 https://tinyurl.com/24wh52xd MAR 18
-- [ ] Grants for Good https://tinyurl.com/2w7cyza6 MAR 16
+- [ ] NGO Whisperer-global-fellowship https://tinyurl.com/5dyh97uw MAR 11
 - [ ] GSMA Innovation Fund for Impactful AI https://tinyurl.com/3teymdat MAR 11
 - [ ] Youth Climate Action Fund https://tinyurl.com/2ay2e2ew MAR 11
-- [ ] Danida Fellows Networkers Grant https://tinyurl.com/bddjkkth   MAR 13
-- [ ] Hackathon - IEEE Africa https://tinyurl.com/y5sxts4p (INFO SESSION)  MAR 24 
-- [ ] IEEEXtreme Student Ambassador https://tinyurl.com/43hmve9a MAR 26
-- [ ] YC Fellows https://tinyurl.com/yb9bej3m MAR 21
+- [ ] Alpbach 2025 https://tinyurl.com/4nwws784 MAR 11
+- [ ] Hayden Academy https://tinyurl.com/mrxr9uz2 MAR 11
+- [ ] Danida Fellows Networkers Grant https://tinyurl.com/bddjkkth MAR 13
+- [ ] NSTC - https://tinyurl.com/yj2ej5as MAR 13
+- [ ] RIKEN RIH Summer https://tinyurl.com/2zn8fb7h MAR 13
+- [ ] UToronto   https://tinyurl.com/yckuhkku MAR 13
+- [ ] CAPACITY Fellowship https://wp.me/p23f03-dce MAR 14
+- [ ] IAISS  2025 https://2025.iaiss.cc/ MAR 14
+- [ ] Bonn SDG Fellowship https://tinyurl.com/yrdstfcs MAR 14
+- [ ] SUI - https://tinyurl.com/37mfh9af MAR 14
+- [ ] M2L Summer School https://tinyurl.com/c3ja8d8n MAR 15
+- [ ] SK Global Scholarship https://tinyurl.com/2jtf4468 MAR 16
+- [ ] French-African https://french-african.org/young-leaders/ MAR 16
+- [ ] Spacecoin https://tinyurl.com/2msfx7na  MAR 16
+- [ ] YC X25 https://www.ycombinator.com/apply MAR 16
+- [ ] Eastern European Machine Learning Summer School - https://www.eeml.eu/ MAR 18
+- [ ] NIMS https://tinyurl.com/yc6h2uvr HOST AGAIN  MAR 18
+- [ ] AFRICA STARTUP FORUM 2025 https://tinyurl.com/2eyxf9zf MAR 18
+- [ ] PDMA Ignite Innovation Summit - https://tinyurl.com/yeb62php MAR 18
+- [ ] KendoReact https://tinyurl.com/vd63e9ju MAR 19
+- [ ] UC San Diego International Summer https://tinyurl.com/3mumkr8p MAR 20
+- [ ] GSOC - https://summerofcode.withgoogle.com/ MAR 20
+- [ ] AYFN JAPAN Summer Culture Camp - https://tinyurl.com/5n94jjtd MAR 20
+- [ ] AYFN Summer Korean Culture Camp https://tinyurl.com/audd3drk MAR 20
 - [ ] Young Leaders program https://lnkd.in/dB6rKPmH MAR 21
-- [ ] Spain CNIO Summer Training https://tinyurl.com/2rdvz8ys MAR 20
+- [ ] YC Fellows https://tinyurl.com/yb9bej3m MAR 21
+- [ ] GCYLP https://tinyurl.com/yam4pbt4 MAR 21
+- [ ] COP30 BRAZIL FUNDING https://tinyurl.com/5s9np9s2 MAR 21
+- [ ] EU4Ocean Summer School https://wp.me/p23f03-d9e MAR 12
+- [ ] Indigenous Peoples Resilience Fund 2025 https://tinyurl.com/24wh52xd MAR 18
+- [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk MAR 17
 - [ ] EEML Summer School https://tinyurl.com/yn6byjha MAR 23 
 - [ ] Armament and Disarmament Summer School https://tinyurl.com/3zasa8k4 MAR 25
 - [ ] UIS START-UP REQUEST https://tally.so/r/w5vydQ MAR 26
-- [ ] KendoReact https://tinyurl.com/vd63e9ju MAR 19
-- [ ] UC San Diego International Summer https://tinyurl.com/3mumkr8p MAR 20
-- [ ] Global AI Agents League https://tinyurl.com/5fvsx7at MAR 24
-- [ ] AFRICA STARTUP FORUM 2025 https://tinyurl.com/2eyxf9zf MAR 18
-- [ ] UN Youth Biosecurity Fellowship  https://tinyurl.com/ybuv3e2p MAR 26
-- [ ] OIST program https://tinyurl.com/34cfxzst MAR 30
-- [ ] Climate Mobility Fellowship (CMF) 2025 https://lnkd.in/dCCTZtkJ MAR 13
-- [ ] COP30 BRAZIL FUNDING https://tinyurl.com/5s9np9s2 MAR 21
-- [ ] Buzuzu-Mavi Challenge https://tinyurl.com/awyu55ys MAR 28
+- [ ] IDRIS Open Hackathon - https://tinyurl.com/4tc28nbk MAR 26
+- [ ] IEEEXtreme Student Ambassador https://tinyurl.com/43hmve9a MAR 26
 - [ ] ACTION GRANTS https://www.theyouthharbour.org/action-grants/ MAR 26
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Buzuzu-Mavi Challenge https://tinyurl.com/awyu55ys MAR 28
+- [ ] CIF Call 2025 https://tinyurl.com/4sbzsvys MAR 28
+- [ ] The GBEP Youth Award https://tinyurl.com/yxntc9v4 MAR 30
+- [ ] OIST program https://tinyurl.com/34cfxzst MAR 30
 
 
 ## APR
