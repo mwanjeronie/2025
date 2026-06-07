@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bananas — Everything About the World's Favorite Fruit</title>
+  <meta name="description" content="A simple, friendly site all about bananas: facts, nutrition, fun trivia, and a quick ripeness guide." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍌</text></svg>" />
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav">
+      <a class="brand" href="#top">🍌 Bananas</a>
+      <ul class="nav-links">
+        <li><a href="#facts">Facts</a></li>
+        <li><a href="#nutrition">Nutrition</a></li>
+        <li><a href="#ripeness">Ripeness</a></li>
+        <li><a href="#trivia">Trivia</a></li>
+      </ul>
+    </nav>
+
+    <div class="hero-content" id="top">
+      <h1>Everything is better with <span class="highlight">bananas</span>.</h1>
+      <p class="subtitle">
+        The world's most popular fruit — naturally sweet, wonderfully portable,
+        and packed with goodness. Let's peel back the layers.
+      </p>
+      <a class="cta" href="#facts">Discover more</a>
+    </div>
+    <div class="hero-banana" aria-hidden="true">🍌</div>
+  </header>
+
+  <main>
+    <section id="facts" class="section">
+      <h2>Quick Facts</h2>
+      <div class="cards">
+        <article class="card">
+          <div class="card-icon">🌍</div>
+          <h3>Globally Loved</h3>
+          <p>Over 100 billion bananas are eaten worldwide every year, making them one of the most consumed fruits on Earth.</p>
+        </article>
+        <article class="card">
+          <div class="card-icon">🌿</div>
+          <h3>Technically a Berry</h3>
+          <p>Botanically speaking, bananas are berries — and the plants they grow on are giant herbs, not trees.</p>
+        </article>
+        <article class="card">
+          <div class="card-icon">🧬</div>
+          <h3>Mostly Cavendish</h3>
+          <p>The vast majority of bananas exported around the world are a single variety: the Cavendish.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="nutrition" class="section section-alt">
+      <h2>Nutrition</h2>
+      <p class="section-intro">A medium banana (about 118g) is a tasty source of energy and key nutrients.</p>
+      <div class="nutrition-grid">
+        <div class="stat"><span class="stat-num">105</span><span class="stat-label">Calories</span></div>
+        <div class="stat"><span class="stat-num">27g</span><span class="stat-label">Carbs</span></div>
+        <div class="stat"><span class="stat-num">3g</span><span class="stat-label">Fiber</span></div>
+        <div class="stat"><span class="stat-num">422mg</span><span class="stat-label">Potassium</span></div>
+        <div class="stat"><span class="stat-num">1.3g</span><span class="stat-label">Protein</span></div>
+        <div class="stat"><span class="stat-num">10%</span><span class="stat-label">Daily Vit. C</span></div>
+      </div>
+    </section>
+
+    <section id="ripeness" class="section">
+      <h2>Ripeness Guide</h2>
+      <p class="section-intro">Pick the perfect banana for the job — tap a stage to learn more.</p>
+      <div class="ripeness" id="ripeness-track">
+        <button class="ripe-stage" data-tip="Starchy and firm — great for cooking and frying.">
+          <span class="ripe-emoji">🍈</span><span>Green</span>
+        </button>
+        <button class="ripe-stage" data-tip="Sweet, firm, and easy to peel — the everyday favorite.">
+          <span class="ripe-emoji">🍌</span><span>Yellow</span>
+        </button>
+        <button class="ripe-stage" data-tip="Extra sweet with brown speckles — perfect for snacking.">
+          <span class="ripe-emoji">🟡</span><span>Speckled</span>
+        </button>
+        <button class="ripe-stage" data-tip="Soft and rich — ideal for banana bread and smoothies.">
+          <span class="ripe-emoji">🟤</span><span>Brown</span>
+        </button>
+      </div>
+      <p class="ripe-tip" id="ripe-tip">Tap a stage above to see what it's best for.</p>
+    </section>
+
+    <section id="trivia" class="section section-alt">
+      <h2>Fun Trivia</h2>
+      <blockquote class="trivia" id="trivia-box">Click the button for a random banana fact!</blockquote>
+      <button class="cta" id="trivia-btn">Give me a fact 🍌</button>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Made with 🍌 and a little curiosity. This is a simple demo site.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

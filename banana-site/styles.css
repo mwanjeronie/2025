@@ -1,0 +1,298 @@
+:root {
+  --banana: #ffe135;
+  --banana-deep: #f5c518;
+  --peel: #6b8e23;
+  --ink: #2b2515;
+  --cream: #fffaf0;
+  --cream-alt: #fff4d6;
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  color: var(--ink);
+  background: var(--cream);
+  line-height: 1.6;
+}
+
+/* ---------- Hero ---------- */
+.hero {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, var(--banana) 0%, var(--banana-deep) 100%);
+  padding-bottom: 5rem;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 1.25rem clamp(1rem, 5vw, 4rem);
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.brand {
+  font-size: 1.4rem;
+  font-weight: 800;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.nav-links {
+  display: flex;
+  gap: clamp(0.75rem, 3vw, 2rem);
+  list-style: none;
+}
+
+.nav-links a {
+  text-decoration: none;
+  font-weight: 600;
+  color: var(--ink);
+  opacity: 0.85;
+  transition: opacity 0.2s;
+}
+
+.nav-links a:hover {
+  opacity: 1;
+}
+
+.hero-content {
+  max-width: 720px;
+  margin: clamp(2rem, 8vw, 5rem) auto 0;
+  padding: 0 clamp(1rem, 5vw, 4rem);
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+
+.hero-content h1 {
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  line-height: 1.1;
+  letter-spacing: -1px;
+}
+
+.highlight {
+  background: var(--ink);
+  color: var(--banana);
+  padding: 0 0.3rem;
+  border-radius: 6px;
+}
+
+.subtitle {
+  margin: 1.25rem auto 0;
+  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  max-width: 540px;
+  opacity: 0.85;
+}
+
+.cta {
+  display: inline-block;
+  margin-top: 2rem;
+  background: var(--ink);
+  color: var(--banana);
+  font-weight: 700;
+  text-decoration: none;
+  padding: 0.85rem 1.75rem;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.cta:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow);
+}
+
+.hero-banana {
+  position: absolute;
+  right: -2rem;
+  bottom: -3rem;
+  font-size: clamp(8rem, 25vw, 18rem);
+  opacity: 0.18;
+  transform: rotate(-15deg);
+  user-select: none;
+  z-index: 1;
+}
+
+/* ---------- Sections ---------- */
+.section {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: clamp(3rem, 8vw, 5rem) clamp(1rem, 5vw, 4rem);
+}
+
+.section-alt {
+  background: var(--cream-alt);
+  max-width: none;
+}
+
+.section-alt > * {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section h2 {
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.section-intro {
+  text-align: center;
+  opacity: 0.75;
+  margin-bottom: 2.5rem;
+}
+
+/* ---------- Cards ---------- */
+.cards {
+  margin-top: 2.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+}
+
+.card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 2rem 1.5rem;
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(0, 0, 0, 0.04);
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+}
+
+.card-icon {
+  font-size: 2.5rem;
+}
+
+.card h3 {
+  margin: 0.75rem 0 0.5rem;
+}
+
+.card p {
+  opacity: 0.8;
+  font-size: 0.95rem;
+}
+
+/* ---------- Nutrition ---------- */
+.nutrition-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 1.25rem;
+}
+
+.stat {
+  background: #fff;
+  border-radius: 16px;
+  padding: 1.75rem 1rem;
+  text-align: center;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.stat-num {
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--peel);
+}
+
+.stat-label {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  opacity: 0.7;
+}
+
+/* ---------- Ripeness ---------- */
+.ripeness {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.ripe-stage {
+  flex: 1 1 140px;
+  max-width: 180px;
+  background: #fff;
+  border: 2px solid transparent;
+  border-radius: 16px;
+  padding: 1.5rem 1rem;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 600;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  box-shadow: var(--shadow);
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.ripe-stage:hover {
+  transform: translateY(-4px);
+}
+
+.ripe-stage.active {
+  border-color: var(--banana-deep);
+}
+
+.ripe-emoji {
+  font-size: 2.25rem;
+}
+
+.ripe-tip {
+  margin-top: 1.75rem;
+  text-align: center;
+  font-size: 1.1rem;
+  min-height: 1.6em;
+  opacity: 0.85;
+}
+
+/* ---------- Trivia ---------- */
+.trivia {
+  background: #fff;
+  border-left: 6px solid var(--banana-deep);
+  border-radius: 12px;
+  padding: 1.5rem;
+  font-size: 1.15rem;
+  max-width: 640px;
+  margin: 0 auto 1.75rem;
+  text-align: center;
+  font-style: italic;
+}
+
+#trivia-btn {
+  display: block;
+  margin: 0 auto;
+}
+
+/* ---------- Footer ---------- */
+.footer {
+  text-align: center;
+  padding: 2.5rem 1rem;
+  background: var(--ink);
+  color: var(--cream);
+  font-size: 0.9rem;
+}
