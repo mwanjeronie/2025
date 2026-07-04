@@ -22,15 +22,18 @@ W, H = 480, 360
 FRAMES = 100
 FPS = 20
 
-# --- triangular peak geometry -------------------------------------------------
-RIDGE_Y = 196          # height of the small summit
-SL = (168, RIDGE_Y)    # summit left
-EDGE = (300, RIDGE_Y)  # summit right = the cliff edge (drop-off)
-BL = (44, 340)         # base left
-BR = (452, 340)        # base right
-NOTCH = (296, 236)     # slight steep lip just below the edge
+# --- cliff geometry -----------------------------------------------------------
+# A solid, flat-topped cliff whose face is angled (< 90deg from horizontal),
+# so the cliff mass reads as a triangular wedge. The man sits on the top edge.
+TOP_Y = 224            # height of the flat cliff top
+TOP_LEFT = (-4, TOP_Y) # flat top runs off the left edge of the frame
+EDGE = (302, TOP_Y)    # top edge / apex where the man sits (drop-off)
+FACE_BOT = (232, H)    # bottom of the sloped face (leans back to the left)
 
-HIP = (258, RIDGE_Y - 2)   # hip / pivot point on the summit
+RIDGE_Y = TOP_Y        # kept for the rain-splash test below
+SL = (60, TOP_Y)       # left end of the sit/lie surface (splash region start)
+
+HIP = (256, TOP_Y - 2)     # hip / pivot point on the cliff top
 FIG_COL = (16, 15, 22)     # silhouette colour
 
 random.seed(11)
@@ -85,53 +88,43 @@ def sky_color_at(sky_img, y):
     return sky_img.getpixel((W // 2, int(max(0, min(H - 1, y)))))
 
 
-def draw_distant_ranges(img, sky_img, rain):
-    """Two faint mountain ranges near the horizon for aerial depth."""
-    haze = sky_color_at(sky_img, 210)
-    for (pts, mix, blur) in [
-        ([(0, 214), (120, 176), (250, 208), (360, 168), (480, 206),
-          (480, 260), (0, 260)], 0.62, 5),
-        ([(0, 224), (90, 198), (210, 222), (330, 196), (440, 224),
-          (480, 220), (480, 270), (0, 270)], 0.78, 7),
-    ]:
-        layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-        col = blend((60, 54, 82), haze, mix)
-        ImageDraw.Draw(layer).polygon(pts, fill=col + (255,))
-        layer = layer.filter(ImageFilter.GaussianBlur(blur))
-        img.paste(Image.alpha_composite(img.convert("RGBA"), layer).convert("RGB"),
-                  (0, 0))
+def draw_far_land(img, sky_img, rain):
+    """A faint, low land line across the valley to sell the height/drop."""
+    haze = sky_color_at(sky_img, 250)
+    layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    pts = [(EDGE[0], 258), (360, 250), (420, 256), (480, 248),
+           (480, 300), (EDGE[0], 300)]
+    col = blend((60, 54, 82), haze, 0.72)
+    ImageDraw.Draw(layer).polygon(pts, fill=col + (255,))
+    layer = layer.filter(ImageFilter.GaussianBlur(6))
+    img.paste(Image.alpha_composite(img.convert("RGBA"), layer).convert("RGB"),
+              (0, 0))
 
 
-def draw_peak(img, sky_img, rain):
-    """The main triangular cliff peak, hazed toward the sky near its base."""
-    base_rock = blend((44, 40, 64), (18, 20, 30), rain)
-    haze = sky_color_at(sky_img, 300)
-    rock = blend(base_rock, haze, 0.28)
+def draw_cliff(img, sky_img, rain):
+    """Solid flat-topped cliff with an angled face (a triangular wedge)."""
+    rock = blend((40, 36, 58), (20, 21, 31), rain)
 
-    peak = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    pd = ImageDraw.Draw(peak)
-    outline = [SL, EDGE, NOTCH, BR, BL]
-    pd.polygon(outline, fill=rock + (255,))
+    cliff = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    cd = ImageDraw.Draw(cliff)
+    # top-left flat surface -> top edge -> angled face down to the base -> bottom
+    outline = [TOP_LEFT, EDGE, FACE_BOT, (-4, H)]
+    cd.polygon(outline, fill=rock + (255,))
 
-    # lit rim along the sunlit right ridge + summit
-    rim = blend((150, 120, 150), (86, 90, 104), rain)
-    pd.line([SL, EDGE, NOTCH], fill=rim + (255,), width=3)
+    # lit rim along the flat top (the horizontal edge)
+    rim = blend((150, 120, 150), (88, 92, 106), rain)
+    cd.line([TOP_LEFT, EDGE], fill=rim + (255,), width=3)
+    # subtly brighter catch-light down the sloped face
+    face_lit = blend(rock, rim, 0.35)
+    cd.line([EDGE, FACE_BOT], fill=face_lit + (200,), width=2)
 
-    # a few darker rock striations for a bit of texture
-    strat = blend(base_rock, (0, 0, 0), 0.25)
-    for (x0, y0, x1, y1) in [(150, 250, 250, 300), (300, 260, 400, 320),
-                             (90, 300, 200, 336)]:
-        pd.line([x0, y0, x1, y1], fill=strat + (120,), width=2)
+    # a few darker rock striations following the slope for texture
+    strat = blend(rock, (0, 0, 0), 0.3)
+    for (x0, y0, x1, y1) in [(60, 250, 150, 300), (150, 270, 230, 330),
+                             (30, 300, 120, 350)]:
+        cd.line([x0, y0, x1, y1], fill=strat + (120,), width=2)
 
-    # aerial haze: fade the base into the atmosphere
-    hz = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    hd = ImageDraw.Draw(hz)
-    for y in range(RIDGE_Y + 40, 341):
-        a = int(150 * clamp01((y - (RIDGE_Y + 40)) / (341 - (RIDGE_Y + 40))))
-        hd.line([(0, y), (W, y)], fill=sky_color_at(sky_img, y) + (a,))
-    peak = Image.alpha_composite(peak, hz)
-
-    img.paste(Image.alpha_composite(img.convert("RGBA"), peak).convert("RGB"),
+    img.paste(Image.alpha_composite(img.convert("RGBA"), cliff).convert("RGB"),
               (0, 0))
 
 
@@ -312,8 +305,8 @@ def main():
 
         frame = sky(rain_i)
         sky_img = frame.copy()
-        draw_distant_ranges(frame, sky_img, rain_i)
-        draw_peak(frame, sky_img, rain_i)
+        draw_far_land(frame, sky_img, rain_i)
+        draw_cliff(frame, sky_img, rain_i)
         frame = frame.convert("RGBA")
         frame = Image.alpha_composite(frame, draw_figure(t, f, idle, rain_i))
         if rain_i > 0:
